@@ -359,12 +359,19 @@ def build_feed(vehicles):
     rss = ET.Element("rss", {
         "version": "2.0",
         "xmlns:g": "http://base.google.com/ns/1.0",
+        "xmlns:atom": "http://www.w3.org/2005/Atom",
     })
     channel = ET.SubElement(rss, "channel")
 
     ET.SubElement(channel, "title").text       = "Rohne Selmer — Bruktbiler"
     ET.SubElement(channel, "link").text        = BASE_URL
     ET.SubElement(channel, "description").text = "Bruktbil-lager fra Rohne Selmer"
+
+    # Atom self-link — required for Meta/RSS validation
+    atom_link = ET.SubElement(channel, "atom:link")
+    atom_link.set("href", "https://robask.github.io/rohneselmer-feed/rohneselmer_feed.xml")
+    atom_link.set("rel", "self")
+    atom_link.set("type", "application/rss+xml")
 
     for v in vehicles:
         if not v:
