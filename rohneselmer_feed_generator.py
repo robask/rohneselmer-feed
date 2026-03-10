@@ -419,9 +419,14 @@ def build_feed(vehicles):
         # ── Google product category for vehicles ─────────
         add("google_product_category", "916")  # Vehicles & Parts > Vehicles > Motor Vehicles
 
-    # Pretty-print XML
+    # Pretty-print XML — manually inject namespaces so Meta accepts it
     xml_str = ET.tostring(rss, encoding="unicode")
-    reparsed = minidom.parseString(xml_str)
+    # ET strips custom namespaces from root element, so we inject them manually
+    xml_str = xml_str.replace(
+        '<rss version="2.0">',
+        '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom">'
+    )
+    reparsed = minidom.parseString(xml_str.encode("utf-8"))
     return reparsed.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
 
 
