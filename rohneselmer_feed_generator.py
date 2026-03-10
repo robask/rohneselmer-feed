@@ -356,78 +356,62 @@ def scrape_vehicle(url):
 def build_feed(vehicles):
     """Generate Google Merchant Center + Meta compatible XML feed."""
 
-    rss = ET.Element("rss", {
-        "version": "2.0",
-        "xmlns:g": "http://base.google.com/ns/1.0",
-        "xmlns:atom": "http://www.w3.org/2005/Atom",
-    })
-    channel = ET.SubElement(rss, "channel")
+    # Build XML manually as string to guarantee namespaces are preserved
+    lines = []
+    lines.append('<?xml version="1.0" encoding="UTF-8"?>')
+    lines.append('<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom">')
+    lines.append('  <channel>')
+    lines.append('    <title>Rohne Selmer — Bruktbiler</title>')
+    lines.append(f'    <link>{BASE_URL}</link>')
+    lines.append('    <description>Bruktbil-lager fra Rohne Selmer</description>')
+    lines.append('    <atom:link href="https://robask.github.io/rohneselmer-feed/rohneselmer_feed.xml" rel="self" type="application/rss+xml"/>')
 
-    ET.SubElement(channel, "title").text       = "Rohne Selmer — Bruktbiler"
-    ET.SubElement(channel, "link").text        = BASE_URL
-    ET.SubElement(channel, "description").text = "Bruktbil-lager fra Rohne Selmer"
-
-    # Atom self-link — required for Meta/RSS validation
-    atom_link = ET.SubElement(channel, "atom:link")
-    atom_link.set("href", "https://robask.github.io/rohneselmer-feed/rohneselmer_feed.xml")
-    atom_link.set("rel", "self")
-    atom_link.set("type", "application/rss+xml")
+    def esc(val):
+        if not val:
+            return ""
+        return str(val).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
     for v in vehicles:
         if not v:
             continue
+        lines.append('    <item>')
 
-        item = ET.SubElement(channel, "item")
-
-        def add(tag, value, ns="g"):
+        def field(tag, value):
             if value:
-                el = ET.SubElement(item, f"{ns}:{tag}" if ns else tag)
-                el.text = str(value)
+                lines.append(f'      <g:{tag}>{esc(value)}</g:{tag}>')
 
-        # ── Required fields ──────────────────────────────
-        add("id",           v["id"])
-        add("title",        v["title"])
-        add("description",  v["description"] or v["title"])
-        add("link",         v["url"])
-        add("image_link",   v["main_image"])
-        add("availability", v["availability"])
-        add("condition",    v["condition"])
-        add("price",        v["price"] or "0 NOK")
-
-        # ── Vehicle-specific fields ───────────────────────
-        if v["brand"]:        add("brand",                    v["brand"])
-        if v["model"]:        add("model",                    v["model"])
-        if v["year"]:         add("vehicle_year",             v["year"])
-        if v["vin"]:          add("gtin",                     v["vin"])
-        if v["mileage"]:      add("mileage",                  f"{v['mileage']} km")
-        if v["fuel_type"]:    add("fuel_type",                v["fuel_type"])
-        if v["transmission"]: add("transmission",             v["transmission"])
-        if v["body_type"]:    add("body_style",               v["body_type"])
-        if v["color"]:        add("color",                    v["color"])
-        if v["drive_type"]:   add("drive_wheel_configuration",v["drive_type"])
-
-        # ── Extra vehicle details ────────────────────────
-        if v["doors"]:       add("number_of_doors",  v["doors"])
-        if v["horsepower"]:  add("horsepower",        v["horsepower"])
-        if v["engine_size"]: add("engine_size",       v["engine_size"])
-        if v["seats"]:       add("number_of_seats",   v["seats"])
-
-        # ── Additional images (up to 9 extra) ────────────
+        field("id",           v["id"])
+        field("title",        v["title"])
+        field("description",  v["description"] or v["title"])
+        field("link",         v["url"])
+        field("image_link",   v["main_image"])
+        field("availability", v["availability"])
+        field("condition",    v["condition"])
+        field("price",        (v["price"] or "0") + " NOK")
+        field("brand",        v["brand"])
+        field("model",        v["model"])
+        field("vehicle_year", v["year"])
+        field("gtin",         v["vin"])
+        if v["mileage"]:
+            field("mileage",  v["mileage"] + " km")
+        field("fuel_type",                 v["fuel_type"])
+        field("transmission",              v["transmission"])
+        field("body_style",                v["body_type"])
+        field("color",                     v["color"])
+        field("drive_wheel_configuration", v["drive_type"])
+        field("number_of_doors",           v["doors"])
+        field("horsepower",                v["horsepower"])
+        field("engine_size",               v["engine_size"])
+        field("number_of_seats",           v["seats"])
         for img in v["extra_images"][:9]:
-            add("additional_image_link", img)
+            field("additional_image_link", img)
+        field("google_product_category", "916")
 
-        # ── Google product category for vehicles ─────────
-        add("google_product_category", "916")  # Vehicles & Parts > Vehicles > Motor Vehicles
+        lines.append('    </item>')
 
-    # Pretty-print XML — manually inject namespaces so Meta accepts it
-    xml_str = ET.tostring(rss, encoding="unicode")
-    # ET strips custom namespaces from root element, so we inject them manually
-    xml_str = xml_str.replace(
-        '<rss version="2.0">',
-        '<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom">'
-    )
-    reparsed = minidom.parseString(xml_str.encode("utf-8"))
-    return reparsed.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
+    lines.append('  </channel>')
+    lines.append('</rss>')
+    return "\n".join(lines)
 
 
 # ══════════════════════════════════════════════════════════
