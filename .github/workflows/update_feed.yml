@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add rohneselmer_feed.xml
+          git add -A
           git commit -m "Update feed $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "No changes"
           git push
