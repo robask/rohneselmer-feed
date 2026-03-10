@@ -476,3 +476,10 @@ if __name__ == "__main__":
 #     → GitHub Pages gives you a free public URL!
 #
 # ══════════════════════════════════════════════════════════
+2026-03-10 15:04:12,880 [INFO] ============================================================
+2026-03-10 15:04:12,881 [INFO] Feed generation started: 2026-03-10 15:04:12.881088
+2026-03-10 15:04:12,881 [INFO] ============================================================
+2026-03-10 15:04:12,881 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-03-10 15:04:13,766 [ERROR] Error reading sitemap 1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-03-10 15:04:13,767 [INFO] Total vehicle URLs found: 0
+2026-03-10 15:04:13,767 [ERROR] No vehicle URLs found. Exiting.
