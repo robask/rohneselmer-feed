@@ -242,7 +242,7 @@ def scrape_vehicle(url):
 
     # Price
     price_raw = extract_price(soup)
-    price = f"{price_raw} NOK" if price_raw else None
+    price = price_raw if price_raw else None
 
     # Images
     images = extract_images(soup, BASE_URL)
