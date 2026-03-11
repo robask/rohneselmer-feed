@@ -54,14 +54,10 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/123.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "nb-NO,nb;q=0.9,no;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Cache-Control": "max-age=0",
+                  "Chrome/120.0.0.0 Safari/537.36",
+    "Accept-Language": "nb-NO,nb;q=0.9,no;q=0.8",
 }
 
 
@@ -391,7 +387,7 @@ def build_feed(vehicles):
         field("image_link",   v["main_image"])
         field("availability", v["availability"])
         field("condition",    v["condition"])
-        field("price",        v["price"] or "0 NOK")
+        field("price",        (v["price"] or "0") + " NOK")
         field("brand",        v["brand"])
         field("model",        v["model"])
         field("vehicle_year", v["year"])
