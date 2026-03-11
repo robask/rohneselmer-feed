@@ -511,3 +511,519 @@ if __name__ == "__main__":
 2026-03-11 01:00:18,900 [ERROR] Error reading sitemap 1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
 2026-03-11 01:00:18,900 [INFO] Total vehicle URLs found: 0
 2026-03-11 01:00:18,901 [ERROR] No vehicle URLs found. Exiting.
+2026-03-11 10:08:42,980 [INFO] ============================================================
+2026-03-11 10:08:42,980 [INFO] Feed generation started: 2026-03-11 10:08:42.980953
+2026-03-11 10:08:42,981 [INFO] ============================================================
+2026-03-11 10:08:42,981 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-03-11 10:08:43,938 [INFO]   Found 12 vehicles in sitemap 1
+2026-03-11 10:08:44,444 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-2.xml
+2026-03-11 10:08:45,415 [INFO]   Found 12 vehicles in sitemap 2
+2026-03-11 10:08:45,920 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-3.xml
+2026-03-11 10:08:46,861 [INFO]   Found 12 vehicles in sitemap 3
+2026-03-11 10:08:47,366 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-4.xml
+2026-03-11 10:08:48,243 [INFO]   Found 12 vehicles in sitemap 4
+2026-03-11 10:08:48,745 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-5.xml
+2026-03-11 10:08:49,638 [INFO]   Found 12 vehicles in sitemap 5
+2026-03-11 10:08:50,143 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-6.xml
+2026-03-11 10:08:51,098 [INFO]   Found 12 vehicles in sitemap 6
+2026-03-11 10:08:51,603 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-7.xml
+2026-03-11 10:08:52,490 [INFO]   Found 12 vehicles in sitemap 7
+2026-03-11 10:08:52,991 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-8.xml
+2026-03-11 10:08:53,876 [INFO]   Found 12 vehicles in sitemap 8
+2026-03-11 10:08:54,380 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-9.xml
+2026-03-11 10:08:55,300 [INFO]   Found 12 vehicles in sitemap 9
+2026-03-11 10:08:55,802 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-10.xml
+2026-03-11 10:08:56,800 [INFO]   Found 12 vehicles in sitemap 10
+2026-03-11 10:08:57,302 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-11.xml
+2026-03-11 10:08:58,423 [INFO]   Found 12 vehicles in sitemap 11
+2026-03-11 10:08:58,924 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-12.xml
+2026-03-11 10:08:59,931 [INFO]   Found 12 vehicles in sitemap 12
+2026-03-11 10:09:00,436 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-13.xml
+2026-03-11 10:09:01,405 [INFO]   Found 12 vehicles in sitemap 13
+2026-03-11 10:09:01,908 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-14.xml
+2026-03-11 10:09:02,804 [INFO]   Found 12 vehicles in sitemap 14
+2026-03-11 10:09:03,309 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-15.xml
+2026-03-11 10:09:04,262 [INFO]   Found 12 vehicles in sitemap 15
+2026-03-11 10:09:04,766 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-16.xml
+2026-03-11 10:09:05,794 [INFO]   Found 12 vehicles in sitemap 16
+2026-03-11 10:09:06,300 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-17.xml
+2026-03-11 10:09:07,192 [INFO]   Found 12 vehicles in sitemap 17
+2026-03-11 10:09:07,696 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-18.xml
+2026-03-11 10:09:08,573 [INFO]   Found 12 vehicles in sitemap 18
+2026-03-11 10:09:09,075 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-19.xml
+2026-03-11 10:09:10,008 [INFO]   Found 12 vehicles in sitemap 19
+2026-03-11 10:09:10,510 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-20.xml
+2026-03-11 10:09:10,927 [INFO]   Found 5 vehicles in sitemap 20
+2026-03-11 10:09:11,432 [INFO] Total vehicle URLs found: 233
+2026-03-11 10:09:11,435 [INFO] [1/233] Scraping: https://www.rohneselmer.no/biler/lager/1211820/1099/volkswagen-golf-e-golf
+2026-03-11 10:09:14,955 [INFO]   ✓ Volkswagen Golf E Golf | No price
+2026-03-11 10:09:16,460 [INFO] [2/233] Scraping: https://www.rohneselmer.no/biler/lager/1213018/1099/toyota-hilux-3-0-d-4d-4x4
+2026-03-11 10:09:19,881 [INFO]   ✓ Toyota Hilux 3 0 D 4D 4X4 | No price
+2026-03-11 10:09:21,386 [INFO] [3/233] Scraping: https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd
+2026-03-11 10:09:24,944 [INFO]   ✓ Ford Kuga 2 0 Tdci Awd | No price
+2026-03-11 10:09:26,446 [INFO] [4/233] Scraping: https://www.rohneselmer.no/biler/lager/1212318/1099/peugeot-308-1-2-puretech-130
+2026-03-11 10:09:30,207 [INFO]   ✓ Peugeot 308 1 2 Puretech 130 | No price
+2026-03-11 10:09:31,712 [INFO] [5/233] Scraping: https://www.rohneselmer.no/biler/lager/1211836/1099/ford-ecosport-1-0-ecoboost
+2026-03-11 10:09:35,450 [INFO]   ✓ Ford Ecosport 1 0 Ecoboost | No price
+2026-03-11 10:09:36,952 [INFO] [6/233] Scraping: https://www.rohneselmer.no/biler/lager/1212319/1099/nissan-leaf-leaf
+2026-03-11 10:09:40,550 [INFO]   ✓ Nissan Leaf Leaf | No price
+2026-03-11 10:09:42,053 [INFO] [7/233] Scraping: https://www.rohneselmer.no/biler/lager/1211088/1099/kia-niro-niro-hybrid
+2026-03-11 10:09:45,739 [INFO]   ✓ Kia Niro Niro Hybrid | No price
+2026-03-11 10:09:47,245 [INFO] [8/233] Scraping: https://www.rohneselmer.no/biler/lager/1210545/1099/renault-kadjar-1-2-tce
+2026-03-11 10:09:50,987 [INFO]   ✓ Renault Kadjar 1 2 Tce | No price
+2026-03-11 10:09:52,492 [INFO] [9/233] Scraping: https://www.rohneselmer.no/biler/lager/1212589/1099/mercedes-benz-c-klasse-c-350-t-e
+2026-03-11 10:09:55,774 [INFO]   ✓ Mercedes Benz C Klasse C 350 T E | No price
+2026-03-11 10:09:57,278 [INFO] [10/233] Scraping: https://www.rohneselmer.no/biler/lager/1210893/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:10:00,494 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:10:01,999 [INFO] [11/233] Scraping: https://www.rohneselmer.no/biler/lager/1213006/1099/volkswagen-golf-e-golf
+2026-03-11 10:10:05,922 [INFO]   ✓ Volkswagen Golf E Golf | No price
+2026-03-11 10:10:07,424 [INFO] [12/233] Scraping: https://www.rohneselmer.no/biler/lager/1212825/1099/tesla-model-s-model-s-75
+2026-03-11 10:10:10,791 [INFO]   ✓ Tesla Model S Model S 75 | No price
+2026-03-11 10:10:12,295 [INFO] [13/233] Scraping: https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense
+2026-03-11 10:10:15,800 [INFO]   ✓ Ds 3 Crossback 3 Crossback E Tense | No price
+2026-03-11 10:10:17,305 [INFO] [14/233] Scraping: https://www.rohneselmer.no/biler/lager/1212351/1099/peugeot-2008-e-2008
+2026-03-11 10:10:20,569 [INFO]   ✓ Peugeot 2008 E 2008 | No price
+2026-03-11 10:10:22,075 [INFO] [15/233] Scraping: https://www.rohneselmer.no/biler/lager/1213003/1099/volvo-v60-d5-plug-in-hybrid-awd
+2026-03-11 10:10:25,685 [INFO]   ✓ Volvo V60 D5 Plug In Hybrid Awd | No price
+2026-03-11 10:10:27,191 [INFO] [16/233] Scraping: https://www.rohneselmer.no/biler/lager/1211749/1099/hyundai-kona-kona-electric-64-kwh
+2026-03-11 10:10:30,744 [INFO]   ✓ Hyundai Kona Kona Electric 64 Kwh | No price
+2026-03-11 10:10:32,245 [INFO] [17/233] Scraping: https://www.rohneselmer.no/biler/lager/1212650/1099/nissan-leaf-leaf-e
+2026-03-11 10:10:35,448 [INFO]   ✓ Nissan Leaf Leaf E | No price
+2026-03-11 10:10:36,954 [INFO] [18/233] Scraping: https://www.rohneselmer.no/biler/lager/1211868/1099/volvo-v60-t2
+2026-03-11 10:10:40,298 [INFO]   ✓ Volvo V60 T2 | No price
+2026-03-11 10:10:41,799 [INFO] [19/233] Scraping: https://www.rohneselmer.no/biler/lager/1211556/1099/hyundai-kona-kona-electric-64-kwh
+2026-03-11 10:10:45,316 [INFO]   ✓ Hyundai Kona Kona Electric 64 Kwh | No price
+2026-03-11 10:10:46,821 [INFO] [20/233] Scraping: https://www.rohneselmer.no/biler/lager/1212931/1099/ford-transit-courier-1-5-tdci
+2026-03-11 10:10:50,581 [INFO]   ✓ Ford Transit Courier 1 5 Tdci | No price
+2026-03-11 10:10:52,082 [INFO] [21/233] Scraping: https://www.rohneselmer.no/biler/lager/1210665/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-03-11 10:10:55,805 [INFO]   ✓ Hyundai Kona Kona Electric 39 2 Kwh | No price
+2026-03-11 10:10:57,307 [INFO] [22/233] Scraping: https://www.rohneselmer.no/biler/lager/1211649/1099/toyota-yaris-yaris-hybrid
+2026-03-11 10:11:01,136 [INFO]   ✓ Toyota Yaris Yaris Hybrid | No price
+2026-03-11 10:11:02,640 [INFO] [23/233] Scraping: https://www.rohneselmer.no/biler/lager/1210184/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:11:05,919 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:11:07,422 [INFO] [24/233] Scraping: https://www.rohneselmer.no/biler/lager/1212975/1099/audi-a4-2-0-tfsi-ultra
+2026-03-11 10:11:10,898 [INFO]   ✓ Audi A4 2 0 Tfsi Ultra | No price
+2026-03-11 10:11:12,402 [INFO] [25/233] Scraping: https://www.rohneselmer.no/biler/lager/1212224/1099/peugeot-5008-1-6-bluehdi-120-8v
+2026-03-11 10:11:16,213 [INFO]   ✓ Peugeot 5008 1 6 Bluehdi 120 8V | No price
+2026-03-11 10:11:17,714 [INFO] [26/233] Scraping: https://www.rohneselmer.no/biler/lager/1212746/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:11:21,077 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:11:22,579 [INFO] [27/233] Scraping: https://www.rohneselmer.no/biler/lager/1211838/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:11:26,051 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:11:27,556 [INFO] [28/233] Scraping: https://www.rohneselmer.no/biler/lager/1212612/1099/mercedes-benz-gla-gla-220-cdi-4matic
+2026-03-11 10:11:31,240 [INFO]   ✓ Mercedes Benz Gla Gla 220 Cdi 4Matic | No price
+2026-03-11 10:11:32,743 [INFO] [29/233] Scraping: https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r
+2026-03-11 10:11:36,539 [INFO]   ✓ Mg Marvel R Marvel R | No price
+2026-03-11 10:11:38,045 [INFO] [30/233] Scraping: https://www.rohneselmer.no/biler/lager/1212807/1099/volkswagen-t-cross-1-0-tsi-opf
+2026-03-11 10:11:41,899 [INFO]   ✓ Volkswagen T Cross 1 0 Tsi Opf | No price
+2026-03-11 10:11:43,399 [INFO] [31/233] Scraping: https://www.rohneselmer.no/biler/lager/1211724/1099/nissan-leaf-leaf-e
+2026-03-11 10:11:46,869 [INFO]   ✓ Nissan Leaf Leaf E | No price
+2026-03-11 10:11:48,374 [INFO] [32/233] Scraping: https://www.rohneselmer.no/biler/lager/1212040/1099/hyundai-kona-kona-electric-64-kwh
+2026-03-11 10:11:51,797 [INFO]   ✓ Hyundai Kona Kona Electric 64 Kwh | No price
+2026-03-11 10:11:53,302 [INFO] [33/233] Scraping: https://www.rohneselmer.no/biler/lager/1211586/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:11:57,137 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:11:58,638 [INFO] [34/233] Scraping: https://www.rohneselmer.no/biler/lager/1212179/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:12:01,979 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:12:03,484 [INFO] [35/233] Scraping: https://www.rohneselmer.no/biler/lager/1212087/1099/volkswagen-caddy-2-0-tdi-bmt
+2026-03-11 10:12:06,943 [INFO]   ✓ Volkswagen Caddy 2 0 Tdi Bmt | No price
+2026-03-11 10:12:08,448 [INFO] [36/233] Scraping: https://www.rohneselmer.no/biler/lager/1210401/1099/jaguar-i-pace-i-pace-ev400
+2026-03-11 10:12:12,526 [INFO]   ✓ Jaguar I Pace I Pace Ev400 | No price
+2026-03-11 10:12:14,027 [INFO] [37/233] Scraping: https://www.rohneselmer.no/biler/lager/1211963/1099/nissan-leaf-leaf
+2026-03-11 10:12:17,404 [INFO]   ✓ Nissan Leaf Leaf | No price
+2026-03-11 10:12:18,909 [INFO] [38/233] Scraping: https://www.rohneselmer.no/biler/lager/1212747/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:12:22,529 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:12:24,035 [INFO] [39/233] Scraping: https://www.rohneselmer.no/biler/lager/1212895/1099/nissan-leaf-leaf-e
+2026-03-11 10:12:27,939 [INFO]   ✓ Nissan Leaf Leaf E | No price
+2026-03-11 10:12:29,443 [INFO] [40/233] Scraping: https://www.rohneselmer.no/biler/lager/1211819/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-11 10:12:32,819 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range | No price
+2026-03-11 10:12:34,325 [INFO] [41/233] Scraping: https://www.rohneselmer.no/biler/lager/1210899/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:12:37,663 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:12:39,168 [INFO] [42/233] Scraping: https://www.rohneselmer.no/biler/lager/1212441/1099/bmw-x4-x4-xdrive20d
+2026-03-11 10:12:42,810 [INFO]   ✓ Bmw X4 X4 Xdrive20D | No price
+2026-03-11 10:12:44,313 [INFO] [43/233] Scraping: https://www.rohneselmer.no/biler/lager/1211584/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:12:47,677 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:12:49,180 [INFO] [44/233] Scraping: https://www.rohneselmer.no/biler/lager/1211049/1099/cupra-born-born-58
+2026-03-11 10:12:52,738 [INFO]   ✓ Cupra Born Born 58 | No price
+2026-03-11 10:12:54,241 [INFO] [45/233] Scraping: https://www.rohneselmer.no/biler/lager/1212466/1099/mg-zs-suv-zs-ev-long-range
+2026-03-11 10:12:57,435 [INFO]   ✓ Mg Zs Suv Zs Ev Long Range | No price
+2026-03-11 10:12:58,941 [INFO] [46/233] Scraping: https://www.rohneselmer.no/biler/lager/1210892/1099/ford-transit-custom-2-0-ecoblue
+2026-03-11 10:13:02,250 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue | No price
+2026-03-11 10:13:03,755 [INFO] [47/233] Scraping: https://www.rohneselmer.no/biler/lager/1212907/1099/mitsubishi-outlander-outlander-phev
+2026-03-11 10:13:07,514 [INFO]   ✓ Mitsubishi Outlander Outlander Phev | No price
+2026-03-11 10:13:09,019 [INFO] [48/233] Scraping: https://www.rohneselmer.no/biler/lager/1212909/1099/mitsubishi-outlander-outlander-phev
+2026-03-11 10:13:12,731 [INFO]   ✓ Mitsubishi Outlander Outlander Phev | No price
+2026-03-11 10:13:14,234 [INFO] [49/233] Scraping: https://www.rohneselmer.no/biler/lager/1212802/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:13:17,882 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:13:19,387 [INFO] [50/233] Scraping: https://www.rohneselmer.no/biler/lager/1211645/1099/peugeot-3008-3008-gt-hybrid4
+2026-03-11 10:13:22,999 [INFO]   ✓ Peugeot 3008 3008 Gt Hybrid4 | No price
+2026-03-11 10:13:24,505 [INFO] [51/233] Scraping: https://www.rohneselmer.no/biler/lager/1210924/1099/toyota-corolla-corolla-touring-sports-hybrid
+2026-03-11 10:13:28,157 [INFO]   ✓ Toyota Corolla Corolla Touring Sports Hybrid | No price
+2026-03-11 10:13:29,662 [INFO] [52/233] Scraping: https://www.rohneselmer.no/biler/lager/1212393/1099/toyota-land-cruiser-prado-3-0-d-4d-4wd
+2026-03-11 10:13:33,342 [INFO]   ✓ Toyota Land Cruiser Prado 3 0 D 4D 4Wd | No price
+2026-03-11 10:13:34,847 [INFO] [53/233] Scraping: https://www.rohneselmer.no/biler/lager/1211821/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:13:38,396 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:13:39,900 [INFO] [54/233] Scraping: https://www.rohneselmer.no/biler/lager/1210303/1099/hyundai-ioniq-5-72-6-kwh
+2026-03-11 10:13:43,089 [INFO]   ✓ Hyundai Ioniq 5 72 6 Kwh | No price
+2026-03-11 10:13:44,593 [INFO] [55/233] Scraping: https://www.rohneselmer.no/biler/lager/1211739/1099/toyota-corolla-corolla-hybrid
+2026-03-11 10:13:48,668 [INFO]   ✓ Toyota Corolla Corolla Hybrid | No price
+2026-03-11 10:13:50,172 [INFO] [56/233] Scraping: https://www.rohneselmer.no/biler/lager/1212866/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:13:53,612 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:13:55,118 [INFO] [57/233] Scraping: https://www.rohneselmer.no/biler/lager/1212524/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-11 10:13:58,792 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range | No price
+2026-03-11 10:14:00,297 [INFO] [58/233] Scraping: https://www.rohneselmer.no/biler/lager/1212493/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:14:03,616 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:14:05,118 [INFO] [59/233] Scraping: https://www.rohneselmer.no/biler/lager/1211157/1099/polestar-2-2-long-range-dual-motor
+2026-03-11 10:14:08,460 [INFO]   ✓ Polestar 2 2 Long Range Dual Motor | No price
+2026-03-11 10:14:09,960 [INFO] [60/233] Scraping: https://www.rohneselmer.no/biler/lager/1212908/1099/polestar-2-2-long-range-dual-motor
+2026-03-11 10:14:13,927 [INFO]   ✓ Polestar 2 2 Long Range Dual Motor | No price
+2026-03-11 10:14:15,428 [INFO] [61/233] Scraping: https://www.rohneselmer.no/biler/lager/1212976/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:14:18,817 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:14:20,321 [INFO] [62/233] Scraping: https://www.rohneselmer.no/biler/lager/1213005/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-11 10:14:23,857 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range Awd | No price
+2026-03-11 10:14:25,362 [INFO] [63/233] Scraping: https://www.rohneselmer.no/biler/lager/1211752/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:14:29,065 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:14:30,570 [INFO] [64/233] Scraping: https://www.rohneselmer.no/biler/lager/1211287/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-11 10:14:33,507 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range Awd | No price
+2026-03-11 10:14:35,012 [INFO] [65/233] Scraping: https://www.rohneselmer.no/biler/lager/1212181/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:14:38,302 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:14:39,808 [INFO] [66/233] Scraping: https://www.rohneselmer.no/biler/lager/1212325/1099/tesla-model-y-model-y-long-range-awd
+2026-03-11 10:14:43,727 [INFO]   ✓ Tesla Model Y Model Y Long Range Awd | No price
+2026-03-11 10:14:45,232 [INFO] [67/233] Scraping: https://www.rohneselmer.no/biler/lager/1212070/1099/ford-transit-courier-1-0-ecoboost
+2026-03-11 10:14:48,569 [INFO]   ✓ Ford Transit Courier 1 0 Ecoboost | No price
+2026-03-11 10:14:50,074 [INFO] [68/233] Scraping: https://www.rohneselmer.no/biler/lager/1210901/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:14:53,515 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:14:55,020 [INFO] [69/233] Scraping: https://www.rohneselmer.no/biler/lager/1210072/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:14:58,392 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:14:59,897 [INFO] [70/233] Scraping: https://www.rohneselmer.no/biler/lager/1210080/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-11 10:15:03,580 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range | No price
+2026-03-11 10:15:05,085 [INFO] [71/233] Scraping: https://www.rohneselmer.no/biler/lager/1212649/1099/audi-e-tron-e-tron-55-quattro
+2026-03-11 10:15:08,474 [INFO]   ✓ Audi E Tron E Tron 55 Quattro | No price
+2026-03-11 10:15:09,980 [INFO] [72/233] Scraping: https://www.rohneselmer.no/biler/lager/1211799/1099/ford-transit-custom-2-0-ecoblue
+2026-03-11 10:15:13,333 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue | No price
+2026-03-11 10:15:14,835 [INFO] [73/233] Scraping: https://www.rohneselmer.no/biler/lager/1212555/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-11 10:15:18,578 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range | No price
+2026-03-11 10:15:20,083 [INFO] [74/233] Scraping: https://www.rohneselmer.no/biler/lager/1213020/1099/ford-transit-courier-1-0-ecoboost
+2026-03-11 10:15:23,504 [INFO]   ✓ Ford Transit Courier 1 0 Ecoboost | No price
+2026-03-11 10:15:25,007 [INFO] [75/233] Scraping: https://www.rohneselmer.no/biler/lager/1211965/1099/ford-puma-1-0-ecoboost
+2026-03-11 10:15:28,339 [INFO]   ✓ Ford Puma 1 0 Ecoboost | No price
+2026-03-11 10:15:29,844 [INFO] [76/233] Scraping: https://www.rohneselmer.no/biler/lager/1212178/1099/ford-transit-connect-1-5-ecoblue
+2026-03-11 10:15:33,715 [INFO]   ✓ Ford Transit Connect 1 5 Ecoblue | No price
+2026-03-11 10:15:35,217 [INFO] [77/233] Scraping: https://www.rohneselmer.no/biler/lager/1210711/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:15:38,542 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:15:40,043 [INFO] [78/233] Scraping: https://www.rohneselmer.no/biler/lager/1210714/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:15:44,063 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:15:45,571 [INFO] [79/233] Scraping: https://www.rohneselmer.no/biler/lager/1211205/1099/mercedes-benz-glc-glc-350-e-4matic
+2026-03-11 10:15:49,171 [INFO]   ✓ Mercedes Benz Glc Glc 350 E 4Matic | No price
+2026-03-11 10:15:50,677 [INFO] [80/233] Scraping: https://www.rohneselmer.no/biler/lager/1210294/1099/kia-sportage-1-6-crdi-awd
+2026-03-11 10:15:54,581 [INFO]   ✓ Kia Sportage 1 6 Crdi Awd | No price
+2026-03-11 10:15:56,086 [INFO] [81/233] Scraping: https://www.rohneselmer.no/biler/lager/1212894/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:15:59,508 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:16:01,012 [INFO] [82/233] Scraping: https://www.rohneselmer.no/biler/lager/1212906/1099/tesla-model-y-model-y-long-range-awd
+2026-03-11 10:16:04,729 [INFO]   ✓ Tesla Model Y Model Y Long Range Awd | No price
+2026-03-11 10:16:06,231 [INFO] [83/233] Scraping: https://www.rohneselmer.no/biler/lager/1212350/1099/volvo-xc40-xc40-p8-awd-recharge
+2026-03-11 10:16:09,576 [INFO]   ✓ Volvo Xc40 Xc40 P8 Awd Recharge | No price
+2026-03-11 10:16:11,082 [INFO] [84/233] Scraping: https://www.rohneselmer.no/biler/lager/1210169/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:16:14,481 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:16:15,984 [INFO] [85/233] Scraping: https://www.rohneselmer.no/biler/lager/1211204/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:16:19,271 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:16:20,777 [INFO] [86/233] Scraping: https://www.rohneselmer.no/biler/lager/1212102/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:16:24,133 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:16:25,637 [INFO] [87/233] Scraping: https://www.rohneselmer.no/biler/lager/1212497/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:16:29,384 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:16:30,887 [INFO] [88/233] Scraping: https://www.rohneselmer.no/biler/lager/1211555/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:16:34,289 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:16:35,795 [INFO] [89/233] Scraping: https://www.rohneselmer.no/biler/lager/1212135/1099/tesla-model-3-model-3-standard-range
+2026-03-11 10:16:39,427 [INFO]   ✓ Tesla Model 3 Model 3 Standard Range | No price
+2026-03-11 10:16:40,927 [INFO] [90/233] Scraping: https://www.rohneselmer.no/biler/lager/1210589/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:16:44,782 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:16:46,286 [INFO] [91/233] Scraping: https://www.rohneselmer.no/biler/lager/1210074/1099/volvo-c40-c40-recharge-single-motor
+2026-03-11 10:16:50,000 [INFO]   ✓ Volvo C40 C40 Recharge Single Motor | No price
+2026-03-11 10:16:51,505 [INFO] [92/233] Scraping: https://www.rohneselmer.no/biler/lager/1210144/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:16:55,274 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:16:56,778 [INFO] [93/233] Scraping: https://www.rohneselmer.no/biler/lager/1212177/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:17:00,308 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:17:01,812 [INFO] [94/233] Scraping: https://www.rohneselmer.no/biler/lager/1211588/1099/kia-soul-e-soul
+2026-03-11 10:17:05,322 [INFO]   ✓ Kia Soul E Soul | No price
+2026-03-11 10:17:06,828 [INFO] [95/233] Scraping: https://www.rohneselmer.no/biler/lager/1210031/1099/toyota-bz4x-71-4-kwh
+2026-03-11 10:17:10,510 [INFO]   ✓ Toyota Bz4X 71 4 Kwh | No price
+2026-03-11 10:17:12,015 [INFO] [96/233] Scraping: https://www.rohneselmer.no/biler/lager/1211677/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:17:15,778 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:17:17,283 [INFO] [97/233] Scraping: https://www.rohneselmer.no/biler/lager/1211248/1099/ford-kuga-2-0-ecoblue-awd
+2026-03-11 10:17:20,932 [INFO]   ✓ Ford Kuga 2 0 Ecoblue Awd | No price
+2026-03-11 10:17:22,434 [INFO] [98/233] Scraping: https://www.rohneselmer.no/biler/lager/1212611/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-11 10:17:26,193 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range Awd | No price
+2026-03-11 10:17:27,698 [INFO] [99/233] Scraping: https://www.rohneselmer.no/biler/lager/1212974/1099/nissan-pathfinder-3-0-v6-4wd
+2026-03-11 10:17:31,408 [INFO]   ✓ Nissan Pathfinder 3 0 V6 4Wd | No price
+2026-03-11 10:17:32,913 [INFO] [100/233] Scraping: https://www.rohneselmer.no/biler/lager/1210922/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-11 10:17:36,394 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Standard Range Awd | No price
+2026-03-11 10:17:37,899 [INFO] [101/233] Scraping: https://www.rohneselmer.no/biler/lager/1211587/1099/ford-kuga-2-0-ecoblue-awd
+2026-03-11 10:17:41,412 [INFO]   ✓ Ford Kuga 2 0 Ecoblue Awd | No price
+2026-03-11 10:17:42,917 [INFO] [102/233] Scraping: https://www.rohneselmer.no/biler/lager/1212176/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:17:46,559 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:17:48,064 [INFO] [103/233] Scraping: https://www.rohneselmer.no/biler/lager/1212759/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:17:51,930 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:17:53,431 [INFO] [104/233] Scraping: https://www.rohneselmer.no/biler/lager/1212320/1099/ford-puma-puma-gen-e
+2026-03-11 10:17:57,201 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:17:58,703 [INFO] [105/233] Scraping: https://www.rohneselmer.no/biler/lager/1211527/1099/ford-puma-puma-gen-e
+2026-03-11 10:18:02,151 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:18:03,655 [INFO] [106/233] Scraping: https://www.rohneselmer.no/biler/lager/1211782/1099/toyota-bz4x-71-4-kwh-awd
+2026-03-11 10:18:07,275 [INFO]   ✓ Toyota Bz4X 71 4 Kwh Awd | No price
+2026-03-11 10:18:08,780 [INFO] [107/233] Scraping: https://www.rohneselmer.no/biler/lager/1212833/1099/mercedes-benz-eqb-eqb-300-4matic
+2026-03-11 10:18:12,582 [INFO]   ✓ Mercedes Benz Eqb Eqb 300 4Matic | No price
+2026-03-11 10:18:14,087 [INFO] [108/233] Scraping: https://www.rohneselmer.no/biler/lager/1212750/1099/polestar-2-2-long-range-dual-motor-performance
+2026-03-11 10:18:17,648 [INFO]   ✓ Polestar 2 2 Long Range Dual Motor Performance | No price
+2026-03-11 10:18:19,151 [INFO] [109/233] Scraping: https://www.rohneselmer.no/biler/lager/1212805/1099/kia-sorento-sorento-phev
+2026-03-11 10:18:22,989 [INFO]   ✓ Kia Sorento Sorento Phev | No price
+2026-03-11 10:18:24,490 [INFO] [110/233] Scraping: https://www.rohneselmer.no/biler/lager/1211795/1099/ford-transit-custom-tourneo-custom-plug-in-hybrid
+2026-03-11 10:18:28,248 [INFO]   ✓ Ford Transit Custom Tourneo Custom Plug In Hybrid | No price
+2026-03-11 10:18:29,756 [INFO] [111/233] Scraping: https://www.rohneselmer.no/biler/lager/1212241/1099/ford-puma-puma-gen-e
+2026-03-11 10:18:33,748 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:18:35,253 [INFO] [112/233] Scraping: https://www.rohneselmer.no/biler/lager/1212498/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:18:38,789 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:18:40,294 [INFO] [113/233] Scraping: https://www.rohneselmer.no/biler/lager/1212677/1099/ford-transit-courier-e-transit-courier
+2026-03-11 10:18:43,917 [INFO]   ✓ Ford Transit Courier E Transit Courier | No price
+2026-03-11 10:18:45,418 [INFO] [114/233] Scraping: https://www.rohneselmer.no/biler/lager/1211346/1099/ford-puma-puma-gen-e
+2026-03-11 10:18:48,885 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:18:50,390 [INFO] [115/233] Scraping: https://www.rohneselmer.no/biler/lager/1211419/1099/ford-transit-courier-e-transit-courier
+2026-03-11 10:18:53,863 [INFO]   ✓ Ford Transit Courier E Transit Courier | No price
+2026-03-11 10:18:55,366 [INFO] [116/233] Scraping: https://www.rohneselmer.no/biler/lager/1212491/1099/bmw-5-series-530e-xdrive-iperformance-sedan
+2026-03-11 10:18:58,718 [INFO]   ✓ Bmw 5 Series 530E Xdrive Iperformance Sedan | No price
+2026-03-11 10:19:00,222 [INFO] [117/233] Scraping: https://www.rohneselmer.no/biler/lager/1211650/1099/ford-transit-courier-e-transit-courier
+2026-03-11 10:19:03,805 [INFO]   ✓ Ford Transit Courier E Transit Courier | No price
+2026-03-11 10:19:05,311 [INFO] [118/233] Scraping: https://www.rohneselmer.no/biler/lager/1212832/1099/ford-puma-puma-gen-e
+2026-03-11 10:19:08,746 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:19:10,249 [INFO] [119/233] Scraping: https://www.rohneselmer.no/biler/lager/1212751/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:19:13,916 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:19:15,418 [INFO] [120/233] Scraping: https://www.rohneselmer.no/biler/lager/1212321/1099/ford-puma-puma-gen-e
+2026-03-11 10:19:18,890 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:19:20,395 [INFO] [121/233] Scraping: https://www.rohneselmer.no/biler/lager/1212490/1099/mercedes-benz-eqv-eqv-300
+2026-03-11 10:19:23,820 [INFO]   ✓ Mercedes Benz Eqv Eqv 300 | No price
+2026-03-11 10:19:25,328 [INFO] [122/233] Scraping: https://www.rohneselmer.no/biler/lager/1211064/1099/toyota-rav4-rav4-plug-in-hybrid
+2026-03-11 10:19:29,249 [INFO]   ✓ Toyota Rav4 Rav4 Plug In Hybrid | No price
+2026-03-11 10:19:30,754 [INFO] [123/233] Scraping: https://www.rohneselmer.no/biler/lager/1211395/1099/ford-s-max-2-0-ecoblue-awd
+2026-03-11 10:19:33,981 [INFO]   ✓ Ford S Max 2 0 Ecoblue Awd | No price
+2026-03-11 10:19:35,486 [INFO] [124/233] Scraping: https://www.rohneselmer.no/biler/lager/1210921/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:19:38,775 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:19:40,279 [INFO] [125/233] Scraping: https://www.rohneselmer.no/biler/lager/1210097/1099/ford-puma-puma-gen-e
+2026-03-11 10:19:43,919 [INFO]   ✓ Ford Puma Puma Gen E | No price
+2026-03-11 10:19:45,421 [INFO] [126/233] Scraping: https://www.rohneselmer.no/biler/lager/1212748/1099/volkswagen-id-5-id-5-gtx
+2026-03-11 10:19:49,053 [INFO]   ✓ Volkswagen Id 5 Id 5 Gtx | No price
+2026-03-11 10:19:50,555 [INFO] [127/233] Scraping: https://www.rohneselmer.no/biler/lager/1210682/1099/suzuki-across-across-plug-in-hybrid
+2026-03-11 10:19:54,291 [INFO]   ✓ Suzuki Across Across Plug In Hybrid | No price
+2026-03-11 10:19:55,796 [INFO] [128/233] Scraping: https://www.rohneselmer.no/biler/lager/1211554/1099/kia-ev3-ev3-long-range
+2026-03-11 10:19:59,265 [INFO]   ✓ Kia Ev3 Ev3 Long Range | No price
+2026-03-11 10:20:00,768 [INFO] [129/233] Scraping: https://www.rohneselmer.no/biler/lager/1210098/1099/ford-transit-connect-2-0-ecoblue
+2026-03-11 10:20:04,661 [INFO]   ✓ Ford Transit Connect 2 0 Ecoblue | No price
+2026-03-11 10:20:06,165 [INFO] [130/233] Scraping: https://www.rohneselmer.no/biler/lager/1212200/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:20:09,633 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:20:11,134 [INFO] [131/233] Scraping: https://www.rohneselmer.no/biler/lager/1210588/1099/kia-ev3-ev3-long-range
+2026-03-11 10:20:15,097 [INFO]   ✓ Kia Ev3 Ev3 Long Range | No price
+2026-03-11 10:20:16,603 [INFO] [132/233] Scraping: https://www.rohneselmer.no/biler/lager/1211798/1099/ford-ranger-ranger-raptor
+2026-03-11 10:20:19,908 [INFO]   ✓ Ford Ranger Ranger Raptor | No price
+2026-03-11 10:20:21,409 [INFO] [133/233] Scraping: https://www.rohneselmer.no/biler/lager/1210204/1099/ford-capri-ev-capri-ev-extended-range-rwd
+2026-03-11 10:20:24,843 [INFO]   ✓ Ford Capri Ev Capri Ev Extended Range Rwd | No price
+2026-03-11 10:20:26,344 [INFO] [134/233] Scraping: https://www.rohneselmer.no/biler/lager/1211236/1099/kia-ev3-ev3-long-range
+2026-03-11 10:20:29,742 [INFO]   ✓ Kia Ev3 Ev3 Long Range | No price
+2026-03-11 10:20:31,248 [INFO] [135/233] Scraping: https://www.rohneselmer.no/biler/lager/1212867/1099/kia-ev3-ev3-long-range
+2026-03-11 10:20:34,762 [INFO]   ✓ Kia Ev3 Ev3 Long Range | No price
+2026-03-11 10:20:36,268 [INFO] [136/233] Scraping: https://www.rohneselmer.no/biler/lager/1211560/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:20:39,713 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:20:41,216 [INFO] [137/233] Scraping: https://www.rohneselmer.no/biler/lager/1210129/1099/volvo-xc90-recharge-t8-awd
+2026-03-11 10:20:44,704 [INFO]   ✓ Volvo Xc90 Recharge T8 Awd | No price
+2026-03-11 10:20:46,209 [INFO] [138/233] Scraping: https://www.rohneselmer.no/biler/lager/1211600/1099/ford-explorer-ev-explorer-ev-extended-range-rwd
+2026-03-11 10:21:05,665 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Rwd | No price
+2026-03-11 10:21:07,171 [INFO] [139/233] Scraping: https://www.rohneselmer.no/biler/lager/1210059/1099/volvo-xc60-xc60-t6-awd-recharge
+2026-03-11 10:21:11,006 [INFO]   ✓ Volvo Xc60 Xc60 T6 Awd Recharge | No price
+2026-03-11 10:21:12,511 [INFO] [140/233] Scraping: https://www.rohneselmer.no/biler/lager/1212932/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:21:16,108 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:21:17,611 [INFO] [141/233] Scraping: https://www.rohneselmer.no/biler/lager/1212803/1099/ford-ranger-ranger-raptor
+2026-03-11 10:21:21,388 [INFO]   ✓ Ford Ranger Ranger Raptor | No price
+2026-03-11 10:21:22,893 [INFO] [142/233] Scraping: https://www.rohneselmer.no/biler/lager/1212467/1099/ford-transit-custom-e-transit-custom-320
+2026-03-11 10:21:26,706 [INFO]   ✓ Ford Transit Custom E Transit Custom 320 | No price
+2026-03-11 10:21:28,215 [INFO] [143/233] Scraping: https://www.rohneselmer.no/biler/lager/1210160/1099/ford-transit-custom-e-transit-custom-320
+2026-03-11 10:21:31,892 [INFO]   ✓ Ford Transit Custom E Transit Custom 320 | No price
+2026-03-11 10:21:33,397 [INFO] [144/233] Scraping: https://www.rohneselmer.no/biler/lager/1210739/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-11 10:21:37,339 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range | No price
+2026-03-11 10:21:38,845 [INFO] [145/233] Scraping: https://www.rohneselmer.no/biler/lager/1212953/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:21:42,624 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:21:44,129 [INFO] [146/233] Scraping: https://www.rohneselmer.no/biler/lager/1213016/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-11 10:21:47,329 [INFO]   ✓ Ford Ranger 2 0 Ecoblue Bi Turbo 4X4 | No price
+2026-03-11 10:21:48,830 [INFO] [147/233] Scraping: https://www.rohneselmer.no/biler/lager/1212745/1099/volkswagen-transporter-2-0-tdi-bmt-4motion
+2026-03-11 10:21:52,515 [INFO]   ✓ Volkswagen Transporter 2 0 Tdi Bmt 4Motion | No price
+2026-03-11 10:21:54,020 [INFO] [148/233] Scraping: https://www.rohneselmer.no/biler/lager/1211583/1099/volvo-v60-d4-awd
+2026-03-11 10:21:57,288 [INFO]   ✓ Volvo V60 D4 Awd | No price
+2026-03-11 10:21:58,793 [INFO] [149/233] Scraping: https://www.rohneselmer.no/biler/lager/1212587/1099/ford-explorer-ev-explorer-ev-extended-range-rwd
+2026-03-11 10:22:02,359 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Rwd | No price
+2026-03-11 10:22:03,863 [INFO] [150/233] Scraping: https://www.rohneselmer.no/biler/lager/1212679/1099/ford-mustang-mach-e-mustang-mach-e-gt
+2026-03-11 10:22:07,503 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Gt | No price
+2026-03-11 10:22:09,008 [INFO] [151/233] Scraping: https://www.rohneselmer.no/biler/lager/1212006/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:12,477 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:13,982 [INFO] [152/233] Scraping: https://www.rohneselmer.no/biler/lager/1210194/1099/ford-transit-custom-e-transit-custom-320
+2026-03-11 10:22:17,641 [INFO]   ✓ Ford Transit Custom E Transit Custom 320 | No price
+2026-03-11 10:22:19,146 [INFO] [153/233] Scraping: https://www.rohneselmer.no/biler/lager/1211344/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:22,489 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:23,994 [INFO] [154/233] Scraping: https://www.rohneselmer.no/biler/lager/1211089/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:27,496 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:29,001 [INFO] [155/233] Scraping: https://www.rohneselmer.no/biler/lager/1211552/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:32,598 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:34,099 [INFO] [156/233] Scraping: https://www.rohneselmer.no/biler/lager/1212676/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-11 10:22:37,391 [INFO]   ✓ Ford Ranger 2 0 Ecoblue Bi Turbo 4X4 | No price
+2026-03-11 10:22:38,896 [INFO] [157/233] Scraping: https://www.rohneselmer.no/biler/lager/1212521/1099/ford-transit-connect-2-0-ecoblue-awd
+2026-03-11 10:22:42,448 [INFO]   ✓ Ford Transit Connect 2 0 Ecoblue Awd | No price
+2026-03-11 10:22:43,954 [INFO] [158/233] Scraping: https://www.rohneselmer.no/biler/lager/1211909/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:47,619 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:49,125 [INFO] [159/233] Scraping: https://www.rohneselmer.no/biler/lager/1211452/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:52,559 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:54,061 [INFO] [160/233] Scraping: https://www.rohneselmer.no/biler/lager/1211343/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:22:57,568 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:22:59,073 [INFO] [161/233] Scraping: https://www.rohneselmer.no/biler/lager/1211309/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:03,267 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:04,770 [INFO] [162/233] Scraping: https://www.rohneselmer.no/biler/lager/1210736/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:08,409 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:09,912 [INFO] [163/233] Scraping: https://www.rohneselmer.no/biler/lager/1210161/1099/ford-transit-custom-e-transit-custom-320
+2026-03-11 10:23:13,280 [INFO]   ✓ Ford Transit Custom E Transit Custom 320 | No price
+2026-03-11 10:23:14,784 [INFO] [164/233] Scraping: https://www.rohneselmer.no/biler/lager/1211720/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:18,516 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:20,024 [INFO] [165/233] Scraping: https://www.rohneselmer.no/biler/lager/1212951/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:23,881 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:25,384 [INFO] [166/233] Scraping: https://www.rohneselmer.no/biler/lager/1212613/1099/ford-transit-custom-e-transit-custom-320
+2026-03-11 10:23:28,706 [INFO]   ✓ Ford Transit Custom E Transit Custom 320 | No price
+2026-03-11 10:23:30,212 [INFO] [167/233] Scraping: https://www.rohneselmer.no/biler/lager/1211454/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:33,410 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:34,916 [INFO] [168/233] Scraping: https://www.rohneselmer.no/biler/lager/1211453/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:38,241 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:39,746 [INFO] [169/233] Scraping: https://www.rohneselmer.no/biler/lager/1210664/1099/kia-ev6-ev6-gt
+2026-03-11 10:23:43,363 [INFO]   ✓ Kia Ev6 Ev6 Gt | No price
+2026-03-11 10:23:44,867 [INFO] [170/233] Scraping: https://www.rohneselmer.no/biler/lager/1210094/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:48,170 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:49,671 [INFO] [171/233] Scraping: https://www.rohneselmer.no/biler/lager/1210118/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:53,080 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:54,582 [INFO] [172/233] Scraping: https://www.rohneselmer.no/biler/lager/1210974/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:23:57,753 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:23:59,257 [INFO] [173/233] Scraping: https://www.rohneselmer.no/biler/lager/1211907/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:24:02,627 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:24:04,132 [INFO] [174/233] Scraping: https://www.rohneselmer.no/biler/lager/1212496/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-11 10:24:07,467 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue Awd | No price
+2026-03-11 10:24:08,968 [INFO] [175/233] Scraping: https://www.rohneselmer.no/biler/lager/1211502/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:24:12,316 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:24:13,822 [INFO] [176/233] Scraping: https://www.rohneselmer.no/biler/lager/1211503/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:24:17,520 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:24:19,023 [INFO] [177/233] Scraping: https://www.rohneselmer.no/biler/lager/1211456/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:24:22,257 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:24:23,758 [INFO] [178/233] Scraping: https://www.rohneselmer.no/biler/lager/1211280/1099/kia-ev6-ev6-gt
+2026-03-11 10:24:27,238 [INFO]   ✓ Kia Ev6 Ev6 Gt | No price
+2026-03-11 10:24:28,741 [INFO] [179/233] Scraping: https://www.rohneselmer.no/biler/lager/1212180/1099/ford-transit-custom-e-transit-custom-320
+2026-03-11 10:24:32,198 [INFO]   ✓ Ford Transit Custom E Transit Custom 320 | No price
+2026-03-11 10:24:33,703 [INFO] [180/233] Scraping: https://www.rohneselmer.no/biler/lager/1212762/1099/ford-transit-2-0-ecoblue
+2026-03-11 10:24:37,651 [INFO]   ✓ Ford Transit 2 0 Ecoblue | No price
+2026-03-11 10:24:39,156 [INFO] [181/233] Scraping: https://www.rohneselmer.no/biler/lager/1211482/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:24:42,776 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:24:44,281 [INFO] [182/233] Scraping: https://www.rohneselmer.no/biler/lager/1210084/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-11 10:24:47,808 [INFO]   ✓ Ford Kuga Kuga Plug In Hybrid | No price
+2026-03-11 10:24:49,312 [INFO] [183/233] Scraping: https://www.rohneselmer.no/biler/lager/1210029/1099/skoda-kodiaq-2-0-tdi-scr-4x4
+2026-03-11 10:24:52,949 [INFO]   ✓ Skoda Kodiaq 2 0 Tdi Scr 4X4 | No price
+2026-03-11 10:24:54,452 [INFO] [184/233] Scraping: https://www.rohneselmer.no/biler/lager/1212115/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-11 10:24:58,087 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue Awd | No price
+2026-03-11 10:24:59,592 [INFO] [185/233] Scraping: https://www.rohneselmer.no/biler/lager/1211651/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-11 10:25:03,129 [INFO]   ✓ Ford Capri Ev Capri Ev Extended Range Awd | No price
+2026-03-11 10:25:04,634 [INFO] [186/233] Scraping: https://www.rohneselmer.no/biler/lager/1212760/1099/ford-transit-custom-2-0-ecoblue
+2026-03-11 10:25:08,116 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue | No price
+2026-03-11 10:25:09,617 [INFO] [187/233] Scraping: https://www.rohneselmer.no/biler/lager/1212262/1099/mercedes-benz-gls-gls-350-d-4matic
+2026-03-11 10:25:13,150 [INFO]   ✓ Mercedes Benz Gls Gls 350 D 4Matic | No price
+2026-03-11 10:25:14,655 [INFO] [188/233] Scraping: https://www.rohneselmer.no/biler/lager/1212893/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:25:18,438 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:25:19,939 [INFO] [189/233] Scraping: https://www.rohneselmer.no/biler/lager/1211483/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:25:23,648 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:25:25,149 [INFO] [190/233] Scraping: https://www.rohneselmer.no/biler/lager/1212499/1099/ford-explorer-ev-explorer-ev-extended-range-rwd
+2026-03-11 10:25:29,132 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Rwd | No price
+2026-03-11 10:25:30,634 [INFO] [191/233] Scraping: https://www.rohneselmer.no/biler/lager/1212610/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-11 10:25:34,075 [INFO]   ✓ Ford Explorer Explorer Plug In Hybrid | No price
+2026-03-11 10:25:35,581 [INFO] [192/233] Scraping: https://www.rohneselmer.no/biler/lager/1212201/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:25:39,232 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:25:40,737 [INFO] [193/233] Scraping: https://www.rohneselmer.no/biler/lager/1210100/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-11 10:25:44,119 [INFO]   ✓ Ford Capri Ev Capri Ev Extended Range Awd | No price
+2026-03-11 10:25:45,622 [INFO] [194/233] Scraping: https://www.rohneselmer.no/biler/lager/1210095/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-11 10:25:49,348 [INFO]   ✓ Ford Capri Ev Capri Ev Extended Range Awd | No price
+2026-03-11 10:25:50,853 [INFO] [195/233] Scraping: https://www.rohneselmer.no/biler/lager/1210096/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-11 10:25:54,161 [INFO]   ✓ Ford Capri Ev Capri Ev Extended Range Awd | No price
+2026-03-11 10:25:55,664 [INFO] [196/233] Scraping: https://www.rohneselmer.no/biler/lager/1210102/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-11 10:25:59,381 [INFO]   ✓ Ford Capri Ev Capri Ev Extended Range Awd | No price
+2026-03-11 10:26:00,883 [INFO] [197/233] Scraping: https://www.rohneselmer.no/biler/lager/1210157/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-11 10:26:04,552 [INFO]   ✓ Ford Explorer Explorer Plug In Hybrid | No price
+2026-03-11 10:26:06,052 [INFO] [198/233] Scraping: https://www.rohneselmer.no/biler/lager/1211062/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-11 10:26:09,432 [INFO]   ✓ Ford Explorer Ev Explorer Ev Extended Range Awd | No price
+2026-03-11 10:26:10,935 [INFO] [199/233] Scraping: https://www.rohneselmer.no/biler/lager/1213021/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-11 10:26:14,496 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue Awd | No price
+2026-03-11 10:26:16,002 [INFO] [200/233] Scraping: https://www.rohneselmer.no/biler/lager/1210099/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-11 10:26:19,398 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Long Range Awd | No price
+2026-03-11 10:26:20,900 [INFO] [201/233] Scraping: https://www.rohneselmer.no/biler/lager/1210141/1099/bmw-x5-x5-m
+2026-03-11 10:26:24,077 [INFO]   ✓ Bmw X5 X5 M | No price
+2026-03-11 10:26:25,580 [INFO] [202/233] Scraping: https://www.rohneselmer.no/biler/lager/1210164/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-11 10:26:29,219 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue Awd | No price
+2026-03-11 10:26:30,723 [INFO] [203/233] Scraping: https://www.rohneselmer.no/biler/lager/1211308/1099/ford-ranger-2-0-ecoblue-e-4wd
+2026-03-11 10:26:34,332 [INFO]   ✓ Ford Ranger 2 0 Ecoblue E 4Wd | No price
+2026-03-11 10:26:35,834 [INFO] [204/233] Scraping: https://www.rohneselmer.no/biler/lager/1212675/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-11 10:26:39,158 [INFO]   ✓ Ford Transit Custom 2 0 Ecoblue Awd | No price
+2026-03-11 10:26:40,664 [INFO] [205/233] Scraping: https://www.rohneselmer.no/biler/lager/1212126/1099/ford-ranger-2-0-ecoblue-e-4wd
+2026-03-11 10:26:44,258 [INFO]   ✓ Ford Ranger 2 0 Ecoblue E 4Wd | No price
+2026-03-11 10:26:45,760 [INFO] [206/233] Scraping: https://www.rohneselmer.no/biler/lager/1211939/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-11 10:26:49,499 [INFO]   ✓ Ford Explorer Explorer Plug In Hybrid | No price
+2026-03-11 10:26:51,002 [INFO] [207/233] Scraping: https://www.rohneselmer.no/biler/lager/1213007/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-11 10:26:54,999 [INFO]   ✓ Ford Ranger 3 0 V6 Ecoblue E 4Wd | No price
+2026-03-11 10:26:56,504 [INFO] [208/233] Scraping: https://www.rohneselmer.no/biler/lager/1210562/1099/ford-transit-custom-e-tourneo-custom-340
+2026-03-11 10:27:00,083 [INFO]   ✓ Ford Transit Custom E Tourneo Custom 340 | No price
+2026-03-11 10:27:01,588 [INFO] [209/233] Scraping: https://www.rohneselmer.no/biler/lager/1210201/1099/audi-a6-a6-avant-50-tfsi-e-quattro
+2026-03-11 10:27:06,121 [INFO]   ✓ Audi A6 A6 Avant 50 Tfsi E Quattro | No price
+2026-03-11 10:27:07,626 [INFO] [210/233] Scraping: https://www.rohneselmer.no/biler/lager/1212311/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-11 10:27:11,486 [INFO]   ✓ Ford Ranger 3 0 V6 Ecoblue E 4Wd | No price
+2026-03-11 10:27:12,988 [INFO] [211/233] Scraping: https://www.rohneselmer.no/biler/lager/1210124/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-11 10:27:16,488 [INFO]   ✓ Ford Ranger 3 0 V6 Ecoblue E 4Wd | No price
+2026-03-11 10:27:17,993 [INFO] [212/233] Scraping: https://www.rohneselmer.no/biler/lager/1211264/1099/ford-f-series-3-0-v6-power-stroke-4x4
+2026-03-11 10:27:21,704 [INFO]   ✓ Ford F Series 3 0 V6 Power Stroke 4X4 | No price
+2026-03-11 10:27:23,209 [INFO] [213/233] Scraping: https://www.rohneselmer.no/biler/lager/1212294/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-11 10:27:27,538 [INFO]   ✓ Ford Ranger 3 0 V6 Ecoblue E 4Wd | No price
+2026-03-11 10:27:29,043 [INFO] [214/233] Scraping: https://www.rohneselmer.no/biler/lager/1210025/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-11 10:27:32,250 [INFO]   ✓ Ford Ranger 3 0 V6 Ecoblue E 4Wd | No price
+2026-03-11 10:27:33,755 [INFO] [215/233] Scraping: https://www.rohneselmer.no/biler/lager/1210196/1099/ford-mustang-mach-e-mustang-mach-e-gt
+2026-03-11 10:27:36,858 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Gt | No price
+2026-03-11 10:27:38,364 [INFO] [216/233] Scraping: https://www.rohneselmer.no/biler/lager/1211589/1099/chevrolet-silverado-3-0-duramax-4wd
+2026-03-11 10:27:41,788 [INFO]   ✓ Chevrolet Silverado 3 0 Duramax 4Wd | No price
+2026-03-11 10:27:43,294 [INFO] [217/233] Scraping: https://www.rohneselmer.no/biler/lager/1212098/1099/ford-mustang-mach-e-mustang-mach-e-rally
+2026-03-11 10:27:46,762 [INFO]   ✓ Ford Mustang Mach E Mustang Mach E Rally | No price
+2026-03-11 10:27:48,265 [INFO] [218/233] Scraping: https://www.rohneselmer.no/biler/lager/1211557/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-11 10:27:51,571 [INFO]   ✓ Ford Ranger 3 0 V6 Ecoblue E 4Wd | No price
+2026-03-11 10:27:53,076 [INFO] [219/233] Scraping: https://www.rohneselmer.no/biler/lager/1211725/1099/ford-transit-custom-e-tourneo-custom-340
+2026-03-11 10:27:56,620 [INFO]   ✓ Ford Transit Custom E Tourneo Custom 340 | No price
+2026-03-11 10:27:58,125 [INFO] [220/233] Scraping: https://www.rohneselmer.no/biler/lager/1212662/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-11 10:28:01,383 [INFO]   ✓ Ford Explorer Explorer Plug In Hybrid | No price
+2026-03-11 10:28:02,888 [INFO] [221/233] Scraping: https://www.rohneselmer.no/biler/lager/1211345/1099/ford-ranger-ranger-phev
+2026-03-11 10:28:06,574 [INFO]   ✓ Ford Ranger Ranger Phev | No price
+2026-03-11 10:28:08,077 [INFO] [222/233] Scraping: https://www.rohneselmer.no/biler/lager/1212469/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-11 10:28:11,414 [INFO]   ✓ Ford F Series F 150 Lightning Standard Range | No price
+2026-03-11 10:28:12,916 [INFO] [223/233] Scraping: https://www.rohneselmer.no/biler/lager/1212660/1099/ford-ranger-ranger-phev
+2026-03-11 10:28:16,242 [INFO]   ✓ Ford Ranger Ranger Phev | No price
+2026-03-11 10:28:17,747 [INFO] [224/233] Scraping: https://www.rohneselmer.no/biler/lager/1210192/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-11 10:28:21,535 [INFO]   ✓ Ford F Series F 150 Lightning Standard Range | No price
+2026-03-11 10:28:23,040 [INFO] [225/233] Scraping: https://www.rohneselmer.no/biler/lager/1212399/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-11 10:28:26,633 [INFO]   ✓ Ford F Series F 150 Lightning Standard Range | No price
+2026-03-11 10:28:28,136 [INFO] [226/233] Scraping: https://www.rohneselmer.no/biler/lager/1212681/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-11 10:28:31,843 [INFO]   ✓ Ford F Series F 150 Lightning Standard Range | No price
+2026-03-11 10:28:33,347 [INFO] [227/233] Scraping: https://www.rohneselmer.no/biler/lager/1212820/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-11 10:28:36,660 [INFO]   ✓ Ford F Series F 150 Lightning Standard Range | No price
+2026-03-11 10:28:38,165 [INFO] [228/233] Scraping: https://www.rohneselmer.no/biler/lager/1211334/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-11 10:28:41,833 [INFO]   ✓ Ford F Series F 150 Lightning Standard Range | No price
+2026-03-11 10:28:43,334 [INFO] [229/233] Scraping: https://www.rohneselmer.no/biler/lager/1210101/1099/ford-transit-e-transit-425
+2026-03-11 10:28:46,676 [INFO]   ✓ Ford Transit E Transit 425 | No price
+2026-03-11 10:28:48,181 [INFO] [230/233] Scraping: https://www.rohneselmer.no/biler/lager/1212052/1099/ram-1500-1500-trx
+2026-03-11 10:28:51,577 [INFO]   ✓ Ram 1500 1500 Trx | No price
+2026-03-11 10:28:53,083 [INFO] [231/233] Scraping: https://www.rohneselmer.no/biler/lager/1212397/1099/ford-f-series-5-0-v8-ti-vct-ffv-4x4
+2026-03-11 10:28:56,397 [INFO]   ✓ Ford F Series 5 0 V8 Ti Vct Ffv 4X4 | No price
+2026-03-11 10:28:57,902 [INFO] [232/233] Scraping: https://www.rohneselmer.no/biler/lager/1212462/1099/ford-bronco-2-7-v6-ecoboost-e-4wd
+2026-03-11 10:29:01,512 [INFO]   ✓ Ford Bronco 2 7 V6 Ecoboost E 4Wd | No price
+2026-03-11 10:29:03,017 [INFO] [233/233] Scraping: https://www.rohneselmer.no/biler/lager/1210215/1099/ford-mustang-mustang-boss-429
+2026-03-11 10:29:06,555 [INFO]   ✓ Ford Mustang Mustang Boss 429 | No price
+2026-03-11 10:29:08,059 [INFO] 
+Successfully scraped: 233/233 vehicles
+2026-03-11 10:29:08,067 [INFO] 
+✅ Feed saved to: rohneselmer_feed.xml
+2026-03-11 10:29:08,067 [INFO]    Total items: 233
+2026-03-11 10:29:08,067 [INFO] ============================================================
