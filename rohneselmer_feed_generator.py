@@ -457,6 +457,12 @@ def build_meta_feed(vehicles):
         lines.append(f'    <model>{esc(v["model"])}</model>')
         lines.append(f'    <year>{esc(v["year"])}</year>')
         lines.append(f'    <state_of_vehicle>USED</state_of_vehicle>')
+        lines.append(f'    <address format="simple">')
+        lines.append(f'      <component name="addr1">Bergerveien 12</component>')
+        lines.append(f'      <component name="city">Billingstad</component>')
+        lines.append(f'      <component name="postal_code">1396</component>')
+        lines.append(f'      <component name="country">Norway</component>')
+        lines.append(f'    </address>')
 
         price_num = v["price"].replace(" NOK", "").strip() if v["price"] else "0"
         lines.append(f'    <price>{esc(price_num)} NOK</price>')
@@ -467,8 +473,7 @@ def build_meta_feed(vehicles):
             lines.append(f'      <value>{esc(v["mileage"])}</value>')
             lines.append(f'    </mileage>')
 
-        if v["body_type"]:
-            lines.append(f'    <body_style>{esc(v["body_type"])}</body_style>')
+        lines.append(f'    <body_style>{esc(v["body_type"]) if v["body_type"] else "Sedan"}</body_style>')
         if v["transmission"]:
             lines.append(f'    <transmission>{esc(v["transmission"])}</transmission>')
         if v["fuel_type"]:

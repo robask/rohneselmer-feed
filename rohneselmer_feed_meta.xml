@@ -19,11 +19,18 @@
     <model>Golf e-Golf</model>
     <year>2016</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>79000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>61070</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -48,11 +55,18 @@
     <model>Hilux 3.0 D-4D 4x4</model>
     <year>2009</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>84900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>275000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -77,11 +91,18 @@
     <model>308 1.2 PureTech 130</model>
     <year>2014</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>94900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>73360</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -106,11 +127,18 @@
     <model>Kuga 2.0 TDCi AWD</model>
     <year>2013</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>109900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>172600</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -135,11 +163,18 @@
     <model>EcoSport 1.0 EcoBoost</model>
     <year>2017</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>114900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>80000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -164,11 +199,18 @@
     <model>Leaf</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>124900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>87600</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -193,11 +235,18 @@
     <model>Niro Hybrid</model>
     <year>2018</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>129900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>123920</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elhybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -222,11 +271,18 @@
     <model>C-Klasse C 350 T e</model>
     <year>2016</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>139000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>147920</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -251,11 +307,18 @@
     <model>Kadjar 1.2 TCe</model>
     <year>2017</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>139000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>65800</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -280,11 +343,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>149000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>75800</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -309,11 +379,18 @@
     <model>Golf e-Golf</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>149900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>40500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -338,11 +415,18 @@
     <model>Model S Model S 75</model>
     <year>2017</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>159900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>130440</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -367,11 +451,18 @@
     <model>3 Crossback 3 Crossback E-TENSE</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>159999 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>86420</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -396,11 +487,18 @@
     <model>2008 e-2008</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>166900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>59670</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -425,11 +523,18 @@
     <model>V60 D5 Plug-in Hybrid AWD</model>
     <year>2017</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>169000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>162150</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -454,11 +559,18 @@
     <model>V60 T2</model>
     <year>2017</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>169900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>130000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -483,11 +595,18 @@
     <model>Leaf e+</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>169900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>92000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -512,11 +631,18 @@
     <model>Kona Electric 64 kWh</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>179900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>95000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -541,11 +667,18 @@
     <model>Kona Electric 64 kWh</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>182900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>114060</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -570,11 +703,18 @@
     <model>Transit Courier 1.5 TDCi</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>189000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>13090</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -599,11 +739,18 @@
     <model>Kona Electric 39.2 kWh</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>189900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>48700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <vin>TMAK381HFNJ055214</vin>
@@ -627,11 +774,18 @@
     <model>Yaris Hybrid</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>189900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>36830</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elhybrid</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -656,11 +810,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>189900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>91000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -685,11 +846,18 @@
     <model>A4 2.0 TFSI ultra</model>
     <year>2016</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>199900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>174700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -714,11 +882,18 @@
     <model>5008 1.6 BlueHDi 120 8v</model>
     <year>2018</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>209000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>126940</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -743,11 +918,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>214900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -772,11 +954,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>219900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>85500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -801,11 +990,18 @@
     <model>GLA 220 CDI 4MATIC</model>
     <year>2014</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>219900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>135870</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -830,11 +1026,18 @@
     <model>Marvel R Marvel R</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>219900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>123500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -859,11 +1062,18 @@
     <model>T-Cross 1.0 TSI OPF</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>219900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>84710</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -888,11 +1098,18 @@
     <model>Leaf e+</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>221900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>34900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -917,11 +1134,18 @@
     <model>Kona Electric 64 kWh</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>222222 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>72820</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -946,11 +1170,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>222222 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>72190</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -975,11 +1206,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>225500 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>173110</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -1004,11 +1242,18 @@
     <model>Caddy 2.0 TDI BMT</model>
     <year>2018</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>227900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>171540</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -1033,11 +1278,18 @@
     <model>I-Pace EV400</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>229800 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>83240</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -1062,11 +1314,18 @@
     <model>Leaf</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>229900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>9100</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1091,11 +1350,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>229900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>36400</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -1120,11 +1386,18 @@
     <model>Leaf e+</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>238550 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>31910</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -1149,11 +1422,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>239000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>125680</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1178,11 +1458,18 @@
     <model>Born 58</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>239000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>74670</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -1207,11 +1494,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>239000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>91500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -1236,11 +1530,18 @@
     <model>X4 xDrive20d</model>
     <year>2015</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>239500 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>151400</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -1265,11 +1566,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>239550 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>55550</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1294,11 +1602,18 @@
     <model>Outlander PHEV</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>239900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>93200</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Sølv</exterior_color>
@@ -1323,11 +1638,18 @@
     <model>ZS SUV ZS EV Long Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>244900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>22800</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -1352,11 +1674,18 @@
     <model>Transit Custom 2.0 EcoBlue</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>249000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>158750</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -1381,11 +1710,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>249900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>52170</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1410,11 +1746,18 @@
     <model>Outlander PHEV</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>249900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>137100</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1439,11 +1782,18 @@
     <model>3008 GT HYBRID4</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>249900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>61000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -1468,11 +1818,18 @@
     <model>Corolla Touring Sports Hybrid</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>249900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>63100</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elhybrid</fuel_type>
     <exterior_color>Grønn</exterior_color>
@@ -1497,11 +1854,18 @@
     <model>Land Cruiser Prado 3.0 D-4D 4WD</model>
     <year>2011</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>252900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>306800</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -1526,11 +1890,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>259750 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>110750</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1555,11 +1926,18 @@
     <model>Ioniq 5 72.6 kWh</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>259900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>66700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1584,11 +1962,18 @@
     <model>Corolla Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>264000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>21810</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elhybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -1613,11 +1998,18 @@
     <model>2 Long Range Dual Motor</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>264900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>129500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1642,11 +2034,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>269900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>69900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1671,11 +2070,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>269900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>72000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -1700,11 +2106,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>278888 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>70000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1729,11 +2142,18 @@
     <model>2 Long Range Dual Motor</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>279000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>107900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1758,11 +2178,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>279900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>101500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1787,11 +2214,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>279900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>54000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -1816,11 +2250,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>279900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>54730</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1845,11 +2286,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>279900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>77700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1874,11 +2322,18 @@
     <model>e-tron 55 quattro</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>279900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>138000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -1903,11 +2358,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>282900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>54080</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -1932,11 +2394,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>289000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>52410</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -1961,11 +2430,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>289000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28140</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -1990,11 +2466,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>289000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>37680</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -2019,11 +2502,18 @@
     <model>Transit Custom 2.0 EcoBlue</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>289900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>77730</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -2048,11 +2538,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>289900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>93500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2077,11 +2574,18 @@
     <model>Puma 1.0 EcoBoost</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>294900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>60240</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -2106,11 +2610,18 @@
     <model>XC40 P8 AWD Recharge</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>294900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>94000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2135,11 +2646,18 @@
     <model>Transit Connect 1.5 EcoBlue</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>295550 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>54370</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2164,11 +2682,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>298000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>42380</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -2193,11 +2718,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>79330</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2222,11 +2754,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>46150</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -2251,11 +2790,18 @@
     <model>Sportage 1.6 CRDi AWD</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>54980</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -2280,11 +2826,18 @@
     <model>GLC 350 e 4MATIC</model>
     <year>2018</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>90600</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2309,11 +2862,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299888 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>40470</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2338,11 +2898,18 @@
     <model>Model Y Model Y Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>134500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -2367,11 +2934,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>99210</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -2396,11 +2970,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>93000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -2425,11 +3006,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>299900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>21890</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -2454,11 +3042,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>304900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>98520</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -2483,11 +3078,18 @@
     <model>Model 3 Model 3 Standard Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>304900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28980</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -2512,11 +3114,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>309000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>33700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2541,11 +3150,18 @@
     <model>C40 Recharge Single Motor</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>319000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>45450</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2570,11 +3186,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>319900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>27000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -2599,11 +3222,18 @@
     <model>Soul e-Soul</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>322666 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>41080</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2628,11 +3258,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>329900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>38550</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2657,11 +3294,18 @@
     <model>bZ4X 71.4 kWh</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>334567 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>46000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <vin>JTMAABAA60A009123</vin>
@@ -2685,11 +3329,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>338999 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28010</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2714,11 +3365,18 @@
     <model>Kuga 2.0 EcoBlue AWD</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>339000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>99600</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -2743,11 +3401,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range AWD</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>339900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>42490</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -2772,11 +3437,18 @@
     <model>Pathfinder 3.0 V6 4WD</model>
     <year>2013</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>339900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>87500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2801,11 +3473,18 @@
     <model>Mustang Mach-E Mustang Mach-E Standard Range AWD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>344900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>53880</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -2830,11 +3509,18 @@
     <model>Kuga 2.0 EcoBlue AWD</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>347750 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>83500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2859,11 +3545,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>349000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>56950</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2888,11 +3581,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>349000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>60540</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -2917,11 +3617,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>349900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>12060</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -2946,11 +3653,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>358900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>5950</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -2975,11 +3689,18 @@
     <model>bZ4X 71.4 kWh AWD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>43470</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -3004,11 +3725,18 @@
     <model>2 Long Range Dual Motor Performance</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>82000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3033,11 +3761,18 @@
     <model>Sorento PHEV</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>162000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3062,11 +3797,18 @@
     <model>EQB 300 4MATIC</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>78100</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3091,11 +3833,18 @@
     <model>Transit Courier E-Transit Courier</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>5000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3120,11 +3869,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>3000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3149,11 +3905,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>41900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3178,11 +3941,18 @@
     <model>Transit Courier E-Transit Courier</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>4890</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3207,11 +3977,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8180</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3236,11 +4013,18 @@
     <model>Transit Custom Tourneo Custom Plug-in Hybrid</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>369900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>127940</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3265,11 +4049,18 @@
     <model>Transit Courier E-Transit Courier</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>374900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>1810</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -3294,11 +4085,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>374900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>4300</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3323,11 +4121,18 @@
     <model>5 Series 530e xDrive iPerformance Sedan</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>374900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>59020</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -3352,11 +4157,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>379900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>24500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3381,11 +4193,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>389900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>4270</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -3410,11 +4229,18 @@
     <model>EQV 300</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>389900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>100730</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3439,11 +4265,18 @@
     <model>RAV4 Plug-in Hybrid</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>389900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>80800</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3468,11 +4301,18 @@
     <model>S-MAX 2.0 EcoBlue AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>398800 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>134110</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -3497,11 +4337,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>399900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>64530</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3526,11 +4373,18 @@
     <model>Puma Gen-E</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>399900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>4750</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Gul</exterior_color>
@@ -3555,11 +4409,18 @@
     <model>Capri EV Capri EV Extended Range RWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>399900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>15500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -3584,11 +4445,18 @@
     <model>ID.5 GTX</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>399900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>46000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -3613,11 +4481,18 @@
     <model>Across Plug-in Hybrid</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>409900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>43650</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3642,11 +4517,18 @@
     <model>EV3 Long Range</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>409900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>12750</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3671,11 +4553,18 @@
     <model>Transit Connect 2.0 EcoBlue</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>409900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>7500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -3700,11 +4589,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>409900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>56390</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -3729,11 +4625,18 @@
     <model>EV3 Long Range</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>419000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8600</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3758,11 +4661,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>419900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>39900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Oransje</exterior_color>
@@ -3787,11 +4697,18 @@
     <model>EV3 Long Range</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>419900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>29700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -3816,11 +4733,18 @@
     <model>EV3 Long Range</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>419900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>15900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3845,11 +4769,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>424900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>61090</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -3874,11 +4805,18 @@
     <model>XC90 Recharge T8 AWD</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>434900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>139950</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -3903,11 +4841,18 @@
     <model>Explorer EV Explorer EV Extended Range RWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>439900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>7010</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -3932,11 +4877,18 @@
     <model>Transit Custom E-Transit Custom 320</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>449900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>4300</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -3961,11 +4913,18 @@
     <model>Ranger Raptor</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>449900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>146170</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -3990,11 +4949,18 @@
     <model>Transit Custom E-Transit Custom 320</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>449900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -4019,11 +4985,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>449900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28150</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4048,11 +5021,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>449900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>36480</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -4077,11 +5057,18 @@
     <model>V60 D4 AWD</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>459000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>116230</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -4106,11 +5093,18 @@
     <model>Transporter 2.0 TDI BMT 4Motion</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>459900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>108610</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -4135,11 +5129,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>459900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>48700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -4164,11 +5165,18 @@
     <model>Ranger 2.0 EcoBlue Bi-Turbo 4x4</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>459900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>70370</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -4193,11 +5201,18 @@
     <model>Explorer EV Explorer EV Extended Range RWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>469000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>5900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -4222,11 +5237,18 @@
     <model>Mustang Mach-E Mustang Mach-E GT</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>469900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>33000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -4251,11 +5273,18 @@
     <model>Transit Custom E-Transit Custom 320</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>469900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>20000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4280,11 +5309,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>479900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>26900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4309,11 +5345,18 @@
     <model>Ranger 2.0 EcoBlue Bi-Turbo 4x4</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>479900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>42280</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -4338,11 +5381,18 @@
     <model>Transit Connect 2.0 EcoBlue AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>479900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>10000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -4367,11 +5417,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>484900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28590</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4396,11 +5453,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>488900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>20580</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -4425,11 +5489,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>488900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>13760</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -4454,11 +5525,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>16950</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4483,11 +5561,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>14010</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -4512,11 +5597,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>25420</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4541,11 +5633,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>16410</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4570,11 +5669,18 @@
     <model>Transit Custom E-Transit Custom 320</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>12500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -4599,11 +5705,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>32000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -4628,11 +5741,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>489900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>23000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4657,11 +5777,18 @@
     <model>Transit Custom E-Transit Custom 320</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>494900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8930</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -4686,11 +5813,18 @@
     <model>EV6 GT</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>498900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>15100</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <vin>KNAC581EPR5181767</vin>
@@ -4714,11 +5848,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>499000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>20000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4743,11 +5884,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>499900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>11840</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4772,11 +5920,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>499900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>15710</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4801,11 +5956,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>499900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>21580</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4830,11 +5992,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>505000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>16650</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -4859,11 +6028,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>9590</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4888,11 +6064,18 @@
     <model>Transit Custom 2.0 EcoBlue AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>29500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -4917,11 +6100,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>10960</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -4946,11 +6136,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>13220</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -4975,11 +6172,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>12850</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -5004,11 +6208,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>13370</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -5033,11 +6244,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>509900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>17820</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -5062,11 +6280,18 @@
     <model>EV6 GT</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>512512 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>20610</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5091,11 +6316,18 @@
     <model>Transit Custom E-Transit Custom 320</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>519000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>15000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5120,11 +6352,18 @@
     <model>Transit 2.0 EcoBlue</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>519900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>19050</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5149,11 +6388,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>519900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>1030</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5178,11 +6424,18 @@
     <model>Kodiaq 2.0 TDI SCR 4x4</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>527000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>72550</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5207,11 +6460,18 @@
     <model>Kuga Plug-In Hybrid</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>529000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>21000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <vin>WF0FXXWPMHRC29979</vin>
@@ -5235,11 +6495,18 @@
     <model>Transit Custom 2.0 EcoBlue AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>529900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>28900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -5264,11 +6531,18 @@
     <model>Capri EV Capri EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>529900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>5840</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -5293,11 +6567,18 @@
     <model>Transit Custom 2.0 EcoBlue</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>539000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -5322,11 +6603,18 @@
     <model>GLS 350 d 4MATIC</model>
     <year>2018</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>539000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>125840</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5351,11 +6639,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2026</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>539000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>1250</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -5380,11 +6675,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2026</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>539900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>1200</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5409,11 +6711,18 @@
     <model>Explorer EV Explorer EV Extended Range RWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>545000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>2500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -5438,11 +6747,18 @@
     <model>Explorer Plug-In Hybrid</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>549900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>93310</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5467,11 +6783,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2026</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>559900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>1260</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5496,11 +6819,18 @@
     <model>Capri EV Capri EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>559900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>33900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Rød</exterior_color>
@@ -5525,11 +6855,18 @@
     <model>Capri EV Capri EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>579900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>4420</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <vin>WF0SPCEF3SSP57417</vin>
@@ -5553,11 +6890,18 @@
     <model>Capri EV Capri EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>579900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>3870</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <vin>WF0SPCEF2SRS37474</vin>
@@ -5581,11 +6925,18 @@
     <model>Capri EV Capri EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>579900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>7500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5610,11 +6961,18 @@
     <model>Explorer Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>579900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>107000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5639,11 +6997,18 @@
     <model>Explorer EV Explorer EV Extended Range AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>579900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>7900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5668,11 +7033,18 @@
     <model>Transit Custom 2.0 EcoBlue AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>579900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8450</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5697,11 +7069,18 @@
     <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>589900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8990</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5726,11 +7105,18 @@
     <model>Transit Custom 2.0 EcoBlue AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>609900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>5300</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5755,11 +7141,18 @@
     <model>Ranger 2.0 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>619900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>48340</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5784,11 +7177,18 @@
     <model>Transit Custom 2.0 EcoBlue AWD</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>619900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>27260</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -5813,11 +7213,18 @@
     <model>Ranger 2.0 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>639900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>37260</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5842,11 +7249,18 @@
     <model>Explorer Plug-In Hybrid</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>639900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>77930</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5871,11 +7285,18 @@
     <model>Ranger 3.0 V6 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>644900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>46700</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -5900,11 +7321,18 @@
     <model>F-Series 3.0 V6 Power Stroke 4x4</model>
     <year>2018</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>649900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>115000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -5929,11 +7357,18 @@
     <model>Transit Custom E-Tourneo Custom 340</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>649900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>10170</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -5958,11 +7393,18 @@
     <model>A6 Avant 50 TFSI e quattro</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>649900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>34510</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -5987,11 +7429,18 @@
     <model>Ranger 3.0 V6 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>654900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>55400</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -6016,11 +7465,18 @@
     <model>Ranger 3.0 V6 EcoBlue e-4WD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>659900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>52100</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -6045,11 +7501,18 @@
     <model>Ranger 3.0 V6 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>674900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>34000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -6074,11 +7537,18 @@
     <model>Ranger 3.0 V6 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>678000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>41310</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -6103,11 +7573,18 @@
     <model>Mustang Mach-E Mustang Mach-E GT</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>679900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>13000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -6132,11 +7609,18 @@
     <model>Silverado 3.0 Duramax 4WD</model>
     <year>2020</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>689900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>117000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -6161,11 +7645,18 @@
     <model>Mustang Mach-E Mustang Mach-E Rally</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>689900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>6500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisk</fuel_type>
     <exterior_color>Grønn</exterior_color>
@@ -6190,11 +7681,18 @@
     <model>Ranger 3.0 V6 EcoBlue e-4WD</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>689900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>27890</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Diesel</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -6219,11 +7717,18 @@
     <model>Transit Custom E-Tourneo Custom 340</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>694900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>1640</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6248,11 +7753,18 @@
     <model>Explorer Plug-In Hybrid</model>
     <year>2022</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>739900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>75000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in hybrid</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6277,11 +7789,18 @@
     <model>Ranger PHEV</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>759900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>19900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <exterior_color>Oransje</exterior_color>
@@ -6306,11 +7825,18 @@
     <model>F-Series F-150 Lightning Standard Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>769900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>67000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6335,11 +7861,18 @@
     <model>Ranger PHEV</model>
     <year>2025</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>779900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>12470</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -6364,11 +7897,18 @@
     <model>F-Series F-150 Lightning Standard Range</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>799900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>44500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6393,11 +7933,18 @@
     <model>F-Series F-150 Lightning Standard Range</model>
     <year>2024</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>814900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>11900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6422,11 +7969,18 @@
     <model>F-Series F-150 Lightning Standard Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>819900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>32200</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6451,11 +8005,18 @@
     <model>F-Series F-150 Lightning Standard Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>819900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>36650</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Elektrisitet</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6480,11 +8041,18 @@
     <model>F-Series F-150 Lightning Standard Range</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>839900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>32500</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Blå</exterior_color>
@@ -6509,11 +8077,18 @@
     <model>Transit E-Transit 425</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>1290000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>3000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>El</fuel_type>
     <exterior_color>Hvit</exterior_color>
@@ -6538,11 +8113,18 @@
     <model>1500 TRX</model>
     <year>2021</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>1349900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>61900</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -6567,11 +8149,18 @@
     <model>F-Series 5.0 V8 Ti-VCT FFV 4x4</model>
     <year>2019</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>1390000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>41000</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Bensin/E85</fuel_type>
     <exterior_color>Svart</exterior_color>
@@ -6596,11 +8185,18 @@
     <model>Bronco 2.7 V6 EcoBoost e-4WD</model>
     <year>2023</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>1399900 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>27690</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Automat</transmission>
     <fuel_type>Forbrenningsmotor</fuel_type>
     <exterior_color>Grå</exterior_color>
@@ -6625,11 +8221,18 @@
     <model>Mustang Boss 429</model>
     <year>1969</year>
     <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Bergerveien 12</component>
+      <component name="city">Billingstad</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
     <price>6500000 NOK</price>
     <mileage>
       <unit>KM</unit>
       <value>8830</value>
     </mileage>
+    <body_style>Sedan</body_style>
     <transmission>Manuell</transmission>
     <fuel_type>Bensin</fuel_type>
     <exterior_color>Hvit</exterior_color>
