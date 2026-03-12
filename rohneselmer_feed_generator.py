@@ -429,14 +429,10 @@ def build_feed(vehicles):
 
 
 def build_meta_feed(vehicles):
-    """Generate Meta Automotive Inventory Ads compatible XML feed."""
-    from datetime import datetime as dt
+    """Generate Meta Automotive Inventory Ads feed in correct <listings> format."""
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
-    lines.append('<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">')
-    lines.append('  <title>Rohne Selmer — Bruktbiler Meta Feed</title>')
-    lines.append('  <link rel="self" href="https://robask.github.io/rohneselmer-feed/rohneselmer_feed_meta.xml"/>')
-    lines.append('  <updated>' + dt.now().strftime('%Y-%m-%dT%H:%M:%SZ') + '</updated>')
+    lines.append('<listings>')
 
     def esc(val):
         if not val:
@@ -446,40 +442,49 @@ def build_meta_feed(vehicles):
     for v in vehicles:
         if not v:
             continue
-        lines.append('  <entry>')
+        lines.append('  <listing>')
+        lines.append(f'    <vehicle_id>{esc(v["id"])}</vehicle_id>')
+        lines.append(f'    <title>{esc(v["title"])}</title>')
+        lines.append(f'    <description>{esc(v["description"] or v["title"])}</description>')
+        lines.append(f'    <url>{esc(v["url"])}</url>')
 
-        def field(tag, value):
-            if value:
-                lines.append(f'    <g:{tag}>{esc(value)}</g:{tag}>')
-
-        field("id",               v["id"])
-        field("title",            v["title"])
-        field("description",      v["description"] or v["title"])
-        field("url",              v["url"])
-        field("image_url",        v["main_image"])
-        field("make",             v["brand"])
-        field("model",            v["model"])
-        field("year",             v["year"])
-        field("mileage.value",    v["mileage"])
-        field("mileage.unit",     "KM" if v["mileage"] else None)
-        field("price",            v["price"])
-        field("currency",         "NOK")
-        field("availability",     "available")
-        field("state_of_vehicle", "used")
-        field("vin",              v["vin"])
-        field("fuel_type",        v["fuel_type"])
-        field("transmission",     v["transmission"])
-        field("body_style",       v["body_type"])
-        field("exterior_color",   v["color"])
-        field("drivetrain",       v["drive_type"])
-
+        if v["main_image"]:
+            lines.append(f'    <image><url>{esc(v["main_image"])}</url></image>')
         for img in v["extra_images"][:9]:
-            field("image_url",    img)
+            lines.append(f'    <image><url>{esc(img)}</url></image>')
 
-        lines.append('  </entry>')
+        lines.append(f'    <make>{esc(v["brand"])}</make>')
+        lines.append(f'    <model>{esc(v["model"])}</model>')
+        lines.append(f'    <year>{esc(v["year"])}</year>')
+        lines.append(f'    <state_of_vehicle>USED</state_of_vehicle>')
 
-    lines.append('</feed>')
-    return "\n".join(lines)
+        price_num = v["price"].replace(" NOK", "").strip() if v["price"] else "0"
+        lines.append(f'    <price>{esc(price_num)} NOK</price>')
+
+        if v["mileage"]:
+            lines.append(f'    <mileage>')
+            lines.append(f'      <unit>KM</unit>')
+            lines.append(f'      <value>{esc(v["mileage"])}</value>')
+            lines.append(f'    </mileage>')
+
+        if v["body_type"]:
+            lines.append(f'    <body_style>{esc(v["body_type"])}</body_style>')
+        if v["transmission"]:
+            lines.append(f'    <transmission>{esc(v["transmission"])}</transmission>')
+        if v["fuel_type"]:
+            lines.append(f'    <fuel_type>{esc(v["fuel_type"])}</fuel_type>')
+        if v["color"]:
+            lines.append(f'    <exterior_color>{esc(v["color"])}</exterior_color>')
+        if v["drive_type"]:
+            lines.append(f'    <drivetrain>{esc(v["drive_type"])}</drivetrain>')
+        if v["vin"]:
+            lines.append(f'    <vin>{esc(v["vin"])}</vin>')
+
+        lines.append('  </listing>')
+
+    lines.append('</listings>')
+    return chr(10).join(lines)
+
 
 def main():
     log.info("=" * 60)
