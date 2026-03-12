@@ -428,6 +428,33 @@ def build_feed(vehicles):
 # ══════════════════════════════════════════════════════════
 
 
+
+def translate_fuel_type(val):
+    if not val:
+        return "OTHER"
+    v = val.strip().lower()
+    if v in ("el", "elektrisk", "electric", "ev"):
+        return "ELECTRIC"
+    if v in ("bensin", "gasoline", "petrol"):
+        return "GASOLINE"
+    if v in ("diesel", "forbrenningsmotor"):
+        return "DIESEL"
+    if "plug" in v or "plugin" in v or "plug-in" in v:
+        return "PLUGIN_HYBRID"
+    if "hybrid" in v:
+        return "HYBRID"
+    return "OTHER"
+
+def translate_transmission(val):
+    if not val:
+        return "OTHER"
+    v = val.strip().lower()
+    if v in ("automat", "automatic", "automatisk"):
+        return "AUTOMATIC"
+    if v in ("manuell", "manual"):
+        return "MANUAL"
+    return "OTHER"
+
 def build_meta_feed(vehicles):
     """Generate Meta Automotive Inventory Ads feed in correct <listings> format."""
     lines = []
@@ -463,6 +490,7 @@ def build_meta_feed(vehicles):
         lines.append(f'      <component name="postal_code">1396</component>')
         lines.append(f'      <component name="country">Norway</component>')
         lines.append(f'    </address>')
+        lines.append(f'    <region>Akershus</region>')
 
         price_num = v["price"].replace(" NOK", "").strip() if v["price"] else "0"
         lines.append(f'    <price>{esc(price_num)} NOK</price>')
@@ -474,10 +502,8 @@ def build_meta_feed(vehicles):
             lines.append(f'    </mileage>')
 
         lines.append(f'    <body_style>{esc(v["body_type"]) if v["body_type"] else "Sedan"}</body_style>')
-        if v["transmission"]:
-            lines.append(f'    <transmission>{esc(v["transmission"])}</transmission>')
-        if v["fuel_type"]:
-            lines.append(f'    <fuel_type>{esc(v["fuel_type"])}</fuel_type>')
+        lines.append(f'    <transmission>{translate_transmission(v["transmission"])}</transmission>')
+        lines.append(f'    <fuel_type>{translate_fuel_type(v["fuel_type"])}</fuel_type>')
         if v["color"]:
             lines.append(f'    <exterior_color>{esc(v["color"])}</exterior_color>')
         if v["drive_type"]:
