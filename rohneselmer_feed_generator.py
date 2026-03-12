@@ -244,10 +244,17 @@ def scrape_vehicle(url):
     price_raw = extract_price(soup)
     price = price_raw if price_raw else None
 
-    # Images
+    # Images — use images[3] as main (third additional image, no graphics overlay)
     images = extract_images(soup, BASE_URL)
-    main_image = images[0] if images else None
-    extra_images = images[1:] if len(images) > 1 else []
+    if len(images) >= 4:
+        main_image = images[3]
+        extra_images = [img for i, img in enumerate(images) if i != 3]
+    elif images:
+        main_image = images[0]
+        extra_images = images[1:]
+    else:
+        main_image = None
+        extra_images = []
 
     # VIN
     vin = ld.get("vehicleIdentificationNumber")
@@ -387,11 +394,13 @@ def build_feed(vehicles):
         field("image_link",   v["main_image"])
         field("availability", v["availability"])
         field("condition",    v["condition"])
+        field("identifier_exists", "no")
+        field("product_type",     "Vehicles & Parts > Vehicles > Motor Vehicles > Cars, Trucks & Vans")
         field("price",        (v["price"] or "0") + " NOK")
         field("brand",        v["brand"])
         field("model",        v["model"])
         field("vehicle_year", v["year"])
-        field("gtin",         v["vin"])
+        field("identifier_exists", "no")
         if v["mileage"]:
             field("mileage",  v["mileage"] + " km")
         field("fuel_type",                 v["fuel_type"])
