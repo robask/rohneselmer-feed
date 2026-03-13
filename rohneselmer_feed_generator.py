@@ -487,10 +487,10 @@ def build_meta_feed(vehicles):
         lines.append(f'    <address format="simple">')
         lines.append(f'      <component name="addr1">Bergerveien 12</component>')
         lines.append(f'      <component name="city">Billingstad</component>')
+        lines.append(f'      <component name="region">Akershus</component>')
         lines.append(f'      <component name="postal_code">1396</component>')
         lines.append(f'      <component name="country">Norway</component>')
         lines.append(f'    </address>')
-        lines.append(f'    <region>Akershus</region>')
 
         price_num = v["price"].replace(" NOK", "").strip() if v["price"] else "0"
         lines.append(f'    <price>{esc(price_num)} NOK</price>')
