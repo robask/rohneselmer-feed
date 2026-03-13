@@ -257,6 +257,48 @@ def extract_dealer_address(soup):
 
     return result
 
+
+def extract_description(soup, fallback_title):
+    """
+    Extract the free-text description from the Beskrivelse tab.
+    Stops before bullet/spec lines and limits to 500 chars.
+    """
+    import re
+
+    tab = soup.select_one(".gw-tabs_content")
+    if not tab:
+        return fallback_title
+
+    sentences = []
+    total_len = 0
+
+    for el in tab.find_all(["p", "span", "strong", "br"]):
+        text = el.get_text(separator=" ", strip=True)
+        if not text:
+            continue
+
+        # Stop if line looks like a spec bullet (short, contains numbers/keywords)
+        if len(text) < 40 and re.search(r'\d|hestekrefter|varme|seter|dør|km|motor|gir|hjul|lakk|ratt|felg|navi|skinn|led|pdc|dab', text.lower()):
+            break
+
+        # Stop if line is very short and looks like a list item
+        if len(text) < 20:
+            continue
+
+        sentences.append(text)
+        total_len += len(text)
+
+        if total_len >= 500:
+            break
+
+    if sentences:
+        description = " ".join(sentences)
+        # Clean up extra whitespace
+        description = re.sub(r'\s+', ' ', description).strip()
+        return description[:600]
+
+    return fallback_title
+
 def scrape_vehicle(url):
     """Scrape all available data from a car listing page."""
     try:
@@ -286,15 +328,17 @@ def scrape_vehicle(url):
         parse_url_slug(url).replace("-", " ").title()
     )
 
-    # Description
-    description = (
-        ld.get("description") or
-        (soup.find("meta", {"name": "description"}) and
-         soup.find("meta", {"name": "description"}).get("content")) or
-        (soup.find("meta", property="og:description") and
-         soup.find("meta", property="og:description").get("content")) or
-        title
-    )
+    # Description — from Beskrivelse tab first, fallback to meta
+    description = extract_description(soup, title)
+    if not description or description == title:
+        description = (
+            ld.get("description") or
+            (soup.find("meta", {"name": "description"}) and
+             soup.find("meta", {"name": "description"}).get("content")) or
+            (soup.find("meta", property="og:description") and
+             soup.find("meta", property="og:description").get("content")) or
+            title
+        )
     description = description[:5000] if description else ""
 
     # Price
