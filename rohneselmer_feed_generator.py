@@ -234,18 +234,26 @@ def extract_dealer_address(soup):
         else:
             result["street"] = text
 
-    # Determine region from city/name
-    name_lower = result["name"].lower() + result["city"].lower()
+    # Determine region and dealer_name from city/name
+    name_lower = result["name"].lower() + " " + result["city"].lower()
     if any(x in name_lower for x in ["oslo"]):
         result["region"] = "Oslo"
+        result["dealer_name"] = "Oslo"
     elif any(x in name_lower for x in ["lillestrøm", "lillestrøm", "romerike", "lørenskog"]):
         result["region"] = "Viken"
+        result["dealer_name"] = "Lillestrøm"
     elif any(x in name_lower for x in ["asker", "bærum", "billingstad", "sandvika"]):
         result["region"] = "Viken"
-    elif any(x in name_lower for x in ["drammen", "buskerud"]):
+        result["dealer_name"] = "Asker og Bærum"
+    elif any(x in name_lower for x in ["hønefoss", "ringerike"]):
         result["region"] = "Viken"
+        result["dealer_name"] = "Hønefoss"
+    elif any(x in name_lower for x in ["lier", "lierstranda", "drammen"]):
+        result["region"] = "Viken"
+        result["dealer_name"] = "Lierstranda"
     else:
         result["region"] = "Viken"
+        result["dealer_name"] = result["name"] or "Rohne Selmer"
 
     return result
 
@@ -406,6 +414,7 @@ def scrape_vehicle(url):
         "dealer_city":      dealer["city"],
         "dealer_postal":    dealer["postal_code"],
         "dealer_region":    dealer["region"],
+        "dealer_name":      dealer.get("dealer_name", "Rohne Selmer"),
     }
 
 
@@ -544,6 +553,7 @@ def build_meta_feed(vehicles):
         lines.append(f'      <component name="postal_code">{esc(v["dealer_postal"])}</component>')
         lines.append(f'      <component name="country">Norway</component>')
         lines.append(f'    </address>')
+        lines.append(f'    <dealer_name>{esc(v["dealer_name"])}</dealer_name>')
 
         price_num = v["price"].replace(" NOK", "").strip() if v["price"] else "0"
         lines.append(f'    <price>{esc(price_num)} NOK</price>')
