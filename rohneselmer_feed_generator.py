@@ -201,6 +201,54 @@ def parse_specs_table(soup):
     return specs
 
 
+
+def extract_dealer_address(soup):
+    """Extract dealer address from gw-contact-card on listing page."""
+    result = {
+        "name": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "region": "Akershus",
+    }
+    card = soup.select_one(".gw-contact-card")
+    if not card:
+        return result
+
+    # Dealer name
+    title = card.select_one(".gw-card_title")
+    if title:
+        result["name"] = title.get_text(strip=True)
+
+    # Address text from <address> tag
+    addr = card.select_one("address")
+    if addr:
+        text = addr.get_text(separator=" ", strip=True)
+        import re
+        # Try to find postal code (4 digits) and split around it
+        match = re.search(r'(.*?)(\d{4})\s+(.*)', text)
+        if match:
+            result["street"] = match.group(1).strip().rstrip(",").strip()
+            result["postal_code"] = match.group(2)
+            result["city"] = match.group(3).strip()
+        else:
+            result["street"] = text
+
+    # Determine region from city/name
+    name_lower = result["name"].lower() + result["city"].lower()
+    if any(x in name_lower for x in ["oslo"]):
+        result["region"] = "Oslo"
+    elif any(x in name_lower for x in ["lillestrøm", "lillestrøm", "romerike", "lørenskog"]):
+        result["region"] = "Viken"
+    elif any(x in name_lower for x in ["asker", "bærum", "billingstad", "sandvika"]):
+        result["region"] = "Viken"
+    elif any(x in name_lower for x in ["drammen", "buskerud"]):
+        result["region"] = "Viken"
+    else:
+        result["region"] = "Viken"
+
+    return result
+
 def scrape_vehicle(url):
     """Scrape all available data from a car listing page."""
     try:
@@ -212,6 +260,7 @@ def scrape_vehicle(url):
 
     soup = BeautifulSoup(r.text, "lxml")
     ld  = extract_json_ld(soup)
+    dealer = extract_dealer_address(soup)
 
     # Extract listing ID from URL
     url_parts = url.split("/")
@@ -353,6 +402,10 @@ def scrape_vehicle(url):
         "engine_size":      engine_size or "",
         "seats":            seats or "",
         "reg_number":       reg_number or "",
+        "dealer_street":    dealer["street"],
+        "dealer_city":      dealer["city"],
+        "dealer_postal":    dealer["postal_code"],
+        "dealer_region":    dealer["region"],
     }
 
 
@@ -485,10 +538,10 @@ def build_meta_feed(vehicles):
         lines.append(f'    <year>{esc(v["year"])}</year>')
         lines.append(f'    <state_of_vehicle>USED</state_of_vehicle>')
         lines.append(f'    <address format="simple">')
-        lines.append(f'      <component name="addr1">Bergerveien 12</component>')
-        lines.append(f'      <component name="city">Billingstad</component>')
-        lines.append(f'      <component name="region">Akershus</component>')
-        lines.append(f'      <component name="postal_code">1396</component>')
+        lines.append(f'      <component name="addr1">{esc(v["dealer_street"])}</component>')
+        lines.append(f'      <component name="city">{esc(v["dealer_city"])}</component>')
+        lines.append(f'      <component name="region">{esc(v["dealer_region"])}</component>')
+        lines.append(f'      <component name="postal_code">{esc(v["dealer_postal"])}</component>')
         lines.append(f'      <component name="country">Norway</component>')
         lines.append(f'    </address>')
 
