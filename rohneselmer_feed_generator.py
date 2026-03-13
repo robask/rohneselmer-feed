@@ -230,7 +230,11 @@ def extract_dealer_address(soup):
         if match:
             result["street"] = match.group(1).strip().rstrip(",").strip()
             result["postal_code"] = match.group(2)
-            result["city"] = match.group(3).strip()
+            city_raw = match.group(3).strip()
+            # Remove "Telefon: XX XX XX XX" and similar
+            city_raw = re.sub(r'Telefon:.*', '', city_raw).strip()
+            city_raw = re.sub(r'\s+', ' ', city_raw).strip()
+            result["city"] = city_raw
         else:
             result["street"] = text
 
@@ -260,14 +264,31 @@ def extract_dealer_address(soup):
 
 def extract_description(soup, fallback_title):
     """
-    Extract the free-text description from the Beskrivelse tab.
-    Stops before bullet/spec lines and limits to 500 chars.
+    Extract free-text description from Beskrivelse tab.
+    Stops before spec bullet lines. Max 600 chars.
     """
     import re
 
-    tab = soup.select_one(".gw-tabs_content")
-    if not tab:
-        return fallback_title
+    # Try all tab panels
+    for tab in soup.select(".gw-tabs_content, [role='tabpanel']"):
+        paragraphs = []
+        for p in tab.find_all("p"):
+            text = p.get_text(separator=" ", strip=True)
+            text = re.sub(r"\s+", " ", text).strip()
+            if not text:
+                continue
+            # Stop at spec-like short lines
+            if len(text) < 35 and re.search(r"\d|hestekrefter|varme|seter|dør|km|motor|gir|hjul|lakk|ratt|felg|navi|skinn|led|pdc|dab", text.lower()):
+                break
+            if len(text) > 20:
+                paragraphs.append(text)
+            if sum(len(p) for p in paragraphs) >= 500:
+                break
+
+        if paragraphs:
+            return " ".join(paragraphs)[:600]
+
+    return fallback_title
 
     sentences = []
     total_len = 0

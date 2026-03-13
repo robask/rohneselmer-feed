@@ -21,7 +21,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -59,7 +59,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -97,7 +97,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -135,7 +135,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -173,7 +173,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -211,7 +211,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -249,7 +249,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -287,7 +287,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -325,7 +325,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -363,7 +363,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -401,7 +401,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -439,7 +439,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -477,7 +477,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -515,7 +515,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -553,7 +553,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -591,7 +591,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -629,7 +629,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -667,7 +667,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -705,7 +705,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -742,7 +742,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -780,7 +780,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -818,7 +818,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -856,7 +856,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -894,7 +894,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -932,7 +932,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -970,7 +970,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -1008,7 +1008,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -1046,7 +1046,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -1084,7 +1084,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -1122,7 +1122,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1160,7 +1160,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1198,7 +1198,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -1236,7 +1236,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1274,7 +1274,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -1312,7 +1312,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -1350,7 +1350,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -1388,7 +1388,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1426,7 +1426,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1464,7 +1464,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1502,7 +1502,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1540,7 +1540,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1578,7 +1578,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1616,7 +1616,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -1654,7 +1654,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -1692,7 +1692,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1730,7 +1730,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -1768,7 +1768,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -1806,7 +1806,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -1844,7 +1844,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -1882,7 +1882,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -1920,7 +1920,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1958,7 +1958,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -1996,7 +1996,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2034,7 +2034,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2072,7 +2072,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -2110,7 +2110,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2148,7 +2148,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2186,7 +2186,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2224,7 +2224,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2262,7 +2262,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2300,7 +2300,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -2338,7 +2338,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -2376,7 +2376,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2414,7 +2414,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -2452,7 +2452,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2490,7 +2490,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -2528,7 +2528,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2566,7 +2566,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2604,7 +2604,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -2642,7 +2642,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -2680,7 +2680,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -2718,7 +2718,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2756,7 +2756,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2794,7 +2794,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2832,7 +2832,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2870,7 +2870,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2908,7 +2908,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2946,7 +2946,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -2984,7 +2984,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -3022,7 +3022,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -3060,7 +3060,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -3098,7 +3098,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -3136,7 +3136,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3174,7 +3174,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -3212,7 +3212,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3250,7 +3250,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3288,7 +3288,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -3326,7 +3326,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -3364,7 +3364,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -3402,7 +3402,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3439,7 +3439,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3477,7 +3477,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3515,7 +3515,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -3553,7 +3553,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -3591,7 +3591,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -3629,7 +3629,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3667,7 +3667,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3705,7 +3705,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3743,7 +3743,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -3781,7 +3781,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -3819,7 +3819,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3857,7 +3857,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -3895,7 +3895,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -3933,7 +3933,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -3971,7 +3971,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -4009,7 +4009,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4047,7 +4047,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4085,7 +4085,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -4123,7 +4123,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -4161,7 +4161,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -4199,7 +4199,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -4237,7 +4237,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -4275,7 +4275,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -4313,7 +4313,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -4351,7 +4351,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4389,7 +4389,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -4427,7 +4427,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -4465,7 +4465,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -4503,7 +4503,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -4541,7 +4541,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4579,7 +4579,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -4617,7 +4617,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -4655,7 +4655,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4693,7 +4693,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -4731,7 +4731,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -4769,7 +4769,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -4807,7 +4807,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4845,7 +4845,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -4883,7 +4883,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -4921,7 +4921,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4959,7 +4959,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -4997,7 +4997,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -5035,7 +5035,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -5073,7 +5073,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5111,7 +5111,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -5149,7 +5149,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -5187,7 +5187,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5225,7 +5225,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5263,7 +5263,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -5301,7 +5301,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -5339,7 +5339,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5377,7 +5377,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -5415,7 +5415,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5453,7 +5453,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -5491,7 +5491,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5529,7 +5529,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -5567,7 +5567,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5605,7 +5605,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5643,7 +5643,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5681,7 +5681,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -5719,7 +5719,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -5757,7 +5757,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -5794,7 +5794,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -5832,7 +5832,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5870,7 +5870,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -5908,7 +5908,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5946,7 +5946,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -5984,7 +5984,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6022,7 +6022,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6060,7 +6060,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6098,7 +6098,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6136,7 +6136,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6174,7 +6174,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6212,7 +6212,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6249,7 +6249,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -6287,7 +6287,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6325,7 +6325,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6363,7 +6363,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6401,7 +6401,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -6439,7 +6439,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6477,7 +6477,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6515,7 +6515,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6553,7 +6553,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6591,7 +6591,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6629,7 +6629,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6667,7 +6667,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6705,7 +6705,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6742,7 +6742,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6779,7 +6779,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -6817,7 +6817,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -6855,7 +6855,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6893,7 +6893,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6931,7 +6931,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -6969,7 +6969,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -7007,7 +7007,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -7045,7 +7045,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -7083,7 +7083,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7121,7 +7121,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -7159,7 +7159,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7197,7 +7197,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7235,7 +7235,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7273,7 +7273,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -7311,7 +7311,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7349,7 +7349,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm Telefon: 21 50 50 50</component>
+      <component name="city">Lillestrøm</component>
       <component name="region">Viken</component>
       <component name="postal_code">2003</component>
       <component name="country">Norway</component>
@@ -7387,7 +7387,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7425,7 +7425,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7463,7 +7463,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -7501,7 +7501,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7539,7 +7539,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7577,7 +7577,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7615,7 +7615,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7653,7 +7653,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7691,7 +7691,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -7729,7 +7729,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7767,7 +7767,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss Telefon: 21 50 50 50</component>
+      <component name="city">Hønefoss</component>
       <component name="region">Viken</component>
       <component name="postal_code">3511</component>
       <component name="country">Norway</component>
@@ -7805,7 +7805,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7843,7 +7843,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -7881,7 +7881,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7919,7 +7919,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo Telefon: 21 50 50 50 E-post: [email protected]</component>
+      <component name="city">Oslo</component>
       <component name="region">Oslo</component>
       <component name="postal_code">0664</component>
       <component name="country">Norway</component>
@@ -7957,7 +7957,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -7995,7 +7995,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
@@ -8033,7 +8033,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum Telefon: 21 50 50 50</component>
+      <component name="city">Asker og Bærum</component>
       <component name="region">Viken</component>
       <component name="postal_code">1396</component>
       <component name="country">Norway</component>
@@ -8071,7 +8071,7 @@
     <state_of_vehicle>USED</state_of_vehicle>
     <address format="simple">
       <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda Telefon: 21 50 50 50</component>
+      <component name="city">Lierstranda</component>
       <component name="region">Viken</component>
       <component name="postal_code">3400</component>
       <component name="country">Norway</component>
