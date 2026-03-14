@@ -485,6 +485,35 @@ def scrape_vehicle(url):
 #  STEP 3 — Build XML feed (GMC + Meta compatible)
 # ══════════════════════════════════════════════════════════
 
+
+def translate_fuel_type_google(val):
+    """Translate Norwegian fuel type to Google accepted values."""
+    if not val:
+        return None
+    v = val.strip().lower()
+    if v in ("el", "elektrisk", "electric"):
+        return "Electric"
+    if v in ("bensin", "gasoline", "petrol"):
+        return "Gasoline"
+    if v in ("diesel", "forbrenningsmotor"):
+        return "Diesel"
+    if "plug" in v or "plugin" in v or "plug-in" in v:
+        return "Plug-in Hybrid"
+    if "hybrid" in v:
+        return "Hybrid"
+    return val
+
+def get_store_code(dealer_name):
+    """Map dealer name to Google store code."""
+    mapping = {
+        "Oslo": "rohneselmer-oslo",
+        "Lillestrøm": "rohneselmer-lillestrom",
+        "Asker og Bærum": "rohneselmer-asker-baerum",
+        "Hønefoss": "rohneselmer-honefoss",
+        "Lierstranda": "rohneselmer-lierstranda",
+    }
+    return mapping.get(dealer_name, "rohneselmer-asker-baerum")
+
 def build_feed(vehicles):
     """Generate Google Merchant Center + Meta compatible XML feed."""
 
@@ -525,10 +554,9 @@ def build_feed(vehicles):
         field("brand",        v["brand"])
         field("model",        v["model"])
         field("vehicle_year", v["year"])
-        field("identifier_exists", "no")
         if v["mileage"]:
             field("mileage",  v["mileage"] + " km")
-        field("fuel_type",                 v["fuel_type"])
+        field("fuel_type",                 translate_fuel_type_google(v["fuel_type"]))
         field("transmission",              v["transmission"])
         field("body_style",                v["body_type"])
         field("color",                     v["color"])
@@ -537,6 +565,8 @@ def build_feed(vehicles):
         field("horsepower",                v["horsepower"])
         field("engine_size",               v["engine_size"])
         field("number_of_seats",           v["seats"])
+        field("vehicle_fulfillment",       "in_store")
+        field("store_code",                get_store_code(v.get("dealer_name", "")))
         for img in v["extra_images"][:9]:
             field("additional_image_link", img)
         field("google_product_category", "916")
