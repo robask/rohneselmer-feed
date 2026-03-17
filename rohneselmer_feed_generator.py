@@ -376,7 +376,7 @@ def scrape_vehicle(url):
 
     # Price
     price_raw = extract_price(soup)
-    price = price_raw if price_raw else None
+    price = price_raw if price_raw else "0"
 
     # Images — use images[3] as main (third additional image, no graphics overlay)
     images = extract_images(soup, BASE_URL)
@@ -564,7 +564,8 @@ def build_feed(vehicles):
         field("condition",    v["condition"])
         field("identifier_exists", "no")
         field("product_type",     "Vehicles & Parts > Vehicles > Motor Vehicles > Cars, Trucks & Vans")
-        field("price",        (v["price"] or "0") + " NOK")
+        field("price",        v["price"] or "0")
+        field("currency",     "NOK")
         field("brand",        v["brand"])
         field("model",        v["model"])
         field("vehicle_year", v["year"])
@@ -662,8 +663,9 @@ def build_meta_feed(vehicles):
         lines.append(f'    </address>')
         lines.append(f'    <dealer_name>{esc(v["dealer_name"])}</dealer_name>')
 
-        price_num = v["price"].replace(" NOK", "").strip() if v["price"] else "0"
-        lines.append(f'    <price>{esc(price_num)} NOK</price>')
+        price_num = v["price"] if v["price"] else "0"
+        lines.append(f'    <price>{esc(price_num)}</price>')
+        lines.append(f'    <currency>NOK</currency>')
 
         if v["mileage"]:
             lines.append(f'    <mileage>')

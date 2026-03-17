@@ -10758,3 +10758,478 @@ Successfully scraped: 211/211 vehicles
 2026-03-14 15:31:27,319 [INFO] ✅ Meta feed saved to: rohneselmer_feed_meta.xml
 2026-03-14 15:31:27,319 [INFO]    Total items: 211
 2026-03-14 15:31:27,319 [INFO] ============================================================
+2026-03-16 13:30:40,154 [INFO] ============================================================
+2026-03-16 13:30:40,154 [INFO] Feed generation started: 2026-03-16 13:30:40.154545
+2026-03-16 13:30:40,154 [INFO] ============================================================
+2026-03-16 13:30:40,154 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-03-16 13:30:40,448 [INFO]   Found 12 vehicles in sitemap 1
+2026-03-16 13:30:40,954 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-2.xml
+2026-03-16 13:30:41,262 [INFO]   Found 12 vehicles in sitemap 2
+2026-03-16 13:30:41,764 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-3.xml
+2026-03-16 13:30:41,871 [INFO]   Found 12 vehicles in sitemap 3
+2026-03-16 13:30:42,387 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-4.xml
+2026-03-16 13:30:42,639 [INFO]   Found 12 vehicles in sitemap 4
+2026-03-16 13:30:43,144 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-5.xml
+2026-03-16 13:30:43,353 [INFO]   Found 12 vehicles in sitemap 5
+2026-03-16 13:30:43,858 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-6.xml
+2026-03-16 13:30:44,023 [INFO]   Found 12 vehicles in sitemap 6
+2026-03-16 13:30:44,529 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-7.xml
+2026-03-16 13:30:44,776 [INFO]   Found 12 vehicles in sitemap 7
+2026-03-16 13:30:45,279 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-8.xml
+2026-03-16 13:30:45,509 [INFO]   Found 12 vehicles in sitemap 8
+2026-03-16 13:30:46,013 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-9.xml
+2026-03-16 13:30:46,239 [INFO]   Found 12 vehicles in sitemap 9
+2026-03-16 13:30:46,741 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-10.xml
+2026-03-16 13:30:47,031 [INFO]   Found 12 vehicles in sitemap 10
+2026-03-16 13:30:47,536 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-11.xml
+2026-03-16 13:30:47,792 [INFO]   Found 12 vehicles in sitemap 11
+2026-03-16 13:30:48,296 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-12.xml
+2026-03-16 13:30:48,606 [INFO]   Found 12 vehicles in sitemap 12
+2026-03-16 13:30:49,110 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-13.xml
+2026-03-16 13:30:49,409 [INFO]   Found 12 vehicles in sitemap 13
+2026-03-16 13:30:49,913 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-14.xml
+2026-03-16 13:30:50,176 [INFO]   Found 12 vehicles in sitemap 14
+2026-03-16 13:30:50,681 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-15.xml
+2026-03-16 13:30:50,947 [INFO]   Found 12 vehicles in sitemap 15
+2026-03-16 13:30:51,452 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-16.xml
+2026-03-16 13:30:51,655 [INFO]   Found 12 vehicles in sitemap 16
+2026-03-16 13:30:52,161 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-17.xml
+2026-03-16 13:30:52,510 [INFO]   Found 12 vehicles in sitemap 17
+2026-03-16 13:30:53,016 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-18.xml
+2026-03-16 13:30:53,322 [INFO]   Found 8 vehicles in sitemap 18
+2026-03-16 13:30:53,827 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-19.xml
+2026-03-16 13:30:54,093 [INFO]   Found 0 vehicles in sitemap 19
+2026-03-16 13:30:54,597 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-20.xml
+2026-03-16 13:30:54,895 [INFO]   Found 0 vehicles in sitemap 20
+2026-03-16 13:30:55,401 [INFO] Total vehicle URLs found: 212
+2026-03-16 13:30:55,402 [INFO] [1/212] Scraping: https://www.rohneselmer.no/biler/lager/1212318/1099/peugeot-308-1-2-puretech-130
+2026-03-16 13:30:57,990 [INFO]   ✓ 2014 Peugeot 308 1.2 PureTech 130 | 94900
+2026-03-16 13:30:59,494 [INFO] [2/212] Scraping: https://www.rohneselmer.no/biler/lager/1211836/1099/ford-ecosport-1-0-ecoboost
+2026-03-16 13:31:02,336 [INFO]   ✓ 2017 Ford EcoSport 1.0 EcoBoost | 109900
+2026-03-16 13:31:03,841 [INFO] [3/212] Scraping: https://www.rohneselmer.no/biler/lager/1212319/1099/nissan-leaf-leaf
+2026-03-16 13:31:06,524 [INFO]   ✓ 2019 Nissan Leaf Leaf | 124900
+2026-03-16 13:31:08,029 [INFO] [4/212] Scraping: https://www.rohneselmer.no/biler/lager/1211088/1099/kia-niro-niro-hybrid
+2026-03-16 13:31:10,636 [INFO]   ✓ 2018 Kia Niro Niro Hybrid | 128900
+2026-03-16 13:31:12,141 [INFO] [5/212] Scraping: https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd
+2026-03-16 13:31:14,979 [INFO]   ✓ 2013 Ford Kuga 2.0 TDCi AWD | 134900
+2026-03-16 13:31:16,485 [INFO] [6/212] Scraping: https://www.rohneselmer.no/biler/lager/1210545/1099/renault-kadjar-1-2-tce
+2026-03-16 13:31:18,973 [INFO]   ✓ 2017 Renault Kadjar 1.2 TCe | 139000
+2026-03-16 13:31:20,478 [INFO] [7/212] Scraping: https://www.rohneselmer.no/biler/lager/1210893/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:31:23,518 [INFO]   ✓ 2019 Ford Transit Connect 1.5 EcoBlue | 149000
+2026-03-16 13:31:25,023 [INFO] [8/212] Scraping: https://www.rohneselmer.no/biler/lager/1213006/1099/volkswagen-golf-e-golf
+2026-03-16 13:31:27,515 [INFO]   ✓ 2020 Volkswagen Golf e-Golf | 149900
+2026-03-16 13:31:29,020 [INFO] [9/212] Scraping: https://www.rohneselmer.no/biler/lager/1212825/1099/tesla-model-s-model-s-75
+2026-03-16 13:31:31,579 [INFO]   ✓ 2017 Tesla Model S Model S 75 | 159900
+2026-03-16 13:31:33,084 [INFO] [10/212] Scraping: https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense
+2026-03-16 13:31:35,594 [INFO]   ✓ 2019 DS 3 Crossback 3 Crossback E-TENSE | 159999
+2026-03-16 13:31:37,100 [INFO] [11/212] Scraping: https://www.rohneselmer.no/biler/lager/1212351/1099/peugeot-2008-e-2008
+2026-03-16 13:31:39,566 [INFO]   ✓ 2020 Peugeot 2008 e-2008 | 166900
+2026-03-16 13:31:41,071 [INFO] [12/212] Scraping: https://www.rohneselmer.no/biler/lager/1213003/1099/volvo-v60-d5-plug-in-hybrid-awd
+2026-03-16 13:31:43,849 [INFO]   ✓ 2017 Volvo V60 D5 Plug-in Hybrid AWD | 169000
+2026-03-16 13:31:45,354 [INFO] [13/212] Scraping: https://www.rohneselmer.no/biler/lager/1211868/1099/volvo-v60-t2
+2026-03-16 13:31:47,666 [INFO]   ✓ 2017 Volvo V60 T2 | 169900
+2026-03-16 13:31:49,171 [INFO] [14/212] Scraping: https://www.rohneselmer.no/biler/lager/1212650/1099/nissan-leaf-leaf-e
+2026-03-16 13:31:51,947 [INFO]   ✓ 2021 Nissan Leaf Leaf e+ | 169900
+2026-03-16 13:31:53,453 [INFO] [15/212] Scraping: https://www.rohneselmer.no/biler/lager/1211749/1099/hyundai-kona-kona-electric-64-kwh
+2026-03-16 13:31:56,160 [INFO]   ✓ 2019 Hyundai Kona Kona Electric 64 kWh | 179900
+2026-03-16 13:31:57,665 [INFO] [16/212] Scraping: https://www.rohneselmer.no/biler/lager/1212931/1099/ford-transit-courier-1-5-tdci
+2026-03-16 13:32:00,143 [INFO]   ✓ 2023 Ford Transit Courier 1.5 TDCi | 184000
+2026-03-16 13:32:01,648 [INFO] [17/212] Scraping: https://www.rohneselmer.no/biler/lager/1211556/1099/hyundai-kona-kona-electric-64-kwh
+2026-03-16 13:32:04,356 [INFO]   ✓ 2021 Hyundai Kona Kona Electric 64 kWh | 184900
+2026-03-16 13:32:05,862 [INFO] [18/212] Scraping: https://www.rohneselmer.no/biler/lager/1210665/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-03-16 13:32:08,491 [INFO]   ✓ 2022 Hyundai Kona Kona Electric 39.2 kWh | 188900
+2026-03-16 13:32:09,996 [INFO] [19/212] Scraping: https://www.rohneselmer.no/biler/lager/1210184/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:32:12,765 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 189900
+2026-03-16 13:32:14,270 [INFO] [20/212] Scraping: https://www.rohneselmer.no/biler/lager/1212975/1099/audi-a4-2-0-tfsi-ultra
+2026-03-16 13:32:16,867 [INFO]   ✓ 2016 Audi A4 2.0 TFSI ultra | 194900
+2026-03-16 13:32:18,372 [INFO] [21/212] Scraping: https://www.rohneselmer.no/biler/lager/1212224/1099/peugeot-5008-1-6-bluehdi-120-8v
+2026-03-16 13:32:20,745 [INFO]   ✓ 2018 Peugeot 5008 1.6 BlueHDi 120 8v | 209000
+2026-03-16 13:32:22,250 [INFO] [22/212] Scraping: https://www.rohneselmer.no/biler/lager/1212807/1099/volkswagen-t-cross-1-0-tsi-opf
+2026-03-16 13:32:25,029 [INFO]   ✓ 2020 Volkswagen T-Cross 1.0 TSI OPF | 209900
+2026-03-16 13:32:26,534 [INFO] [23/212] Scraping: https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r
+2026-03-16 13:32:29,172 [INFO]   ✓ 2022 MG Marvel R Marvel R | 214900
+2026-03-16 13:32:30,677 [INFO] [24/212] Scraping: https://www.rohneselmer.no/biler/lager/1212746/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:32:33,108 [INFO]   ✓ 2022 Ford Transit Connect 1.5 EcoBlue | 214900
+2026-03-16 13:32:34,611 [INFO] [25/212] Scraping: https://www.rohneselmer.no/biler/lager/1211838/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:32:34,870 [INFO]   ✓ 2021 Ford Kuga Kuga Plug-In Hybrid | 219900
+2026-03-16 13:32:36,375 [INFO] [26/212] Scraping: https://www.rohneselmer.no/biler/lager/1212612/1099/mercedes-benz-gla-gla-220-cdi-4matic
+2026-03-16 13:32:39,058 [INFO]   ✓ 2014 Mercedes-Benz GLA GLA 220 CDI 4MATIC | 219900
+2026-03-16 13:32:40,563 [INFO] [27/212] Scraping: https://www.rohneselmer.no/biler/lager/1213075/1099/mercedes-benz-glc-glc-350-e-4matic
+2026-03-16 13:32:43,112 [INFO]   ✓ 2018 Mercedes-Benz GLC GLC 350 e 4MATIC | 219900
+2026-03-16 13:32:44,618 [INFO] [28/212] Scraping: https://www.rohneselmer.no/biler/lager/1212040/1099/hyundai-kona-kona-electric-64-kwh
+2026-03-16 13:32:47,040 [INFO]   ✓ 2021 Hyundai Kona Kona Electric 64 kWh | 222222
+2026-03-16 13:32:48,545 [INFO] [29/212] Scraping: https://www.rohneselmer.no/biler/lager/1211586/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:32:50,948 [INFO]   ✓ 2022 Ford Transit Connect 1.5 EcoBlue | 222222
+2026-03-16 13:32:52,452 [INFO] [30/212] Scraping: https://www.rohneselmer.no/biler/lager/1210401/1099/jaguar-i-pace-i-pace-ev400
+2026-03-16 13:32:54,905 [INFO]   ✓ 2020 Jaguar I-Pace I-Pace EV400 | 224900
+2026-03-16 13:32:56,410 [INFO] [31/212] Scraping: https://www.rohneselmer.no/biler/lager/1212179/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:32:59,333 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range | 225500
+2026-03-16 13:33:00,840 [INFO] [32/212] Scraping: https://www.rohneselmer.no/biler/lager/1212747/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:33:03,239 [INFO]   ✓ 2022 Ford Transit Connect 1.5 EcoBlue | 229900
+2026-03-16 13:33:04,741 [INFO] [33/212] Scraping: https://www.rohneselmer.no/biler/lager/1211963/1099/nissan-leaf-leaf
+2026-03-16 13:33:07,432 [INFO]   ✓ 2024 Nissan Leaf Leaf | 229900
+2026-03-16 13:33:08,935 [INFO] [34/212] Scraping: https://www.rohneselmer.no/biler/lager/1212087/1099/volkswagen-caddy-2-0-tdi-bmt
+2026-03-16 13:33:11,564 [INFO]   ✓ 2018 Volkswagen Caddy 2.0 TDI BMT | 229900
+2026-03-16 13:33:13,069 [INFO] [35/212] Scraping: https://www.rohneselmer.no/biler/lager/1212895/1099/nissan-leaf-leaf-e
+2026-03-16 13:33:15,735 [INFO]   ✓ 2023 Nissan Leaf Leaf e+ | 238550
+2026-03-16 13:33:17,240 [INFO] [36/212] Scraping: https://www.rohneselmer.no/biler/lager/1211819/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-16 13:33:19,697 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Standard Range | 239000
+2026-03-16 13:33:21,202 [INFO] [37/212] Scraping: https://www.rohneselmer.no/biler/lager/1211049/1099/cupra-born-born-58
+2026-03-16 13:33:23,530 [INFO]   ✓ 2023 CUPRA Born Born 58 | 239000
+2026-03-16 13:33:25,035 [INFO] [38/212] Scraping: https://www.rohneselmer.no/biler/lager/1210899/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:33:27,643 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 239000
+2026-03-16 13:33:29,149 [INFO] [39/212] Scraping: https://www.rohneselmer.no/biler/lager/1212441/1099/bmw-x4-x4-xdrive20d
+2026-03-16 13:33:31,807 [INFO]   ✓ 2015 BMW X4 X4 xDrive20d | 239500
+2026-03-16 13:33:33,312 [INFO] [40/212] Scraping: https://www.rohneselmer.no/biler/lager/1211584/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:33:35,609 [INFO]   ✓ 2022 Ford Transit Connect 1.5 EcoBlue | 239550
+2026-03-16 13:33:37,114 [INFO] [41/212] Scraping: https://www.rohneselmer.no/biler/lager/1211724/1099/nissan-leaf-leaf-e
+2026-03-16 13:33:39,773 [INFO]   ✓ 2022 Nissan Leaf Leaf e+ | 239900
+2026-03-16 13:33:41,278 [INFO] [42/212] Scraping: https://www.rohneselmer.no/biler/lager/1212466/1099/mg-zs-suv-zs-ev-long-range
+2026-03-16 13:33:43,985 [INFO]   ✓ 2023 MG ZS SUV ZS EV Long Range | 239900
+2026-03-16 13:33:45,491 [INFO] [43/212] Scraping: https://www.rohneselmer.no/biler/lager/1210892/1099/ford-transit-custom-2-0-ecoblue
+2026-03-16 13:33:48,230 [INFO]   ✓ 2023 Ford Transit Custom 2.0 EcoBlue | 249000
+2026-03-16 13:33:49,737 [INFO] [44/212] Scraping: https://www.rohneselmer.no/biler/lager/1212802/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:33:52,382 [INFO]   ✓ 2023 Ford Transit Connect 1.5 EcoBlue | 249900
+2026-03-16 13:33:53,887 [INFO] [45/212] Scraping: https://www.rohneselmer.no/biler/lager/1212907/1099/mitsubishi-outlander-outlander-phev
+2026-03-16 13:33:56,185 [INFO]   ✓ 2019 Mitsubishi Outlander Outlander PHEV | 249900
+2026-03-16 13:33:57,691 [INFO] [46/212] Scraping: https://www.rohneselmer.no/biler/lager/1212909/1099/mitsubishi-outlander-outlander-phev
+2026-03-16 13:34:00,383 [INFO]   ✓ 2020 Mitsubishi Outlander Outlander PHEV | 249900
+2026-03-16 13:34:01,888 [INFO] [47/212] Scraping: https://www.rohneselmer.no/biler/lager/1211645/1099/peugeot-3008-3008-gt-hybrid4
+2026-03-16 13:34:04,366 [INFO]   ✓ 2020 Peugeot 3008 3008 GT HYBRID4 | 249900
+2026-03-16 13:34:05,872 [INFO] [48/212] Scraping: https://www.rohneselmer.no/biler/lager/1212393/1099/toyota-land-cruiser-prado-3-0-d-4d-4wd
+2026-03-16 13:34:08,244 [INFO]   ✓ 2011 Toyota Land Cruiser Prado 3.0 D-4D 4WD | 252900
+2026-03-16 13:34:09,749 [INFO] [49/212] Scraping: https://www.rohneselmer.no/biler/lager/1211739/1099/toyota-corolla-corolla-hybrid
+2026-03-16 13:34:12,170 [INFO]   ✓ 2022 Toyota Corolla Corolla Hybrid | 259000
+2026-03-16 13:34:13,675 [INFO] [50/212] Scraping: https://www.rohneselmer.no/biler/lager/1211821/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:34:16,030 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range | 259750
+2026-03-16 13:34:17,536 [INFO] [51/212] Scraping: https://www.rohneselmer.no/biler/lager/1212524/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-16 13:34:17,763 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Standard Range | 259900
+2026-03-16 13:34:19,268 [INFO] [52/212] Scraping: https://www.rohneselmer.no/biler/lager/1210303/1099/hyundai-ioniq-5-72-6-kwh
+2026-03-16 13:34:19,634 [INFO]   ✓ 2022 Hyundai Ioniq 5 72.6 kWh | 259900
+2026-03-16 13:34:21,136 [INFO] [53/212] Scraping: https://www.rohneselmer.no/biler/lager/1212908/1099/polestar-2-2-long-range-dual-motor
+2026-03-16 13:34:23,474 [INFO]   ✓ 2022 Polestar 2 2 Long Range Dual Motor | 264900
+2026-03-16 13:34:24,979 [INFO] [54/212] Scraping: https://www.rohneselmer.no/biler/lager/1212866/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:34:27,917 [INFO]   ✓ 2023 Ford Transit Connect 1.5 EcoBlue | 269900
+2026-03-16 13:34:29,422 [INFO] [55/212] Scraping: https://www.rohneselmer.no/biler/lager/1211287/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-16 13:34:32,410 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Standard Range AWD | 269900
+2026-03-16 13:34:33,915 [INFO] [56/212] Scraping: https://www.rohneselmer.no/biler/lager/1211752/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:34:36,517 [INFO]   ✓ 2023 Ford Kuga Kuga Plug-In Hybrid | 274900
+2026-03-16 13:34:38,022 [INFO] [57/212] Scraping: https://www.rohneselmer.no/biler/lager/1213005/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-16 13:34:40,301 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Standard Range AWD | 274900
+2026-03-16 13:34:41,809 [INFO] [58/212] Scraping: https://www.rohneselmer.no/biler/lager/1212493/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:34:45,164 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range | 278888
+2026-03-16 13:34:46,669 [INFO] [59/212] Scraping: https://www.rohneselmer.no/biler/lager/1210711/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:34:49,410 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range | 279000
+2026-03-16 13:34:50,915 [INFO] [60/212] Scraping: https://www.rohneselmer.no/biler/lager/1211157/1099/polestar-2-2-long-range-dual-motor
+2026-03-16 13:34:53,265 [INFO]   ✓ 2021 Polestar 2 2 Long Range Dual Motor | 279000
+2026-03-16 13:34:54,770 [INFO] [61/212] Scraping: https://www.rohneselmer.no/biler/lager/1212649/1099/audi-e-tron-e-tron-55-quattro
+2026-03-16 13:34:57,595 [INFO]   ✓ 2020 Audi e-tron e-tron 55 quattro | 279900
+2026-03-16 13:34:59,100 [INFO] [62/212] Scraping: https://www.rohneselmer.no/biler/lager/1212555/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-16 13:35:02,012 [INFO]   ✓ 2023 Ford Mustang Mach-E Mustang Mach-E Standard Range | 279900
+2026-03-16 13:35:03,517 [INFO] [63/212] Scraping: https://www.rohneselmer.no/biler/lager/1212976/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:35:05,816 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Long Range | 279900
+2026-03-16 13:35:07,322 [INFO] [64/212] Scraping: https://www.rohneselmer.no/biler/lager/1212181/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:35:09,671 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 282900
+2026-03-16 13:35:11,176 [INFO] [65/212] Scraping: https://www.rohneselmer.no/biler/lager/1211965/1099/ford-puma-1-0-ecoboost
+2026-03-16 13:35:13,549 [INFO]   ✓ 2023 Ford Puma 1.0 EcoBoost | 284900
+2026-03-16 13:35:15,054 [INFO] [66/212] Scraping: https://www.rohneselmer.no/biler/lager/1213137/1099/ford-mustang-mach-e-mustang-mach-e-standard-range
+2026-03-16 13:35:17,671 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Standard Range | 289000
+2026-03-16 13:35:19,176 [INFO] [67/212] Scraping: https://www.rohneselmer.no/biler/lager/1212178/1099/ford-transit-connect-1-5-ecoblue
+2026-03-16 13:35:21,952 [INFO]   ✓ 2023 Ford Transit Connect 1.5 EcoBlue | 289850
+2026-03-16 13:35:23,457 [INFO] [68/212] Scraping: https://www.rohneselmer.no/biler/lager/1212497/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:35:25,837 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 289900
+2026-03-16 13:35:27,343 [INFO] [69/212] Scraping: https://www.rohneselmer.no/biler/lager/1211799/1099/ford-transit-custom-2-0-ecoblue
+2026-03-16 13:35:29,726 [INFO]   ✓ 2023 Ford Transit Custom 2.0 EcoBlue | 289900
+2026-03-16 13:35:31,232 [INFO] [70/212] Scraping: https://www.rohneselmer.no/biler/lager/1212350/1099/volvo-xc40-xc40-p8-awd-recharge
+2026-03-16 13:35:33,663 [INFO]   ✓ 2021 Volvo XC40 XC40 P8 AWD Recharge | 294900
+2026-03-16 13:35:35,168 [INFO] [71/212] Scraping: https://www.rohneselmer.no/biler/lager/1210589/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:35:37,649 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 298000
+2026-03-16 13:35:39,157 [INFO] [72/212] Scraping: https://www.rohneselmer.no/biler/lager/1210714/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:35:41,791 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 299000
+2026-03-16 13:35:43,296 [INFO] [73/212] Scraping: https://www.rohneselmer.no/biler/lager/1210901/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:35:45,984 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 299000
+2026-03-16 13:35:47,489 [INFO] [74/212] Scraping: https://www.rohneselmer.no/biler/lager/1213069/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:35:50,086 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 299000
+2026-03-16 13:35:51,591 [INFO] [75/212] Scraping: https://www.rohneselmer.no/biler/lager/1210294/1099/kia-sportage-1-6-crdi-awd
+2026-03-16 13:35:54,126 [INFO]   ✓ 2020 Kia Sportage 1.6 CRDi AWD | 299000
+2026-03-16 13:35:55,631 [INFO] [76/212] Scraping: https://www.rohneselmer.no/biler/lager/1211205/1099/mercedes-benz-glc-glc-350-e-4matic
+2026-03-16 13:35:58,278 [INFO]   ✓ 2018 Mercedes-Benz GLC GLC 350 e 4MATIC | 299000
+2026-03-16 13:35:59,783 [INFO] [77/212] Scraping: https://www.rohneselmer.no/biler/lager/1212894/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:36:02,332 [INFO]   ✓ 2023 Ford Kuga Kuga Plug-In Hybrid | 299888
+2026-03-16 13:36:03,837 [INFO] [78/212] Scraping: https://www.rohneselmer.no/biler/lager/1212102/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:36:06,280 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 299900
+2026-03-16 13:36:07,785 [INFO] [79/212] Scraping: https://www.rohneselmer.no/biler/lager/1212906/1099/tesla-model-y-model-y-long-range-awd
+2026-03-16 13:36:10,444 [INFO]   ✓ 2021 Tesla Model Y Model Y Long Range AWD | 299900
+2026-03-16 13:36:11,949 [INFO] [80/212] Scraping: https://www.rohneselmer.no/biler/lager/1212135/1099/tesla-model-3-model-3-standard-range
+2026-03-16 13:36:14,619 [INFO]   ✓ 2023 Tesla Model 3 Model 3 Standard Range | 299900
+2026-03-16 13:36:16,124 [INFO] [81/212] Scraping: https://www.rohneselmer.no/biler/lager/1212177/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:36:18,487 [INFO]   ✓ 2022 Ford Kuga Kuga Plug-In Hybrid | 309000
+2026-03-16 13:36:19,995 [INFO] [82/212] Scraping: https://www.rohneselmer.no/biler/lager/1211555/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:36:22,372 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 309900
+2026-03-16 13:36:23,877 [INFO] [83/212] Scraping: https://www.rohneselmer.no/biler/lager/1212974/1099/nissan-pathfinder-3-0-v6-4wd
+2026-03-16 13:36:26,558 [INFO]   ✓ 2013 Nissan Pathfinder 3.0 V6 4WD | 314900
+2026-03-16 13:36:28,063 [INFO] [84/212] Scraping: https://www.rohneselmer.no/biler/lager/1210074/1099/volvo-c40-c40-recharge-single-motor
+2026-03-16 13:36:30,754 [INFO]   ✓ 2023 Volvo C40 C40 Recharge Single Motor | 319000
+2026-03-16 13:36:32,259 [INFO] [85/212] Scraping: https://www.rohneselmer.no/biler/lager/1211588/1099/kia-soul-e-soul
+2026-03-16 13:36:34,502 [INFO]   ✓ 2023 Kia Soul e-Soul | 319900
+2026-03-16 13:36:36,007 [INFO] [86/212] Scraping: https://www.rohneselmer.no/biler/lager/1213115/1099/audi-e-tron-e-tron-sportback-50-quattro
+2026-03-16 13:36:38,413 [INFO]   ✓ 2021 Audi e-tron e-tron Sportback 50 quattro | 319900
+2026-03-16 13:36:39,919 [INFO] [87/212] Scraping: https://www.rohneselmer.no/biler/lager/1210144/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:36:42,364 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range | 319900
+2026-03-16 13:36:43,869 [INFO] [88/212] Scraping: https://www.rohneselmer.no/biler/lager/1210169/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:36:46,563 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Long Range | 329900
+2026-03-16 13:36:48,068 [INFO] [89/212] Scraping: https://www.rohneselmer.no/biler/lager/1213170/1099/tesla-model-3-model-3-long-range-awd
+2026-03-16 13:36:50,689 [INFO]   ✓ 2023 Tesla Model 3 Model 3 Long Range AWD | 329900
+2026-03-16 13:36:52,194 [INFO] [90/212] Scraping: https://www.rohneselmer.no/biler/lager/1210031/1099/toyota-bz4x-71-4-kwh
+2026-03-16 13:36:54,835 [INFO]   ✓ 2023 Toyota bZ4X 71.4 kWh | 334567
+2026-03-16 13:36:56,340 [INFO] [91/212] Scraping: https://www.rohneselmer.no/biler/lager/1211677/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:36:59,057 [INFO]   ✓ 2023 Ford Kuga Kuga Plug-In Hybrid | 338999
+2026-03-16 13:37:00,562 [INFO] [92/212] Scraping: https://www.rohneselmer.no/biler/lager/1210922/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-16 13:37:02,913 [INFO]   ✓ 2023 Ford Mustang Mach-E Mustang Mach-E Standard Range AWD | 339900
+2026-03-16 13:37:04,418 [INFO] [93/212] Scraping: https://www.rohneselmer.no/biler/lager/1212611/1099/ford-mustang-mach-e-mustang-mach-e-standard-range-awd
+2026-03-16 13:37:07,253 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Standard Range AWD | 339900
+2026-03-16 13:37:08,758 [INFO] [94/212] Scraping: https://www.rohneselmer.no/biler/lager/1212320/1099/ford-puma-puma-gen-e
+2026-03-16 13:37:11,462 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 339900
+2026-03-16 13:37:12,967 [INFO] [95/212] Scraping: https://www.rohneselmer.no/biler/lager/1213140/1099/ford-puma-puma-gen-e
+2026-03-16 13:37:15,347 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 339900
+2026-03-16 13:37:16,853 [INFO] [96/212] Scraping: https://www.rohneselmer.no/biler/lager/1213161/1099/ford-ranger-2-0-ecoblue-4x4
+2026-03-16 13:37:17,105 [INFO]   ✓ 2020 Ford Ranger 2.0 EcoBlue 4x4 | 344900
+2026-03-16 13:37:18,610 [INFO] [97/212] Scraping: https://www.rohneselmer.no/biler/lager/1211587/1099/ford-kuga-2-0-ecoblue-awd
+2026-03-16 13:37:21,405 [INFO]   ✓ 2020 Ford Kuga 2.0 EcoBlue AWD | 347750
+2026-03-16 13:37:22,910 [INFO] [98/212] Scraping: https://www.rohneselmer.no/biler/lager/1212176/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:37:25,787 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 349000
+2026-03-16 13:37:27,287 [INFO] [99/212] Scraping: https://www.rohneselmer.no/biler/lager/1212759/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:37:29,788 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 349000
+2026-03-16 13:37:31,293 [INFO] [100/212] Scraping: https://www.rohneselmer.no/biler/lager/1213084/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-16 13:37:33,872 [INFO]   ✓ 2021 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4 | 349900
+2026-03-16 13:37:35,373 [INFO] [101/212] Scraping: https://www.rohneselmer.no/biler/lager/1212805/1099/kia-sorento-sorento-phev
+2026-03-16 13:37:37,874 [INFO]   ✓ 2021 Kia Sorento Sorento PHEV | 354900
+2026-03-16 13:37:39,375 [INFO] [102/212] Scraping: https://www.rohneselmer.no/biler/lager/1211527/1099/ford-puma-puma-gen-e
+2026-03-16 13:37:42,424 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 358900
+2026-03-16 13:37:43,929 [INFO] [103/212] Scraping: https://www.rohneselmer.no/biler/lager/1211795/1099/ford-transit-custom-tourneo-custom-plug-in-hybrid
+2026-03-16 13:37:46,295 [INFO]   ✓ 2021 Ford Transit Custom Tourneo Custom Plug-in Hybrid | 359900
+2026-03-16 13:37:47,800 [INFO] [104/212] Scraping: https://www.rohneselmer.no/biler/lager/1211782/1099/toyota-bz4x-71-4-kwh-awd
+2026-03-16 13:37:50,528 [INFO]   ✓ 2023 Toyota bZ4X 71.4 kWh AWD | 365000
+2026-03-16 13:37:52,033 [INFO] [105/212] Scraping: https://www.rohneselmer.no/biler/lager/1212498/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:37:54,573 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 368900
+2026-03-16 13:37:56,078 [INFO] [106/212] Scraping: https://www.rohneselmer.no/biler/lager/1212241/1099/ford-puma-puma-gen-e
+2026-03-16 13:37:58,690 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 369900
+2026-03-16 13:38:00,195 [INFO] [107/212] Scraping: https://www.rohneselmer.no/biler/lager/1212677/1099/ford-transit-courier-e-transit-courier
+2026-03-16 13:38:03,027 [INFO]   ✓ 2025 Ford Transit Courier E-Transit Courier | 369900
+2026-03-16 13:38:04,533 [INFO] [108/212] Scraping: https://www.rohneselmer.no/biler/lager/1211419/1099/ford-transit-courier-e-transit-courier
+2026-03-16 13:38:07,358 [INFO]   ✓ 2025 Ford Transit Courier E-Transit Courier | 369900
+2026-03-16 13:38:08,862 [INFO] [109/212] Scraping: https://www.rohneselmer.no/biler/lager/1211346/1099/ford-puma-puma-gen-e
+2026-03-16 13:38:11,555 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 369900
+2026-03-16 13:38:13,058 [INFO] [110/212] Scraping: https://www.rohneselmer.no/biler/lager/1212750/1099/polestar-2-2-long-range-dual-motor-performance
+2026-03-16 13:38:15,479 [INFO]   ✓ 2023 Polestar 2 2 Long Range Dual Motor Performance | 369900
+2026-03-16 13:38:16,988 [INFO] [111/212] Scraping: https://www.rohneselmer.no/biler/lager/1211650/1099/ford-transit-courier-e-transit-courier
+2026-03-16 13:38:19,320 [INFO]   ✓ 2025 Ford Transit Courier E-Transit Courier | 374900
+2026-03-16 13:38:20,825 [INFO] [112/212] Scraping: https://www.rohneselmer.no/biler/lager/1212491/1099/bmw-5-series-530e-xdrive-iperformance-sedan
+2026-03-16 13:38:23,260 [INFO]   ✓ 2020 BMW 5 Series 530e xDrive iPerformance Sedan | 374900
+2026-03-16 13:38:24,766 [INFO] [113/212] Scraping: https://www.rohneselmer.no/biler/lager/1212832/1099/ford-puma-puma-gen-e
+2026-03-16 13:38:27,338 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 374900
+2026-03-16 13:38:28,843 [INFO] [114/212] Scraping: https://www.rohneselmer.no/biler/lager/1212751/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:38:31,318 [INFO]   ✓ 2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 379900
+2026-03-16 13:38:32,823 [INFO] [115/212] Scraping: https://www.rohneselmer.no/biler/lager/1212321/1099/ford-puma-puma-gen-e
+2026-03-16 13:38:35,443 [INFO]   ✓ 2025 Ford Puma Puma Gen-E | 379900
+2026-03-16 13:38:36,948 [INFO] [116/212] Scraping: https://www.rohneselmer.no/biler/lager/1211064/1099/toyota-rav4-rav4-plug-in-hybrid
+2026-03-16 13:38:39,405 [INFO]   ✓ 2021 Toyota RAV4 RAV4 Plug-in Hybrid | 387900
+2026-03-16 13:38:40,910 [INFO] [117/212] Scraping: https://www.rohneselmer.no/biler/lager/1211395/1099/ford-s-max-2-0-ecoblue-awd
+2026-03-16 13:38:43,189 [INFO]   ✓ 2021 Ford S-MAX 2.0 EcoBlue AWD | 398800
+2026-03-16 13:38:44,694 [INFO] [118/212] Scraping: https://www.rohneselmer.no/biler/lager/1211236/1099/kia-ev3-ev3-long-range
+2026-03-16 13:38:47,129 [INFO]   ✓ 2025 Kia EV3 EV3 Long Range | 398900
+2026-03-16 13:38:48,634 [INFO] [119/212] Scraping: https://www.rohneselmer.no/biler/lager/1213068/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-16 13:38:51,465 [INFO]   ✓ 2022 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4 | 399000
+2026-03-16 13:38:52,972 [INFO] [120/212] Scraping: https://www.rohneselmer.no/biler/lager/1210921/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:38:55,353 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 399900
+2026-03-16 13:38:56,858 [INFO] [121/212] Scraping: https://www.rohneselmer.no/biler/lager/1211554/1099/kia-ev3-ev3-long-range
+2026-03-16 13:38:59,286 [INFO]   ✓ 2025 Kia EV3 EV3 Long Range | 399900
+2026-03-16 13:39:00,787 [INFO] [122/212] Scraping: https://www.rohneselmer.no/biler/lager/1212748/1099/volkswagen-id-5-id-5-gtx
+2026-03-16 13:39:03,885 [INFO]   ✓ 2023 Volkswagen ID.5 ID.5 GTX | 399900
+2026-03-16 13:39:05,388 [INFO] [123/212] Scraping: https://www.rohneselmer.no/biler/lager/1212200/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:39:08,415 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 404900
+2026-03-16 13:39:09,921 [INFO] [124/212] Scraping: https://www.rohneselmer.no/biler/lager/1210588/1099/kia-ev3-ev3-long-range
+2026-03-16 13:39:12,567 [INFO]   ✓ 2025 Kia EV3 EV3 Long Range | 409000
+2026-03-16 13:39:14,072 [INFO] [125/212] Scraping: https://www.rohneselmer.no/biler/lager/1212867/1099/kia-ev3-ev3-long-range
+2026-03-16 13:39:16,806 [INFO]   ✓ 2025 Kia EV3 EV3 Long Range | 409900
+2026-03-16 13:39:18,313 [INFO] [126/212] Scraping: https://www.rohneselmer.no/biler/lager/1213114/1099/mercedes-benz-eqa-eqa-300-4matic
+2026-03-16 13:39:20,971 [INFO]   ✓ 2023 Mercedes-Benz EQA EQA 300 4MATIC | 409900
+2026-03-16 13:39:22,476 [INFO] [127/212] Scraping: https://www.rohneselmer.no/biler/lager/1213032/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:39:22,699 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 419900
+2026-03-16 13:39:24,204 [INFO] [128/212] Scraping: https://www.rohneselmer.no/biler/lager/1211560/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:39:26,504 [INFO]   ✓ 2023 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 424900
+2026-03-16 13:39:28,010 [INFO] [129/212] Scraping: https://www.rohneselmer.no/biler/lager/1213162/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-16 13:39:30,913 [INFO]   ✓ 2021 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4 | 429000
+2026-03-16 13:39:32,418 [INFO] [130/212] Scraping: https://www.rohneselmer.no/biler/lager/1210129/1099/volvo-xc90-recharge-t8-awd
+2026-03-16 13:39:34,775 [INFO]   ✓ 2019 Volvo XC90 Recharge T8 AWD | 434900
+2026-03-16 13:39:36,276 [INFO] [131/212] Scraping: https://www.rohneselmer.no/biler/lager/1210682/1099/suzuki-across-across-plug-in-hybrid
+2026-03-16 13:39:38,618 [INFO]   ✓ 2023 Suzuki Across Across Plug-in Hybrid | 439900
+2026-03-16 13:39:40,120 [INFO] [132/212] Scraping: https://www.rohneselmer.no/biler/lager/1211600/1099/ford-explorer-ev-explorer-ev-extended-range-rwd
+2026-03-16 13:39:42,562 [INFO]   ✓ 2024 Ford Explorer EV Explorer EV Extended Range RWD | 439900
+2026-03-16 13:39:44,066 [INFO] [133/212] Scraping: https://www.rohneselmer.no/biler/lager/1210739/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-03-16 13:39:46,534 [INFO]   ✓ 2024 Ford Mustang Mach-E Mustang Mach-E Long Range | 439900
+2026-03-16 13:39:48,039 [INFO] [134/212] Scraping: https://www.rohneselmer.no/biler/lager/1212803/1099/ford-ranger-ranger-raptor
+2026-03-16 13:39:50,473 [INFO]   ✓ 2019 Ford Ranger Ranger Raptor | 439900
+2026-03-16 13:39:51,978 [INFO] [135/212] Scraping: https://www.rohneselmer.no/biler/lager/1213116/1099/ford-mustang-mach-e-mustang-mach-e-gt
+2026-03-16 13:39:54,645 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E GT | 449900
+2026-03-16 13:39:56,146 [INFO] [136/212] Scraping: https://www.rohneselmer.no/biler/lager/1212932/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd
+2026-03-16 13:39:58,784 [INFO]   ✓ 2023 Ford Mustang Mach-E Mustang Mach-E Long Range AWD | 449900
+2026-03-16 13:40:00,289 [INFO] [137/212] Scraping: https://www.rohneselmer.no/biler/lager/1212467/1099/ford-transit-custom-e-transit-custom-320
+2026-03-16 13:40:02,764 [INFO]   ✓ 2024 Ford Transit Custom E-Transit Custom 320 | 449900
+2026-03-16 13:40:04,269 [INFO] [138/212] Scraping: https://www.rohneselmer.no/biler/lager/1210160/1099/ford-transit-custom-e-transit-custom-320
+2026-03-16 13:40:06,682 [INFO]   ✓ 2024 Ford Transit Custom E-Transit Custom 320 | 449900
+2026-03-16 13:40:08,187 [INFO] [139/212] Scraping: https://www.rohneselmer.no/biler/lager/1211583/1099/volvo-v60-d4-awd
+2026-03-16 13:40:10,753 [INFO]   ✓ 2021 Volvo V60 D4 AWD | 459000
+2026-03-16 13:40:12,258 [INFO] [140/212] Scraping: https://www.rohneselmer.no/biler/lager/1213016/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-16 13:40:14,773 [INFO]   ✓ 2021 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4 | 459900
+2026-03-16 13:40:16,275 [INFO] [141/212] Scraping: https://www.rohneselmer.no/biler/lager/1212587/1099/ford-explorer-ev-explorer-ev-extended-range-rwd
+2026-03-16 13:40:19,018 [INFO]   ✓ 2024 Ford Explorer EV Explorer EV Extended Range RWD | 469000
+2026-03-16 13:40:20,518 [INFO] [142/212] Scraping: https://www.rohneselmer.no/biler/lager/1212679/1099/ford-mustang-mach-e-mustang-mach-e-gt
+2026-03-16 13:40:23,180 [INFO]   ✓ 2022 Ford Mustang Mach-E Mustang Mach-E GT | 469900
+2026-03-16 13:40:24,686 [INFO] [143/212] Scraping: https://www.rohneselmer.no/biler/lager/1210194/1099/ford-transit-custom-e-transit-custom-320
+2026-03-16 13:40:27,109 [INFO]   ✓ 2024 Ford Transit Custom E-Transit Custom 320 | 469900
+2026-03-16 13:40:28,611 [INFO] [144/212] Scraping: https://www.rohneselmer.no/biler/lager/1212676/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4
+2026-03-16 13:40:30,967 [INFO]   ✓ 2022 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4 | 475000
+2026-03-16 13:40:32,472 [INFO] [145/212] Scraping: https://www.rohneselmer.no/biler/lager/1212521/1099/ford-transit-connect-2-0-ecoblue-awd
+2026-03-16 13:40:35,174 [INFO]   ✓ 2025 Ford Transit Connect 2.0 EcoBlue AWD | 479900
+2026-03-16 13:40:36,676 [INFO] [146/212] Scraping: https://www.rohneselmer.no/biler/lager/1211552/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:40:39,372 [INFO]   ✓ 2024 Ford Explorer EV Explorer EV Extended Range AWD | 479900
+2026-03-16 13:40:40,874 [INFO] [147/212] Scraping: https://www.rohneselmer.no/biler/lager/1211452/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:40:43,255 [INFO]   ✓ 2024 Ford Explorer EV Explorer EV Extended Range AWD | 488900
+2026-03-16 13:40:44,763 [INFO] [148/212] Scraping: https://www.rohneselmer.no/biler/lager/1210161/1099/ford-transit-custom-e-transit-custom-320
+2026-03-16 13:40:47,543 [INFO]   ✓ 2024 Ford Transit Custom E-Transit Custom 320 | 489900
+2026-03-16 13:40:49,044 [INFO] [149/212] Scraping: https://www.rohneselmer.no/biler/lager/1213031/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:40:49,274 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 489900
+2026-03-16 13:40:50,775 [INFO] [150/212] Scraping: https://www.rohneselmer.no/biler/lager/1213142/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:40:53,464 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 489900
+2026-03-16 13:40:54,969 [INFO] [151/212] Scraping: https://www.rohneselmer.no/biler/lager/1212613/1099/ford-transit-custom-e-transit-custom-320
+2026-03-16 13:40:57,425 [INFO]   ✓ 2024 Ford Transit Custom E-Transit Custom 320 | 494900
+2026-03-16 13:40:58,927 [INFO] [152/212] Scraping: https://www.rohneselmer.no/biler/lager/1210664/1099/kia-ev6-ev6-gt
+2026-03-16 13:41:01,596 [INFO]   ✓ 2024 Kia EV6 EV6 GT | 498900
+2026-03-16 13:41:03,100 [INFO] [153/212] Scraping: https://www.rohneselmer.no/biler/lager/1210094/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:05,882 [INFO]   ✓ 2024 Ford Explorer EV Explorer EV Extended Range AWD | 499000
+2026-03-16 13:41:07,387 [INFO] [154/212] Scraping: https://www.rohneselmer.no/biler/lager/1210974/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:10,000 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 499900
+2026-03-16 13:41:11,501 [INFO] [155/212] Scraping: https://www.rohneselmer.no/biler/lager/1211280/1099/kia-ev6-ev6-gt
+2026-03-16 13:41:13,781 [INFO]   ✓ 2024 Kia EV6 EV6 GT | 509007
+2026-03-16 13:41:15,283 [INFO] [156/212] Scraping: https://www.rohneselmer.no/biler/lager/1213143/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:17,961 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 509900
+2026-03-16 13:41:19,466 [INFO] [157/212] Scraping: https://www.rohneselmer.no/biler/lager/1211502/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:22,345 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 509900
+2026-03-16 13:41:23,850 [INFO] [158/212] Scraping: https://www.rohneselmer.no/biler/lager/1211503/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:26,243 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 509900
+2026-03-16 13:41:27,748 [INFO] [159/212] Scraping: https://www.rohneselmer.no/biler/lager/1212496/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-16 13:41:30,110 [INFO]   ✓ 2024 Ford Transit Custom 2.0 EcoBlue AWD | 509900
+2026-03-16 13:41:31,615 [INFO] [160/212] Scraping: https://www.rohneselmer.no/biler/lager/1212180/1099/ford-transit-custom-e-transit-custom-320
+2026-03-16 13:41:34,244 [INFO]   ✓ 2025 Ford Transit Custom E-Transit Custom 320 | 519000
+2026-03-16 13:41:35,749 [INFO] [161/212] Scraping: https://www.rohneselmer.no/biler/lager/1212115/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-16 13:41:38,475 [INFO]   ✓ 2024 Ford Transit Custom 2.0 EcoBlue AWD | 519900
+2026-03-16 13:41:39,980 [INFO] [162/212] Scraping: https://www.rohneselmer.no/biler/lager/1212762/1099/ford-transit-2-0-ecoblue
+2026-03-16 13:41:42,395 [INFO]   ✓ 2023 Ford Transit 2.0 EcoBlue | 519900
+2026-03-16 13:41:43,895 [INFO] [163/212] Scraping: https://www.rohneselmer.no/biler/lager/1210029/1099/skoda-kodiaq-2-0-tdi-scr-4x4
+2026-03-16 13:41:46,277 [INFO]   ✓ 2023 Škoda Kodiaq 2.0 TDI SCR 4x4 | 525000
+2026-03-16 13:41:47,779 [INFO] [164/212] Scraping: https://www.rohneselmer.no/biler/lager/1212893/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:50,552 [INFO]   ✓ 2026 Ford Explorer EV Explorer EV Extended Range AWD | 529000
+2026-03-16 13:41:52,057 [INFO] [165/212] Scraping: https://www.rohneselmer.no/biler/lager/1210084/1099/ford-kuga-kuga-plug-in-hybrid
+2026-03-16 13:41:54,441 [INFO]   ✓ 2025 Ford Kuga Kuga Plug-In Hybrid | 529000
+2026-03-16 13:41:55,946 [INFO] [166/212] Scraping: https://www.rohneselmer.no/biler/lager/1211482/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:41:58,505 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 529900
+2026-03-16 13:42:00,010 [INFO] [167/212] Scraping: https://www.rohneselmer.no/biler/lager/1212262/1099/mercedes-benz-gls-gls-350-d-4matic
+2026-03-16 13:42:02,546 [INFO]   ✓ 2018 Mercedes-Benz GLS GLS 350 d 4MATIC | 535000
+2026-03-16 13:42:04,048 [INFO] [168/212] Scraping: https://www.rohneselmer.no/biler/lager/1212760/1099/ford-transit-custom-2-0-ecoblue
+2026-03-16 13:42:06,410 [INFO]   ✓ 2025 Ford Transit Custom 2.0 EcoBlue | 539000
+2026-03-16 13:42:07,914 [INFO] [169/212] Scraping: https://www.rohneselmer.no/biler/lager/1213071/1099/ford-transit-custom-2-0-ecoblue
+2026-03-16 13:42:10,523 [INFO]   ✓ 2025 Ford Transit Custom 2.0 EcoBlue | 539000
+2026-03-16 13:42:12,029 [INFO] [170/212] Scraping: https://www.rohneselmer.no/biler/lager/1213104/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-16 13:42:12,267 [INFO]   ✓ 2020 Ford Explorer Explorer Plug-In Hybrid | 539900
+2026-03-16 13:42:13,773 [INFO] [171/212] Scraping: https://www.rohneselmer.no/biler/lager/1212499/1099/ford-explorer-ev-explorer-ev-extended-range-rwd
+2026-03-16 13:42:16,581 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range RWD | 545000
+2026-03-16 13:42:18,086 [INFO] [172/212] Scraping: https://www.rohneselmer.no/biler/lager/1212610/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-16 13:42:20,546 [INFO]   ✓ 2023 Ford Explorer Explorer Plug-In Hybrid | 549900
+2026-03-16 13:42:22,051 [INFO] [173/212] Scraping: https://www.rohneselmer.no/biler/lager/1212201/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:42:24,591 [INFO]   ✓ 2026 Ford Explorer EV Explorer EV Extended Range AWD | 549900
+2026-03-16 13:42:26,096 [INFO] [174/212] Scraping: https://www.rohneselmer.no/biler/lager/1211483/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:42:29,003 [INFO]   ✓ 2026 Ford Explorer EV Explorer EV Extended Range AWD | 559900
+2026-03-16 13:42:30,508 [INFO] [175/212] Scraping: https://www.rohneselmer.no/biler/lager/1210100/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-16 13:42:32,946 [INFO]   ✓ 2025 Ford Capri EV Capri EV Extended Range AWD | 559900
+2026-03-16 13:42:34,446 [INFO] [176/212] Scraping: https://www.rohneselmer.no/biler/lager/1210157/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-16 13:42:37,028 [INFO]   ✓ 2022 Ford Explorer Explorer Plug-In Hybrid | 579900
+2026-03-16 13:42:38,533 [INFO] [177/212] Scraping: https://www.rohneselmer.no/biler/lager/1210095/1099/ford-capri-ev-capri-ev-extended-range-awd
+2026-03-16 13:42:41,509 [INFO]   ✓ 2025 Ford Capri EV Capri EV Extended Range AWD | 579900
+2026-03-16 13:42:43,014 [INFO] [178/212] Scraping: https://www.rohneselmer.no/biler/lager/1211062/1099/ford-explorer-ev-explorer-ev-extended-range-awd
+2026-03-16 13:42:45,485 [INFO]   ✓ 2025 Ford Explorer EV Explorer EV Extended Range AWD | 579900
+2026-03-16 13:42:46,990 [INFO] [179/212] Scraping: https://www.rohneselmer.no/biler/lager/1213021/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-16 13:42:49,372 [INFO]   ✓ 2025 Ford Transit Custom 2.0 EcoBlue AWD | 579900
+2026-03-16 13:42:50,877 [INFO] [180/212] Scraping: https://www.rohneselmer.no/biler/lager/1211308/1099/ford-ranger-2-0-ecoblue-e-4wd
+2026-03-16 13:42:53,337 [INFO]   ✓ 2024 Ford Ranger 2.0 EcoBlue e-4WD | 609900
+2026-03-16 13:42:54,842 [INFO] [181/212] Scraping: https://www.rohneselmer.no/biler/lager/1210164/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-16 13:42:57,590 [INFO]   ✓ 2025 Ford Transit Custom 2.0 EcoBlue AWD | 609900
+2026-03-16 13:42:59,095 [INFO] [182/212] Scraping: https://www.rohneselmer.no/biler/lager/1212675/1099/ford-transit-custom-2-0-ecoblue-awd
+2026-03-16 13:43:01,441 [INFO]   ✓ 2025 Ford Transit Custom 2.0 EcoBlue AWD | 619900
+2026-03-16 13:43:02,947 [INFO] [183/212] Scraping: https://www.rohneselmer.no/biler/lager/1212126/1099/ford-ranger-2-0-ecoblue-e-4wd
+2026-03-16 13:43:05,574 [INFO]   ✓ 2024 Ford Ranger 2.0 EcoBlue e-4WD | 629900
+2026-03-16 13:43:07,080 [INFO] [184/212] Scraping: https://www.rohneselmer.no/biler/lager/1211939/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-16 13:43:09,540 [INFO]   ✓ 2021 Ford Explorer Explorer Plug-In Hybrid | 639900
+2026-03-16 13:43:11,045 [INFO] [185/212] Scraping: https://www.rohneselmer.no/biler/lager/1213117/1099/porsche-taycan-taycan-4-cross-turismo
+2026-03-16 13:43:13,536 [INFO]   ✓ 2022 Porsche Taycan Taycan 4 Cross Turismo | 639900
+2026-03-16 13:43:15,039 [INFO] [186/212] Scraping: https://www.rohneselmer.no/biler/lager/1213007/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-16 13:43:17,676 [INFO]   ✓ 2024 Ford Ranger 3.0 V6 EcoBlue e-4WD | 644900
+2026-03-16 13:43:19,181 [INFO] [187/212] Scraping: https://www.rohneselmer.no/biler/lager/1210562/1099/ford-transit-custom-e-tourneo-custom-340
+2026-03-16 13:43:22,157 [INFO]   ✓ 2025 Ford Transit Custom E-Tourneo Custom 340 | 649900
+2026-03-16 13:43:23,662 [INFO] [188/212] Scraping: https://www.rohneselmer.no/biler/lager/1210201/1099/audi-a6-a6-avant-50-tfsi-e-quattro
+2026-03-16 13:43:26,363 [INFO]   ✓ 2023 Audi A6 A6 Avant 50 TFSI e quattro | 649900
+2026-03-16 13:43:27,868 [INFO] [189/212] Scraping: https://www.rohneselmer.no/biler/lager/1211264/1099/ford-f-series-3-0-v6-power-stroke-4x4
+2026-03-16 13:43:30,649 [INFO]   ✓ 2018 Ford F-Series 3.0 V6 Power Stroke 4x4 | 649900
+2026-03-16 13:43:32,154 [INFO] [190/212] Scraping: https://www.rohneselmer.no/biler/lager/1212311/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-16 13:43:34,496 [INFO]   ✓ 2024 Ford Ranger 3.0 V6 EcoBlue e-4WD | 654900
+2026-03-16 13:43:36,001 [INFO] [191/212] Scraping: https://www.rohneselmer.no/biler/lager/1210124/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-16 13:43:38,464 [INFO]   ✓ 2023 Ford Ranger 3.0 V6 EcoBlue e-4WD | 659900
+2026-03-16 13:43:39,969 [INFO] [192/212] Scraping: https://www.rohneselmer.no/biler/lager/1212294/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-16 13:43:42,333 [INFO]   ✓ 2024 Ford Ranger 3.0 V6 EcoBlue e-4WD | 674900
+2026-03-16 13:43:43,838 [INFO] [193/212] Scraping: https://www.rohneselmer.no/biler/lager/1210025/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-16 13:43:46,242 [INFO]   ✓ 2024 Ford Ranger 3.0 V6 EcoBlue e-4WD | 678000
+2026-03-16 13:43:47,748 [INFO] [194/212] Scraping: https://www.rohneselmer.no/biler/lager/1210196/1099/ford-mustang-mach-e-mustang-mach-e-gt
+2026-03-16 13:43:50,206 [INFO]   ✓ 2025 Ford Mustang Mach-E Mustang Mach-E GT | 679900
+2026-03-16 13:43:51,711 [INFO] [195/212] Scraping: https://www.rohneselmer.no/biler/lager/1211725/1099/ford-transit-custom-e-tourneo-custom-340
+2026-03-16 13:43:54,094 [INFO]   ✓ 2025 Ford Transit Custom E-Tourneo Custom 340 | 684900
+2026-03-16 13:43:55,599 [INFO] [196/212] Scraping: https://www.rohneselmer.no/biler/lager/1211589/1099/chevrolet-silverado-3-0-duramax-4wd
+2026-03-16 13:43:58,361 [INFO]   ✓ 2020 Chevrolet Silverado 3.0 Duramax 4WD | 689900
+2026-03-16 13:43:59,866 [INFO] [197/212] Scraping: https://www.rohneselmer.no/biler/lager/1212098/1099/ford-mustang-mach-e-mustang-mach-e-rally
+2026-03-16 13:44:02,174 [INFO]   ✓ 2024 Ford Mustang Mach-E Mustang Mach-E Rally | 689900
+2026-03-16 13:44:03,679 [INFO] [198/212] Scraping: https://www.rohneselmer.no/biler/lager/1211557/1099/ford-ranger-3-0-v6-ecoblue-e-4wd
+2026-03-16 13:44:06,429 [INFO]   ✓ 2024 Ford Ranger 3.0 V6 EcoBlue e-4WD | 699900
+2026-03-16 13:44:07,930 [INFO] [199/212] Scraping: https://www.rohneselmer.no/biler/lager/1212662/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-16 13:44:10,591 [INFO]   ✓ 2022 Ford Explorer Explorer Plug-In Hybrid | 719900
+2026-03-16 13:44:12,096 [INFO] [200/212] Scraping: https://www.rohneselmer.no/biler/lager/1213171/1099/ford-explorer-explorer-plug-in-hybrid
+2026-03-16 13:44:14,811 [INFO]   ✓ 2021 Ford Explorer Explorer Plug-In Hybrid | 719900
+2026-03-16 13:44:16,316 [INFO] [201/212] Scraping: https://www.rohneselmer.no/biler/lager/1211345/1099/ford-ranger-ranger-phev
+2026-03-16 13:44:19,074 [INFO]   ✓ 2025 Ford Ranger Ranger PHEV | 759900
+2026-03-16 13:44:20,579 [INFO] [202/212] Scraping: https://www.rohneselmer.no/biler/lager/1212469/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-16 13:44:23,165 [INFO]   ✓ 2023 Ford F-Series F-150 Lightning Standard Range | 769900
+2026-03-16 13:44:24,670 [INFO] [203/212] Scraping: https://www.rohneselmer.no/biler/lager/1212660/1099/ford-ranger-ranger-phev
+2026-03-16 13:44:27,113 [INFO]   ✓ 2025 Ford Ranger Ranger PHEV | 779900
+2026-03-16 13:44:28,618 [INFO] [204/212] Scraping: https://www.rohneselmer.no/biler/lager/1212399/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-16 13:44:31,319 [INFO]   ✓ 2024 Ford F-Series F-150 Lightning Standard Range | 799900
+2026-03-16 13:44:32,824 [INFO] [205/212] Scraping: https://www.rohneselmer.no/biler/lager/1210192/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-16 13:44:35,254 [INFO]   ✓ 2024 Ford F-Series F-150 Lightning Standard Range | 799900
+2026-03-16 13:44:36,760 [INFO] [206/212] Scraping: https://www.rohneselmer.no/biler/lager/1212681/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-16 13:44:39,419 [INFO]   ✓ 2023 Ford F-Series F-150 Lightning Standard Range | 819900
+2026-03-16 13:44:40,924 [INFO] [207/212] Scraping: https://www.rohneselmer.no/biler/lager/1212820/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-16 13:44:43,968 [INFO]   ✓ 2023 Ford F-Series F-150 Lightning Standard Range | 819900
+2026-03-16 13:44:45,468 [INFO] [208/212] Scraping: https://www.rohneselmer.no/biler/lager/1211334/1099/ford-f-series-f-150-lightning-standard-range
+2026-03-16 13:44:48,109 [INFO]   ✓ 2023 Ford F-Series F-150 Lightning Standard Range | 839900
+2026-03-16 13:44:49,614 [INFO] [209/212] Scraping: https://www.rohneselmer.no/biler/lager/1212052/1099/ram-1500-1500-trx
+2026-03-16 13:44:51,863 [INFO]   ✓ 2021 RAM 1500 1500 TRX | 1349900
+2026-03-16 13:44:53,367 [INFO] [210/212] Scraping: https://www.rohneselmer.no/biler/lager/1212397/1099/ford-f-series-5-0-v8-ti-vct-ffv-4x4
+2026-03-16 13:44:55,608 [INFO]   ✓ 2019 Ford F-Series 5.0 V8 Ti-VCT FFV 4x4 | 1390000
+2026-03-16 13:44:57,114 [INFO] [211/212] Scraping: https://www.rohneselmer.no/biler/lager/1212462/1099/ford-bronco-2-7-v6-ecoboost-e-4wd
+2026-03-16 13:44:59,329 [INFO]   ✓ 2023 Ford Bronco 2.7 V6 EcoBoost e-4WD | 1399900
+2026-03-16 13:45:00,834 [INFO] [212/212] Scraping: https://www.rohneselmer.no/biler/lager/1210215/1099/ford-mustang-mustang-boss-429
+2026-03-16 13:45:03,402 [INFO]   ✓ 1969 Ford Mustang Mustang Boss 429 | 6500000
+2026-03-16 13:45:04,907 [INFO] 
+Successfully scraped: 212/212 vehicles
+2026-03-16 13:45:04,924 [INFO] 
+✅ Google feed saved to: rohneselmer_feed.xml
+2026-03-16 13:45:04,929 [INFO] ✅ Meta feed saved to: rohneselmer_feed_meta.xml
+2026-03-16 13:45:04,929 [INFO]    Total items: 212
+2026-03-16 13:45:04,929 [INFO] ============================================================

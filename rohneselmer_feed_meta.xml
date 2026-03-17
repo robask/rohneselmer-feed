@@ -27,7 +27,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>94900 NOK</price>
+    <price>94900</price>
     <mileage>
       <unit>KM</unit>
       <value>73360</value>
@@ -65,7 +65,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>109900 NOK</price>
+    <price>109900</price>
     <mileage>
       <unit>KM</unit>
       <value>80000</value>
@@ -103,7 +103,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>124900 NOK</price>
+    <price>124900</price>
     <mileage>
       <unit>KM</unit>
       <value>87600</value>
@@ -141,7 +141,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>128900 NOK</price>
+    <price>128900</price>
     <mileage>
       <unit>KM</unit>
       <value>123920</value>
@@ -179,7 +179,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>134900 NOK</price>
+    <price>134900</price>
     <mileage>
       <unit>KM</unit>
       <value>172600</value>
@@ -217,7 +217,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>139000 NOK</price>
+    <price>139000</price>
     <mileage>
       <unit>KM</unit>
       <value>65800</value>
@@ -255,7 +255,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>149000 NOK</price>
+    <price>149000</price>
     <mileage>
       <unit>KM</unit>
       <value>75800</value>
@@ -293,7 +293,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>149900 NOK</price>
+    <price>149900</price>
     <mileage>
       <unit>KM</unit>
       <value>40500</value>
@@ -307,7 +307,7 @@
   <listing>
     <vehicle_id>1212825</vehicle_id>
     <title>2017 Tesla Model S Model S 75</title>
-    <description>Her får du en tidløs elektrisk sedan i dyp rød lakk. RWD utgaven er spesielt ettertraktet for sin presise styring og sin unike lastekapasitet. Bilen er leveringsklar på dagen Teslas premium lydsystem med 12 høyttalere og egen subwoofer Full app-kontroll start forvarmingen fra telefonen Elektriske delskinnseter med minnefunksjon Tesla Model S 75 RWD er kjent for å være den "rene" Tesla-opplevelsen, med en mer leken karakter enn de tyngre firehjulstrekkerne. 75 kWh-batteriet gir en solid rekkevidde som dekker de fleste behov, fra daglig pendling til helgeturer. Denne modellen utmerker seg spesie</description>
+    <description>Her får du en tidløs elektrisk sedan i dyp rød lakk. RWD utgaven er spesielt ettertraktet for sin presise styring og sin unike lastekapasitet. Bilen er leveringsklar på dagen Teslas premium lydsystem med 12 høyttalere og egen subwoofer Full app-kontroll start forvarmingen fra telefonen Elektriske delskinnseter med minnefunksjon To nye vinterdekk og bra sommerdekk Tesla Model S 75 RWD er kjent for å være den "rene" Tesla-opplevelsen, med en mer leken karakter enn de tyngre firehjulstrekkerne. 75 kWh-batteriet gir en solid rekkevidde som dekker de fleste behov, fra daglig pendling til helgeturer</description>
     <url>https://www.rohneselmer.no/biler/lager/1212825/1099/tesla-model-s-model-s-75</url>
     <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212825_2c319c24-8649-4b29-81bb-c2dcf924b613.jpg?s=1024</url></image>
     <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212825_065ef705-c3ac-4af9-a231-a754787a3047.jpg</url></image>
@@ -331,7 +331,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>159900 NOK</price>
+    <price>159900</price>
     <mileage>
       <unit>KM</unit>
       <value>130440</value>
@@ -369,7 +369,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>159999 NOK</price>
+    <price>159999</price>
     <mileage>
       <unit>KM</unit>
       <value>86420</value>
@@ -407,7 +407,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>166900 NOK</price>
+    <price>166900</price>
     <mileage>
       <unit>KM</unit>
       <value>59670</value>
@@ -445,7 +445,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>169000 NOK</price>
+    <price>169000</price>
     <mileage>
       <unit>KM</unit>
       <value>162150</value>
@@ -483,7 +483,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>169900 NOK</price>
+    <price>169900</price>
     <mileage>
       <unit>KM</unit>
       <value>130000</value>
@@ -521,7 +521,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>169900 NOK</price>
+    <price>169900</price>
     <mileage>
       <unit>KM</unit>
       <value>92000</value>
@@ -559,7 +559,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>179900 NOK</price>
+    <price>179900</price>
     <mileage>
       <unit>KM</unit>
       <value>95000</value>
@@ -569,44 +569,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Grå</exterior_color>
     <vin>KMHK581GFKU006036</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1211556</vehicle_id>
-    <title>2021 Hyundai Kona Kona Electric 64 kWh</title>
-    <description>Topputstyrt elektrisk bil med behagelig bakkeklaring og solid rekkevidde er ankommet våre lokaler og står leveringsklar! Bilen er EU-Godkjent frem til 24.02.2027 God servicehistorikk, siste utført på 104054km</description>
-    <url>https://www.rohneselmer.no/biler/lager/1211556/1099/hyundai-kona-kona-electric-64-kwh</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_70163047-b8f1-4137-8778-8232d2a3431c.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211556_f78a06f6-f322-4255-a479-e4af96a1bb86.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_f78a06f6-f322-4255-a479-e4af96a1bb86.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_444f5335-5e2b-45fc-bb2f-b4e98ccaaa08.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_07cd880f-00d8-464a-9bd4-f908e09bfb75.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_f023c147-149e-4796-a031-3a024233df03.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_2575503b-4c9e-4e97-9376-b778c8cb58e5.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_0bfaff6c-2f0d-4b7d-b557-31682a0b1ef4.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_faf0c5a2-238e-48ab-8f9c-95e75ec1142d.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_13a543b4-66e1-4249-9f95-e31335432b4e.jpg?s=1024</url></image>
-    <make>Hyundai</make>
-    <model>Kona Electric 64 kWh</model>
-    <year>2021</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3511</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Hønefoss</dealer_name>
-    <price>182900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>114060</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <exterior_color>Hvit</exterior_color>
-    <vin>TMAK581GFMJ026229</vin>
   </listing>
   <listing>
     <vehicle_id>1212931</vehicle_id>
@@ -635,7 +597,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>184000 NOK</price>
+    <price>184000</price>
     <mileage>
       <unit>KM</unit>
       <value>13090</value>
@@ -645,6 +607,44 @@
     <fuel_type>DIESEL</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF0WXXTACWNB60899</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1211556</vehicle_id>
+    <title>2021 Hyundai Kona Kona Electric 64 kWh</title>
+    <description>Topputstyrt elektrisk bil med behagelig bakkeklaring og solid rekkevidde er ankommet våre lokaler og står leveringsklar! Bilen er EU-Godkjent frem til 24.02.2027 God servicehistorikk, siste utført på 104054km</description>
+    <url>https://www.rohneselmer.no/biler/lager/1211556/1099/hyundai-kona-kona-electric-64-kwh</url>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_1a0431a7-a5df-4cf2-96e8-b2e011de4fb7.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211556_a7a7ed8a-97ce-4fb3-b94f-f45a91435436.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_a7a7ed8a-97ce-4fb3-b94f-f45a91435436.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_116ecdbd-2617-4a62-848e-a852c5d460ca.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_3a371fb3-1451-4669-9067-efee24872477.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_e5ccc178-cc0e-42e7-b472-90687b0a7a51.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_732e809d-c869-49ca-8a1e-5ce7c0a00173.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_e087ad1f-d2ea-444f-af14-8d1b7c4bb4dc.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_5c15c303-54e4-486b-aeff-6e774b1e4c79.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211556_eb3e9546-426e-4557-8fc0-906b68681cc3.jpg?s=1024</url></image>
+    <make>Hyundai</make>
+    <model>Kona Electric 64 kWh</model>
+    <year>2021</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Gigstads vei 24</component>
+      <component name="city">Hønefoss</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3511</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Hønefoss</dealer_name>
+    <price>184900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>114060</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>ELECTRIC</fuel_type>
+    <exterior_color>Hvit</exterior_color>
+    <vin>TMAK581GFMJ026229</vin>
   </listing>
   <listing>
     <vehicle_id>1210665</vehicle_id>
@@ -673,7 +673,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>188900 NOK</price>
+    <price>188900</price>
     <mileage>
       <unit>KM</unit>
       <value>48700</value>
@@ -710,7 +710,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>189900 NOK</price>
+    <price>189900</price>
     <mileage>
       <unit>KM</unit>
       <value>91000</value>
@@ -748,7 +748,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>194900 NOK</price>
+    <price>194900</price>
     <mileage>
       <unit>KM</unit>
       <value>174700</value>
@@ -786,7 +786,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>209000 NOK</price>
+    <price>209000</price>
     <mileage>
       <unit>KM</unit>
       <value>126940</value>
@@ -824,7 +824,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>209900 NOK</price>
+    <price>209900</price>
     <mileage>
       <unit>KM</unit>
       <value>84710</value>
@@ -862,7 +862,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>214900 NOK</price>
+    <price>214900</price>
     <mileage>
       <unit>KM</unit>
       <value>123500</value>
@@ -900,7 +900,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>214900 NOK</price>
+    <price>214900</price>
     <mileage>
       <unit>KM</unit>
       <value>28900</value>
@@ -938,7 +938,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>219900 NOK</price>
+    <price>219900</price>
     <mileage>
       <unit>KM</unit>
       <value>85500</value>
@@ -976,7 +976,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>219900 NOK</price>
+    <price>219900</price>
     <mileage>
       <unit>KM</unit>
       <value>135870</value>
@@ -1014,7 +1014,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>219900 NOK</price>
+    <price>219900</price>
     <mileage>
       <unit>KM</unit>
       <value>175000</value>
@@ -1052,7 +1052,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>222222 NOK</price>
+    <price>222222</price>
     <mileage>
       <unit>KM</unit>
       <value>72820</value>
@@ -1090,7 +1090,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>222222 NOK</price>
+    <price>222222</price>
     <mileage>
       <unit>KM</unit>
       <value>72190</value>
@@ -1128,7 +1128,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>224900 NOK</price>
+    <price>224900</price>
     <mileage>
       <unit>KM</unit>
       <value>83240</value>
@@ -1166,7 +1166,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>225500 NOK</price>
+    <price>225500</price>
     <mileage>
       <unit>KM</unit>
       <value>173110</value>
@@ -1176,82 +1176,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF0TK1E75MMA22366</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1212087</vehicle_id>
-    <title>2018 Volkswagen Caddy 2.0 TDI BMT</title>
-    <description>Volkswagen Caddy 2.0 TDI BMT</description>
-    <url>https://www.rohneselmer.no/biler/lager/1212087/1099/volkswagen-caddy-2-0-tdi-bmt</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_92373b71-c53c-475a-85da-c6d77d190296.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212087_b1ebfc74-a32b-41fb-b061-96dc67a3d217.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_b1ebfc74-a32b-41fb-b061-96dc67a3d217.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_cd554e18-dfe6-4af4-806f-93cb0767dc70.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_5d87a293-1f8e-469e-afcb-07bcbb7c05a3.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_2ce87da5-2e24-4581-b634-323a196d73bc.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_20a37aac-9353-4c2b-9325-1e241b748409.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_09198471-86ae-4ef5-936d-338bee6ab320.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_f730098f-6dfd-48fb-a04b-1fc9ab2236e4.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_4a6ebe5e-7eea-4440-a5e4-55c74b3f1161.jpg?s=1024</url></image>
-    <make>Volkswagen</make>
-    <model>Caddy 2.0 TDI BMT</model>
-    <year>2018</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3511</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Hønefoss</dealer_name>
-    <price>227900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>171540</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>DIESEL</fuel_type>
-    <exterior_color>Sølv</exterior_color>
-    <vin>WV2ZZZ2KZJX149298</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1211963</vehicle_id>
-    <title>2024 Nissan Leaf Leaf</title>
-    <description>2024 Nissan Leaf 40kWh står leveringsklar i våre lokaler på Billingstad!</description>
-    <url>https://www.rohneselmer.no/biler/lager/1211963/1099/nissan-leaf-leaf</url>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_33f073db-3ebb-4f7d-8fd3-4b7c987b006f.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1100/stockvehicles/1211963_e0380070-c30c-4ceb-b0ff-9e9b339aaf21.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_e0380070-c30c-4ceb-b0ff-9e9b339aaf21.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_1f7b8aea-f0c8-4b6b-a953-5ac7bffbddad.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_4a88bc4b-e0ac-4316-932b-be15021039a0.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_9d57aa36-cfc7-4f4a-8132-1062107a4270.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_fe73625a-a905-49f1-bff2-1c29ab07c2e0.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_5dfd7fd0-af25-4630-96fe-068a5f1b33f0.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_71a51689-9913-47c4-b8ed-9d623af9357b.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_8c88545b-200b-40b9-ac07-e3ecc2d3150d.jpg?s=1024</url></image>
-    <make>Nissan</make>
-    <model>Leaf</model>
-    <year>2024</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">1396</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Asker og Bærum</dealer_name>
-    <price>229900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>9100</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <exterior_color>Rød</exterior_color>
-    <vin>SJNFAAZE1U0197269</vin>
   </listing>
   <listing>
     <vehicle_id>1212747</vehicle_id>
@@ -1280,7 +1204,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>229900 NOK</price>
+    <price>229900</price>
     <mileage>
       <unit>KM</unit>
       <value>36400</value>
@@ -1290,6 +1214,82 @@
     <fuel_type>DIESEL</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF0SXXWPGSNM04530</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1211963</vehicle_id>
+    <title>2024 Nissan Leaf Leaf</title>
+    <description>2024 Nissan Leaf 40kWh står leveringsklar i våre lokaler på Billingstad!</description>
+    <url>https://www.rohneselmer.no/biler/lager/1211963/1099/nissan-leaf-leaf</url>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_33f073db-3ebb-4f7d-8fd3-4b7c987b006f.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1100/stockvehicles/1211963_e0380070-c30c-4ceb-b0ff-9e9b339aaf21.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_e0380070-c30c-4ceb-b0ff-9e9b339aaf21.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_1f7b8aea-f0c8-4b6b-a953-5ac7bffbddad.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_4a88bc4b-e0ac-4316-932b-be15021039a0.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_9d57aa36-cfc7-4f4a-8132-1062107a4270.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_fe73625a-a905-49f1-bff2-1c29ab07c2e0.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_5dfd7fd0-af25-4630-96fe-068a5f1b33f0.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_71a51689-9913-47c4-b8ed-9d623af9357b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1211963_8c88545b-200b-40b9-ac07-e3ecc2d3150d.jpg?s=1024</url></image>
+    <make>Nissan</make>
+    <model>Leaf</model>
+    <year>2024</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Stasjonsveien 20</component>
+      <component name="city">Asker og Bærum</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Asker og Bærum</dealer_name>
+    <price>229900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>9100</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>ELECTRIC</fuel_type>
+    <exterior_color>Rød</exterior_color>
+    <vin>SJNFAAZE1U0197269</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1212087</vehicle_id>
+    <title>2018 Volkswagen Caddy 2.0 TDI BMT</title>
+    <description>Volkswagen Caddy 2.0 TDI BMT</description>
+    <url>https://www.rohneselmer.no/biler/lager/1212087/1099/volkswagen-caddy-2-0-tdi-bmt</url>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_f4d077ee-9deb-491d-9309-eb5dcdd9950f.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212087_f822b6c8-8d91-453c-820a-d8d1e0279b4e.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_f822b6c8-8d91-453c-820a-d8d1e0279b4e.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_264f6838-8e31-4cf5-bd76-58b86553f555.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_07d8aa89-09b6-4df8-ac74-9833f81dd261.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_2d3fdd68-b1ec-44e6-ae80-d34e145340c3.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_e0126c1a-e37b-4805-b155-3ffbcde1b3f6.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_c1d3c861-e84a-44e7-8120-5b9b33d70913.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_54699240-e1c6-4f5e-9e4a-9e315e7925df.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212087_bda3918f-b6a4-4a9d-a337-a2d416f64030.jpg?s=1024</url></image>
+    <make>Volkswagen</make>
+    <model>Caddy 2.0 TDI BMT</model>
+    <year>2018</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Gigstads vei 24</component>
+      <component name="city">Hønefoss</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3511</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Hønefoss</dealer_name>
+    <price>229900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>171540</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>DIESEL</fuel_type>
+    <exterior_color>Sølv</exterior_color>
+    <vin>WV2ZZZ2KZJX149298</vin>
   </listing>
   <listing>
     <vehicle_id>1212895</vehicle_id>
@@ -1318,7 +1318,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>238550 NOK</price>
+    <price>238550</price>
     <mileage>
       <unit>KM</unit>
       <value>31910</value>
@@ -1356,7 +1356,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>239000 NOK</price>
+    <price>239000</price>
     <mileage>
       <unit>KM</unit>
       <value>125680</value>
@@ -1394,7 +1394,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>239000 NOK</price>
+    <price>239000</price>
     <mileage>
       <unit>KM</unit>
       <value>74670</value>
@@ -1432,7 +1432,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>239000 NOK</price>
+    <price>239000</price>
     <mileage>
       <unit>KM</unit>
       <value>91500</value>
@@ -1470,7 +1470,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>239500 NOK</price>
+    <price>239500</price>
     <mileage>
       <unit>KM</unit>
       <value>151400</value>
@@ -1508,7 +1508,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>239550 NOK</price>
+    <price>239550</price>
     <mileage>
       <unit>KM</unit>
       <value>55550</value>
@@ -1546,7 +1546,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>239900 NOK</price>
+    <price>239900</price>
     <mileage>
       <unit>KM</unit>
       <value>34900</value>
@@ -1584,7 +1584,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>239900 NOK</price>
+    <price>239900</price>
     <mileage>
       <unit>KM</unit>
       <value>22800</value>
@@ -1622,7 +1622,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>249000 NOK</price>
+    <price>249000</price>
     <mileage>
       <unit>KM</unit>
       <value>158750</value>
@@ -1660,7 +1660,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>249900 NOK</price>
+    <price>249900</price>
     <mileage>
       <unit>KM</unit>
       <value>52170</value>
@@ -1698,7 +1698,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>249900 NOK</price>
+    <price>249900</price>
     <mileage>
       <unit>KM</unit>
       <value>93200</value>
@@ -1736,7 +1736,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>249900 NOK</price>
+    <price>249900</price>
     <mileage>
       <unit>KM</unit>
       <value>137100</value>
@@ -1774,7 +1774,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>249900 NOK</price>
+    <price>249900</price>
     <mileage>
       <unit>KM</unit>
       <value>61000</value>
@@ -1812,7 +1812,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>252900 NOK</price>
+    <price>252900</price>
     <mileage>
       <unit>KM</unit>
       <value>306800</value>
@@ -1850,7 +1850,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>259000 NOK</price>
+    <price>259000</price>
     <mileage>
       <unit>KM</unit>
       <value>21810</value>
@@ -1888,7 +1888,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>259750 NOK</price>
+    <price>259750</price>
     <mileage>
       <unit>KM</unit>
       <value>110750</value>
@@ -1926,7 +1926,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>259900 NOK</price>
+    <price>259900</price>
     <mileage>
       <unit>KM</unit>
       <value>72000</value>
@@ -1964,7 +1964,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>259900 NOK</price>
+    <price>259900</price>
     <mileage>
       <unit>KM</unit>
       <value>66700</value>
@@ -2002,7 +2002,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>264900 NOK</price>
+    <price>264900</price>
     <mileage>
       <unit>KM</unit>
       <value>129500</value>
@@ -2040,7 +2040,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>269900 NOK</price>
+    <price>269900</price>
     <mileage>
       <unit>KM</unit>
       <value>69900</value>
@@ -2078,7 +2078,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>269900 NOK</price>
+    <price>269900</price>
     <mileage>
       <unit>KM</unit>
       <value>77700</value>
@@ -2094,16 +2094,16 @@
     <title>2023 Ford Kuga Kuga Plug-In Hybrid</title>
     <description>Ford Kuga Kuga Plug-In Hybrid</description>
     <url>https://www.rohneselmer.no/biler/lager/1211752/1099/ford-kuga-kuga-plug-in-hybrid</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_6c273ea0-aaba-448e-b951-4d77a5ae0acd.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211752_5a573004-8879-4d63-8930-707ce5c50f87.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_5a573004-8879-4d63-8930-707ce5c50f87.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_553c9ef6-4b24-4781-b9ac-81676bbcd9db.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_1302aef9-8cb6-44a4-b273-ca78a846005f.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_cce3c4d2-c655-4b6d-89f2-b1d6166f0ddb.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_a1121dc8-ef35-41a1-904b-a52c8ae6c45f.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_23e42d2a-db36-4ed1-b548-146fa2fb6b43.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_fcc1b2a0-7d04-4c1a-931d-5b40d0250bf3.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_75ea0031-bdef-49c2-8cc7-537b96f2e2f6.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_938298ba-b403-4fb4-83d0-573f58e19bf0.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211752_8595f49b-750b-47b0-97fa-4509e536e02f.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_8595f49b-750b-47b0-97fa-4509e536e02f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_1d54a810-ee91-40db-9a31-88a0eb315dae.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_0e089c95-2af3-4b33-8316-7992db9c6065.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_3bd563f5-86c2-4bd7-9957-9cb8b807f0e4.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_51d4db5f-3a17-476c-adea-656d80f66fcd.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_e717f908-3297-4cea-9ed5-42a4158a30c9.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_d2651d83-03f0-4f54-abc3-e8cc56dd1867.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211752_a1863826-e47d-40ce-b198-8af09f4f5390.jpg?s=1024</url></image>
     <make>Ford</make>
     <model>Kuga Plug-In Hybrid</model>
     <year>2023</year>
@@ -2116,7 +2116,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>274900 NOK</price>
+    <price>274900</price>
     <mileage>
       <unit>KM</unit>
       <value>54730</value>
@@ -2154,7 +2154,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>274900 NOK</price>
+    <price>274900</price>
     <mileage>
       <unit>KM</unit>
       <value>54000</value>
@@ -2192,7 +2192,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>278888 NOK</price>
+    <price>278888</price>
     <mileage>
       <unit>KM</unit>
       <value>70000</value>
@@ -2230,7 +2230,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>279000 NOK</price>
+    <price>279000</price>
     <mileage>
       <unit>KM</unit>
       <value>79330</value>
@@ -2268,7 +2268,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>279000 NOK</price>
+    <price>279000</price>
     <mileage>
       <unit>KM</unit>
       <value>107900</value>
@@ -2306,7 +2306,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>279900 NOK</price>
+    <price>279900</price>
     <mileage>
       <unit>KM</unit>
       <value>138000</value>
@@ -2344,7 +2344,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>279900 NOK</price>
+    <price>279900</price>
     <mileage>
       <unit>KM</unit>
       <value>93500</value>
@@ -2382,7 +2382,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>279900 NOK</price>
+    <price>279900</price>
     <mileage>
       <unit>KM</unit>
       <value>101500</value>
@@ -2420,7 +2420,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>282900 NOK</price>
+    <price>282900</price>
     <mileage>
       <unit>KM</unit>
       <value>54080</value>
@@ -2458,7 +2458,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>284900 NOK</price>
+    <price>284900</price>
     <mileage>
       <unit>KM</unit>
       <value>60240</value>
@@ -2496,7 +2496,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>289000 NOK</price>
+    <price>289000</price>
     <mileage>
       <unit>KM</unit>
       <value>28140</value>
@@ -2534,7 +2534,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>289850 NOK</price>
+    <price>289850</price>
     <mileage>
       <unit>KM</unit>
       <value>54370</value>
@@ -2544,44 +2544,6 @@
     <fuel_type>DIESEL</fuel_type>
     <exterior_color>Svart</exterior_color>
     <vin>WF0RXXWPGRPL19250</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1211799</vehicle_id>
-    <title>2023 Ford Transit Custom 2.0 EcoBlue</title>
-    <description>Ford Transit Custom 2.0 EcoBlue</description>
-    <url>https://www.rohneselmer.no/biler/lager/1211799/1099/ford-transit-custom-2-0-ecoblue</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_f1223966-0270-4e48-8889-47705e69a1ab.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211799_bda8d390-453e-484f-97f2-9af246dc06af.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_bda8d390-453e-484f-97f2-9af246dc06af.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_cc59e44e-d201-46d7-a278-9311d51cf158.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_23a42e35-5ca6-46e9-984a-ec8c35494e08.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_84a79712-3eba-4413-9085-4018bc3e9d33.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_d5a04c6b-acbd-4ae2-a09f-d594759788a1.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_ef33d2d0-03f6-4e38-b086-9ebc6199aecd.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_901199a5-6475-4c88-8c03-f18a28f9f99e.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_b4e67401-6ac7-497d-be37-800cb0f2da04.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Transit Custom 2.0 EcoBlue</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3511</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Hønefoss</dealer_name>
-    <price>289900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>77730</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>MANUAL</transmission>
-    <fuel_type>DIESEL</fuel_type>
-    <exterior_color>Hvit</exterior_color>
-    <vin>WF0YXXTTGYNA88642</vin>
   </listing>
   <listing>
     <vehicle_id>1212497</vehicle_id>
@@ -2610,7 +2572,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>289900 NOK</price>
+    <price>289900</price>
     <mileage>
       <unit>KM</unit>
       <value>93000</value>
@@ -2620,6 +2582,44 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Rød</exterior_color>
     <vin>WF0TK3SU3MMA00386</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1211799</vehicle_id>
+    <title>2023 Ford Transit Custom 2.0 EcoBlue</title>
+    <description>Ford Transit Custom 2.0 EcoBlue</description>
+    <url>https://www.rohneselmer.no/biler/lager/1211799/1099/ford-transit-custom-2-0-ecoblue</url>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_f1223966-0270-4e48-8889-47705e69a1ab.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211799_bda8d390-453e-484f-97f2-9af246dc06af.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_bda8d390-453e-484f-97f2-9af246dc06af.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_cc59e44e-d201-46d7-a278-9311d51cf158.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_23a42e35-5ca6-46e9-984a-ec8c35494e08.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_84a79712-3eba-4413-9085-4018bc3e9d33.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_d5a04c6b-acbd-4ae2-a09f-d594759788a1.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_ef33d2d0-03f6-4e38-b086-9ebc6199aecd.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_901199a5-6475-4c88-8c03-f18a28f9f99e.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211799_b4e67401-6ac7-497d-be37-800cb0f2da04.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Transit Custom 2.0 EcoBlue</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Gigstads vei 24</component>
+      <component name="city">Hønefoss</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3511</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Hønefoss</dealer_name>
+    <price>289900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>77730</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>MANUAL</transmission>
+    <fuel_type>DIESEL</fuel_type>
+    <exterior_color>Hvit</exterior_color>
+    <vin>WF0YXXTTGYNA88642</vin>
   </listing>
   <listing>
     <vehicle_id>1212350</vehicle_id>
@@ -2648,7 +2648,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>294900 NOK</price>
+    <price>294900</price>
     <mileage>
       <unit>KM</unit>
       <value>94000</value>
@@ -2686,7 +2686,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>298000 NOK</price>
+    <price>298000</price>
     <mileage>
       <unit>KM</unit>
       <value>42380</value>
@@ -2724,7 +2724,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>299000 NOK</price>
+    <price>299000</price>
     <mileage>
       <unit>KM</unit>
       <value>46150</value>
@@ -2762,7 +2762,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>299000 NOK</price>
+    <price>299000</price>
     <mileage>
       <unit>KM</unit>
       <value>37680</value>
@@ -2800,7 +2800,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>299000 NOK</price>
+    <price>299000</price>
     <mileage>
       <unit>KM</unit>
       <value>101500</value>
@@ -2838,7 +2838,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>299000 NOK</price>
+    <price>299000</price>
     <mileage>
       <unit>KM</unit>
       <value>54980</value>
@@ -2876,7 +2876,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>299000 NOK</price>
+    <price>299000</price>
     <mileage>
       <unit>KM</unit>
       <value>90600</value>
@@ -2914,7 +2914,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>299888 NOK</price>
+    <price>299888</price>
     <mileage>
       <unit>KM</unit>
       <value>40470</value>
@@ -2952,7 +2952,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>299900 NOK</price>
+    <price>299900</price>
     <mileage>
       <unit>KM</unit>
       <value>21890</value>
@@ -2990,7 +2990,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>299900 NOK</price>
+    <price>299900</price>
     <mileage>
       <unit>KM</unit>
       <value>134500</value>
@@ -3004,18 +3004,18 @@
   <listing>
     <vehicle_id>1212135</vehicle_id>
     <title>2023 Tesla Model 3 Model 3 Standard Range</title>
-    <description>Her har vi fått inn et nydelig eksemplar i perlehvit lakk med det ettertraktede hvite interiøret. Bilen er nå nedsatt med 15.000 kr og er leveringsklar på dagen.</description>
+    <description>Her har vi fått inn et nydelig eksemplar i perlehvit lakk med det ettertraktede hvite interiøret. Bilen er nå nedsatt med 20.000 kr og er leveringsklar på dagen.</description>
     <url>https://www.rohneselmer.no/biler/lager/1212135/1099/tesla-model-3-model-3-standard-range</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_b9026dd2-947e-47aa-bcdd-58f52ee4313e.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212135_fc034aba-a854-430f-876d-21ebb985b149.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_fc034aba-a854-430f-876d-21ebb985b149.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_70aa5fd0-31eb-4ebc-bc72-be1bfe5975f0.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_1b68da1c-c77c-446c-9ada-3a097709e785.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_ada4f3cb-6eb6-480e-87b0-4f00f37435a0.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_28886376-8d57-499d-961c-7ae10b80a909.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_19bbd205-db88-42bc-8ae5-b1b197bb63df.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_e6c93a7e-e84f-42f9-a496-0f268a04fee2.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_25f3abd5-7589-47d7-ad12-08cbfd4db04c.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_76ef9022-7ad8-4097-b128-8ef5a379b81d.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212135_50a423b6-7ef4-4593-a4a3-b4d030f9403a.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_50a423b6-7ef4-4593-a4a3-b4d030f9403a.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_611fd8a6-85b8-4452-b5fc-3069dae66656.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_e6636f78-fc29-48e6-b150-d53dac0e10e9.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_7d717a97-e25b-4bda-b6c7-aa0ca4367808.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_cb4af191-40f7-457d-897e-e6fe7dd8d969.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_cffdd707-7623-41e2-ba53-8aecbed068f8.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_7b1a0365-a129-4bdf-b215-9c66cbc0a7e5.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212135_3d92446f-d9d8-419d-a19a-2d8fe7a37f5d.jpg?s=1024</url></image>
     <make>Tesla</make>
     <model>Model 3 Model 3 Standard Range</model>
     <year>2023</year>
@@ -3028,7 +3028,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>304900 NOK</price>
+    <price>299900</price>
     <mileage>
       <unit>KM</unit>
       <value>28980</value>
@@ -3038,44 +3038,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>LRW3E7FS4PC743752</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1211555</vehicle_id>
-    <title>2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD</title>
-    <description>Her får du toppmodellen First Edition med firehjulstrekk og den største batteripakken for maksimal rekkevidde på inntil 540 km. Bilen er profesjonelt Ditec- keramisk lakkbehandling for en dyp glans som gjør renholdet enkelt. Bilen er leveringsklar på dagen. Long Range AWD (4x4) 540km rekkevidde WLTP FordPass -forvarmingen fra mobilen Profesjonell keramisk lakkbehandling</description>
-    <url>https://www.rohneselmer.no/biler/lager/1211555/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_f9bd0594-c439-4aba-bb7f-bb2080079566.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211555_007f129c-ab6e-4cc0-baf5-a18e3f0e1ba1.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_007f129c-ab6e-4cc0-baf5-a18e3f0e1ba1.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_77d0959b-358c-41ab-bc3b-49d360a709c6.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_610b945f-ee8b-4a31-909a-b701fd11531b.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_a81ba10e-5c2d-4ee1-a249-9a9d768ae2e3.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_f2a52781-8e91-4dbb-8fe9-eb6b70254922.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_e3c24dbd-0f9f-4140-a200-cf2c741abe73.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_5fbd2ca6-35be-4695-9108-7dae60cd7a37.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_4eec3eef-c96a-4068-aa48-ad2f292fc817.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
-    <year>2021</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3511</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Hønefoss</dealer_name>
-    <price>304900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>98520</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <exterior_color>Rød</exterior_color>
-    <vin>WF0TK3SU1MMA12892</vin>
   </listing>
   <listing>
     <vehicle_id>1212177</vehicle_id>
@@ -3104,7 +3066,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>309000 NOK</price>
+    <price>309000</price>
     <mileage>
       <unit>KM</unit>
       <value>33700</value>
@@ -3114,6 +3076,44 @@
     <fuel_type>PLUGIN_HYBRID</fuel_type>
     <exterior_color>Svart</exterior_color>
     <vin>WF0FXXWPMHNU78096</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1211555</vehicle_id>
+    <title>2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD</title>
+    <description>Her får du toppmodellen First Edition med firehjulstrekk og den største batteripakken for maksimal rekkevidde på inntil 540 km. Bilen er profesjonelt Ditec- keramisk lakkbehandling for en dyp glans som gjør renholdet enkelt. Bilen er leveringsklar på dagen. Long Range AWD (4x4) 540km rekkevidde WLTP FordPass -forvarmingen fra mobilen Profesjonell keramisk lakkbehandling</description>
+    <url>https://www.rohneselmer.no/biler/lager/1211555/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd</url>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_cc0c466a-9482-4800-a83c-97586916c434.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211555_0d02fb6f-7b5f-4d31-97e4-11fa1294903b.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_0d02fb6f-7b5f-4d31-97e4-11fa1294903b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_5d6dcea1-d562-4adc-aa1f-429f632b1ce1.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_aa2000b2-6cca-4e01-8eff-e583366c30d0.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_cef3cc01-6c8f-440c-8081-cd9cbba44b93.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_688f0a5f-2ce8-4891-abf3-374cf705ae2f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_9cea58f9-5971-42b3-b061-32599e2c5c7b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_70442708-b184-4fd0-b4c7-e8c7a0023291.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211555_1cb2e18b-baa2-4777-be60-3275369b2628.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
+    <year>2021</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Gigstads vei 24</component>
+      <component name="city">Hønefoss</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3511</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Hønefoss</dealer_name>
+    <price>309900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>98520</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>ELECTRIC</fuel_type>
+    <exterior_color>Rød</exterior_color>
+    <vin>WF0TK3SU1MMA12892</vin>
   </listing>
   <listing>
     <vehicle_id>1212974</vehicle_id>
@@ -3142,7 +3142,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>314900 NOK</price>
+    <price>314900</price>
     <mileage>
       <unit>KM</unit>
       <value>87500</value>
@@ -3180,7 +3180,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>319000 NOK</price>
+    <price>319000</price>
     <mileage>
       <unit>KM</unit>
       <value>45450</value>
@@ -3218,7 +3218,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>319900 NOK</price>
+    <price>319900</price>
     <mileage>
       <unit>KM</unit>
       <value>41080</value>
@@ -3256,7 +3256,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>319900 NOK</price>
+    <price>319900</price>
     <mileage>
       <unit>KM</unit>
       <value>68020</value>
@@ -3294,7 +3294,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>319900 NOK</price>
+    <price>319900</price>
     <mileage>
       <unit>KM</unit>
       <value>27000</value>
@@ -3332,7 +3332,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>329900 NOK</price>
+    <price>329900</price>
     <mileage>
       <unit>KM</unit>
       <value>38550</value>
@@ -3342,6 +3342,44 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Grå</exterior_color>
     <vin>WF0TK1E77NMA39865</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1213170</vehicle_id>
+    <title>2023 Tesla Model 3 Model 3 Long Range AWD</title>
+    <description>2023 Tesla Model 3 Long Range AWD – Premium, firehjulstrekk og god rekkevidde APP STYRING MED MANGE FUNKSJONER!</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213170/1099/tesla-model-3-model-3-long-range-awd</url>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_276c7f82-a3e1-450e-aff8-ceff8d5cba62.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1188/stockvehicles/1213170_d7f99712-61e0-435f-b6dd-34489ebd8ec5.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_d7f99712-61e0-435f-b6dd-34489ebd8ec5.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_cd76f327-1bed-4f1e-af67-821b2ed4c5c7.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_dc72dbb0-2b9e-4c65-83d3-c395b5b72313.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_fca97327-9edf-4985-84e3-8357d2d33fa9.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_cc7dca73-cd0f-4509-8662-68e77a536dc8.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_6e0569fb-4922-497e-b47a-470f40de331b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_06b604e1-a3d6-4ea7-b7e6-66b368630c01.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213170_ea860911-d28d-4d1c-b2fb-7339b57532d9.jpg?s=1024</url></image>
+    <make>Tesla</make>
+    <model>Model 3 Model 3 Long Range AWD</model>
+    <year>2023</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Industrigaten 1</component>
+      <component name="city">Lierstranda</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3400</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Lierstranda</dealer_name>
+    <price>329900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>98700</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>OTHER</fuel_type>
+    <exterior_color>Hvit</exterior_color>
+    <vin>LRW3E7EK3PC760057</vin>
   </listing>
   <listing>
     <vehicle_id>1210031</vehicle_id>
@@ -3370,7 +3408,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>334567 NOK</price>
+    <price>334567</price>
     <mileage>
       <unit>KM</unit>
       <value>46000</value>
@@ -3407,7 +3445,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>338999 NOK</price>
+    <price>338999</price>
     <mileage>
       <unit>KM</unit>
       <value>28010</value>
@@ -3445,7 +3483,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>339900 NOK</price>
+    <price>339900</price>
     <mileage>
       <unit>KM</unit>
       <value>53880</value>
@@ -3455,44 +3493,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF0TK3SS6PMA13684</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1212320</vehicle_id>
-    <title>2025 Ford Puma Puma Gen-E</title>
-    <description>RøhneSelmer Asker og Bærum Stasjonsveien 20 1396 Asker og Bærum</description>
-    <url>https://www.rohneselmer.no/biler/lager/1212320/1099/ford-puma-puma-gen-e</url>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_4065f0aa-050b-46f4-b42f-ed2274e4fee5.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1100/stockvehicles/1212320_d0f40de1-186d-47b8-a5cd-d6a15d1b042b.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_d0f40de1-186d-47b8-a5cd-d6a15d1b042b.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_39f22d47-03e7-447f-bac2-b293f94dbb01.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_13ca6eca-a36a-43bb-ba00-4384dd63567d.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_8c1686b0-74ab-42b2-bffa-23b021c916fe.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_b3f5241a-4ad1-4f1f-b45f-7a89d82d2607.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_f13c4a74-17e6-4d12-b3c2-a6eb177ab57e.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_8a92fa4b-8840-416c-be94-001876264614.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_80fe215e-dbf0-4ff3-8493-1b9c8a084da1.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Puma Gen-E</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">1396</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Asker og Bærum</dealer_name>
-    <price>339900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>12060</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <exterior_color>Svart</exterior_color>
-    <vin>WF02XXERK1SU85045</vin>
   </listing>
   <listing>
     <vehicle_id>1212611</vehicle_id>
@@ -3521,7 +3521,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>339900 NOK</price>
+    <price>339900</price>
     <mileage>
       <unit>KM</unit>
       <value>42490</value>
@@ -3531,6 +3531,44 @@
     <fuel_type>OTHER</fuel_type>
     <exterior_color>Rød</exterior_color>
     <vin>WF0TK3SS0MMA32582</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1212320</vehicle_id>
+    <title>2025 Ford Puma Puma Gen-E</title>
+    <description>RøhneSelmer Asker og Bærum Stasjonsveien 20 1396 Asker og Bærum</description>
+    <url>https://www.rohneselmer.no/biler/lager/1212320/1099/ford-puma-puma-gen-e</url>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_4065f0aa-050b-46f4-b42f-ed2274e4fee5.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1100/stockvehicles/1212320_d0f40de1-186d-47b8-a5cd-d6a15d1b042b.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_d0f40de1-186d-47b8-a5cd-d6a15d1b042b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_39f22d47-03e7-447f-bac2-b293f94dbb01.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_13ca6eca-a36a-43bb-ba00-4384dd63567d.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_8c1686b0-74ab-42b2-bffa-23b021c916fe.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_b3f5241a-4ad1-4f1f-b45f-7a89d82d2607.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_f13c4a74-17e6-4d12-b3c2-a6eb177ab57e.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_8a92fa4b-8840-416c-be94-001876264614.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1212320_80fe215e-dbf0-4ff3-8493-1b9c8a084da1.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Puma Gen-E</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Stasjonsveien 20</component>
+      <component name="city">Asker og Bærum</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Asker og Bærum</dealer_name>
+    <price>339900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>12060</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>ELECTRIC</fuel_type>
+    <exterior_color>Svart</exterior_color>
+    <vin>WF02XXERK1SU85045</vin>
   </listing>
   <listing>
     <vehicle_id>1213140</vehicle_id>
@@ -3559,7 +3597,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>339900 NOK</price>
+    <price>339900</price>
     <mileage>
       <unit>KM</unit>
       <value>4580</value>
@@ -3569,6 +3607,44 @@
     <fuel_type>OTHER</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF02XXERK1SP37133</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1213161</vehicle_id>
+    <title>2020 Ford Ranger 2.0 EcoBlue 4x4</title>
+    <description>Ford Ranger Rap Cab Limited 2020 – 4x4 | Automat | Tøff arbeidsbil | Velutstyrt Solid og velholdt Ford Ranger Rap Cab Limited 2020 – en robust pickup med høy komfort, sterke kjøreegenskaper og god fremkommelighet. Ranger er kjent for sin driftssikkerhet og allsidighet, og passer perfekt både som arbeidsbil og fritidsbil. Limited-utgaven gir et mer eksklusivt preg med mye komfort- og sikkerhetsutstyr.</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213161/1099/ford-ranger-2-0-ecoblue-4x4</url>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_bb18deae-2b9f-4f2e-b08a-84ef14017cca.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1099/stockvehicles/1213161_79152f75-3cad-4057-9752-01c6d3c0cfff.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_79152f75-3cad-4057-9752-01c6d3c0cfff.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_760be717-722c-4c2a-b1ba-5e50befe8826.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_fa4c01d7-25c0-4675-9e93-c8e700fd830f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_fe8eee92-825b-467b-a30b-86695cb03fdb.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_03bd8e46-eec0-41f5-bfd1-8fb3d56d1e3e.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_e697af96-e7de-4d84-8f98-77b61d5c72e3.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_a59b8e7f-9d90-41fd-8b8c-c435b43ff80a.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213161_03c7bf80-d2f9-4c1c-96fe-9f89d1d15e20.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Ranger 2.0 EcoBlue 4x4</model>
+    <year>2020</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Strømsveien 183 Alnabru</component>
+      <component name="city">Oslo</component>
+      <component name="region">Oslo</component>
+      <component name="postal_code">0664</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Oslo</dealer_name>
+    <price>344900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>68000</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>DIESEL</fuel_type>
+    <exterior_color>Blå</exterior_color>
+    <vin>6FPGXXMJ2GLK12857</vin>
   </listing>
   <listing>
     <vehicle_id>1211587</vehicle_id>
@@ -3597,7 +3673,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>347750 NOK</price>
+    <price>347750</price>
     <mileage>
       <unit>KM</unit>
       <value>83500</value>
@@ -3607,44 +3683,6 @@
     <fuel_type>DIESEL</fuel_type>
     <exterior_color>Grå</exterior_color>
     <vin>WF0FXXWPMFLD11264</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1212759</vehicle_id>
-    <title>2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD</title>
-    <description>Denne bilen inngår i vår Vinterkampanje, og du kan velge et av følgende alternativer inkludert ved kjøp: Fri frakt gjelder sør for Bodø</description>
-    <url>https://www.rohneselmer.no/biler/lager/1212759/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd</url>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_016e7915-cc48-4f8f-82cb-d897fbcd5278.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1101/stockvehicles/1212759_d47e6bf7-fe98-4749-946a-cee23c654723.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_d47e6bf7-fe98-4749-946a-cee23c654723.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_b2bd8e7f-d0b4-4501-ac75-28ca20e147b9.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_344d053c-de7c-473f-bb14-4a9e71edfc4a.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_33443fc1-05f8-4a46-b073-b39efdf8f80e.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_db91890b-3a64-41ab-927e-3957baf005d7.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_2de798ae-274b-4fbe-9a21-86f4a9e2967d.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_0bd664da-5357-4815-a22d-d49b8f24307b.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_4bebe728-d400-4d22-b291-e0469fd6f7be.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
-    <year>2021</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Hurdalsgaten 23</component>
-      <component name="city">Lillestrøm</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">2003</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Lillestrøm</dealer_name>
-    <price>349000 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>60540</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <exterior_color>Grå</exterior_color>
-    <vin>WF0TK3SU4MMA05502</vin>
   </listing>
   <listing>
     <vehicle_id>1212176</vehicle_id>
@@ -3673,7 +3711,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>349000 NOK</price>
+    <price>349000</price>
     <mileage>
       <unit>KM</unit>
       <value>56950</value>
@@ -3685,20 +3723,58 @@
     <vin>WF0TK3SUXMMA15712</vin>
   </listing>
   <listing>
+    <vehicle_id>1212759</vehicle_id>
+    <title>2021 Ford Mustang Mach-E Mustang Mach-E Long Range AWD</title>
+    <description>Denne bilen inngår i vår Vinterkampanje, og du kan velge et av følgende alternativer inkludert ved kjøp: Fri frakt gjelder sør for Bodø</description>
+    <url>https://www.rohneselmer.no/biler/lager/1212759/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd</url>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_016e7915-cc48-4f8f-82cb-d897fbcd5278.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1101/stockvehicles/1212759_d47e6bf7-fe98-4749-946a-cee23c654723.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_d47e6bf7-fe98-4749-946a-cee23c654723.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_b2bd8e7f-d0b4-4501-ac75-28ca20e147b9.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_344d053c-de7c-473f-bb14-4a9e71edfc4a.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_33443fc1-05f8-4a46-b073-b39efdf8f80e.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_db91890b-3a64-41ab-927e-3957baf005d7.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_2de798ae-274b-4fbe-9a21-86f4a9e2967d.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_0bd664da-5357-4815-a22d-d49b8f24307b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1212759_4bebe728-d400-4d22-b291-e0469fd6f7be.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
+    <year>2021</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Hurdalsgaten 23</component>
+      <component name="city">Lillestrøm</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">2003</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Lillestrøm</dealer_name>
+    <price>349000</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>60540</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>ELECTRIC</fuel_type>
+    <exterior_color>Grå</exterior_color>
+    <vin>WF0TK3SU4MMA05502</vin>
+  </listing>
+  <listing>
     <vehicle_id>1213084</vehicle_id>
     <title>2021 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4</title>
     <description>Er du på utkikk etter en tøff pickup som er klar for nye utfordringer? Bilen har nettopp vært på oljeservice og står nå leveringsklar for sin nye eier. Bilen har nettopp ankommet, flere bilder kommer.</description>
     <url>https://www.rohneselmer.no/biler/lager/1213084/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_d68185d5-2958-44a2-99ea-539bc91174fb.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1213084_9f0e71b0-3ebe-40c7-8e94-58c1b1eb8ef7.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_9f0e71b0-3ebe-40c7-8e94-58c1b1eb8ef7.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_16d5f028-5a90-4c1e-a3dd-97529af8285f.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_383da7e2-58cf-4b1e-ae9f-72a60e1384d5.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_50bce2de-8f21-4522-9ea9-28a1064df557.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_a210dafd-e883-42be-875c-49fa8a463f3a.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_cc52a70a-b65d-4f16-ae42-7d9da0882a6c.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_9f0e71b0-3ebe-40c7-8e94-58c1b1eb8ef7.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_16d5f028-5a90-4c1e-a3dd-97529af8285f.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_af7730b5-5d84-499d-bff2-d1684e894f96.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1213084_7f00b318-1811-43b1-bd1d-a6ca5c5c3d4b.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_7f00b318-1811-43b1-bd1d-a6ca5c5c3d4b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_d2dd76e0-f15d-42a3-9fc9-b7f060cb4802.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_87352eea-e992-4c57-a966-be54c495af39.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_35f989c5-2c3e-4cb9-b2a2-4f9ad1e330f4.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_623bb3be-24e5-46f6-a402-f37d46fb06e9.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_2c20c724-81f0-41ab-b940-a83298e7d73f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_3af36e7a-779e-4f1f-82d4-030f600719b0.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213084_bb60adeb-6cc5-4d44-a397-bf53a3925d5c.jpg?s=1024</url></image>
     <make>Ford</make>
     <model>Ranger 2.0 EcoBlue Bi-Turbo 4x4</model>
     <year>2021</year>
@@ -3711,7 +3787,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>349900 NOK</price>
+    <price>349900</price>
     <mileage>
       <unit>KM</unit>
       <value>160610</value>
@@ -3749,7 +3825,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>354900 NOK</price>
+    <price>354900</price>
     <mileage>
       <unit>KM</unit>
       <value>162000</value>
@@ -3787,7 +3863,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>358900 NOK</price>
+    <price>358900</price>
     <mileage>
       <unit>KM</unit>
       <value>5950</value>
@@ -3825,7 +3901,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>359900 NOK</price>
+    <price>359900</price>
     <mileage>
       <unit>KM</unit>
       <value>127940</value>
@@ -3863,7 +3939,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>365000 NOK</price>
+    <price>365000</price>
     <mileage>
       <unit>KM</unit>
       <value>43470</value>
@@ -3901,7 +3977,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>368900 NOK</price>
+    <price>368900</price>
     <mileage>
       <unit>KM</unit>
       <value>41900</value>
@@ -3939,7 +4015,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>369900 NOK</price>
+    <price>369900</price>
     <mileage>
       <unit>KM</unit>
       <value>8180</value>
@@ -3977,7 +4053,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>369900 NOK</price>
+    <price>369900</price>
     <mileage>
       <unit>KM</unit>
       <value>4890</value>
@@ -4015,7 +4091,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>369900 NOK</price>
+    <price>369900</price>
     <mileage>
       <unit>KM</unit>
       <value>5000</value>
@@ -4053,7 +4129,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>369900 NOK</price>
+    <price>369900</price>
     <mileage>
       <unit>KM</unit>
       <value>3000</value>
@@ -4091,7 +4167,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>369900 NOK</price>
+    <price>369900</price>
     <mileage>
       <unit>KM</unit>
       <value>82000</value>
@@ -4105,7 +4181,7 @@
   <listing>
     <vehicle_id>1211650</vehicle_id>
     <title>2025 Ford Transit Courier E-Transit Courier</title>
-    <description>Her har du sjansen til å skaffe deg en elektrisk varebil som gjør arbeidsdagen både enklere og mer komfortabel. Bilen er skreddersydd for effektiv transport med en kjøreglede man sjelden finner i denne klassen. Hva er høydepunktene til akkurat denne bilen Hurtiglading (100 kW) fra 10–80 % på ca. 23 minutter FordPass App - starte forvarmingen, se status 3 år eller 45 000 km serviceavtale er inkludert i prisen Plass til to europaller og praktisk gjennomlastingsluke for gjenstander inntil 2,6 meter. SYNC 4 - trådløs Apple CarPlay og Android Auto</description>
+    <description>Her har du sjansen til å skaffe deg en elektrisk varebil som gjør arbeidsdagen både enklere og mer komfortabel. Bilen er skreddersydd for effektiv transport med en kjøreglede man sjelden finner i denne klassen. Hurtiglading (100 kW) fra 10–80 % på ca. 23 minutter FordPass App - starte forvarmingen, se status 3 år eller 45 000 km serviceavtale er inkludert i prisen Plass til to europaller og praktisk gjennomlastingsluke for gjenstander inntil 2,6 meter. SYNC 4 - trådløs Apple CarPlay og Android Auto</description>
     <url>https://www.rohneselmer.no/biler/lager/1211650/1099/ford-transit-courier-e-transit-courier</url>
     <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211650_13e6c01e-370b-4bac-ad6a-372e4ad15685.jpg?s=1024</url></image>
     <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211650_9c64b919-a6d3-4eff-ab35-55c272e3fdee.jpg</url></image>
@@ -4129,7 +4205,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>374900 NOK</price>
+    <price>374900</price>
     <mileage>
       <unit>KM</unit>
       <value>1810</value>
@@ -4143,18 +4219,18 @@
   <listing>
     <vehicle_id>1212491</vehicle_id>
     <title>2020 BMW 5 Series 530e xDrive iPerformance Sedan</title>
-    <description>BMW 5 Series 530e xDrive iPerformance Sedan</description>
+    <description>Her har vi fått inn et nydelig eksemplar i riktig fargekombinasjon og med ryddig servicehistorikk. Bilen kombinerer sportslig eleganse med moderne hybridteknologi og er leveringsklar på dagen.</description>
     <url>https://www.rohneselmer.no/biler/lager/1212491/1099/bmw-5-series-530e-xdrive-iperformance-sedan</url>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_52d3b95b-eccc-4c50-b169-aafeb7f7ae32.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212491_5f5fc95e-b731-4e12-83d8-b4cb60a96785.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_5f5fc95e-b731-4e12-83d8-b4cb60a96785.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_583466e8-17b4-4f1c-8624-b023ba3aae7c.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_7d6ba6bc-e301-4e58-aaa1-cff8a8b6c5b8.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_e57e06d7-5198-4701-89af-1d553bdd4791.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_f585b523-1800-46d1-9a4e-fab38e140338.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_f238ee49-3727-4e12-af15-53f6be49f984.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_4830358a-e789-47ff-9f28-2f3d002b6a74.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_47a451cb-03b6-4ac1-bf5f-d8f90dd7d9af.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_c1e0695b-6312-42ce-8ef2-aab033c0aabc.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212491_05aaa579-f0da-4680-8f22-cb863f771b05.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_05aaa579-f0da-4680-8f22-cb863f771b05.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_9e55233f-3267-4a5d-8b72-7a95e5c61f77.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_6b6aa239-91ab-4847-8bb3-c8a85370a3df.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_460d405f-6f5f-4543-9eb5-5e6de234fb8f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_105dd201-a00f-4c34-97ca-408a9cee77b7.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_9dd7ec82-7983-4a52-b2de-93a528d80abb.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_9ddde082-88c8-485c-9aea-fd7b22cffd8b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212491_833dbe99-90c4-48ba-a8e1-aaec61101d2d.jpg?s=1024</url></image>
     <make>BMW</make>
     <model>5 Series 530e xDrive iPerformance Sedan</model>
     <year>2020</year>
@@ -4167,7 +4243,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>374900 NOK</price>
+    <price>374900</price>
     <mileage>
       <unit>KM</unit>
       <value>59020</value>
@@ -4205,7 +4281,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>374900 NOK</price>
+    <price>374900</price>
     <mileage>
       <unit>KM</unit>
       <value>4300</value>
@@ -4243,7 +4319,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>379900 NOK</price>
+    <price>379900</price>
     <mileage>
       <unit>KM</unit>
       <value>24500</value>
@@ -4281,7 +4357,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>379900 NOK</price>
+    <price>379900</price>
     <mileage>
       <unit>KM</unit>
       <value>4270</value>
@@ -4319,7 +4395,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>387900 NOK</price>
+    <price>387900</price>
     <mileage>
       <unit>KM</unit>
       <value>80800</value>
@@ -4357,7 +4433,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>398800 NOK</price>
+    <price>398800</price>
     <mileage>
       <unit>KM</unit>
       <value>134110</value>
@@ -4395,7 +4471,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>398900 NOK</price>
+    <price>398900</price>
     <mileage>
       <unit>KM</unit>
       <value>15900</value>
@@ -4433,7 +4509,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>399000 NOK</price>
+    <price>399000</price>
     <mileage>
       <unit>KM</unit>
       <value>87890</value>
@@ -4471,7 +4547,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>399900 NOK</price>
+    <price>399900</price>
     <mileage>
       <unit>KM</unit>
       <value>64530</value>
@@ -4509,7 +4585,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>399900 NOK</price>
+    <price>399900</price>
     <mileage>
       <unit>KM</unit>
       <value>12750</value>
@@ -4547,7 +4623,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>399900 NOK</price>
+    <price>399900</price>
     <mileage>
       <unit>KM</unit>
       <value>46000</value>
@@ -4585,7 +4661,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>404900 NOK</price>
+    <price>404900</price>
     <mileage>
       <unit>KM</unit>
       <value>56390</value>
@@ -4623,7 +4699,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>409000 NOK</price>
+    <price>409000</price>
     <mileage>
       <unit>KM</unit>
       <value>8600</value>
@@ -4661,7 +4737,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>409900 NOK</price>
+    <price>409900</price>
     <mileage>
       <unit>KM</unit>
       <value>29700</value>
@@ -4699,7 +4775,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>409900 NOK</price>
+    <price>409900</price>
     <mileage>
       <unit>KM</unit>
       <value>34000</value>
@@ -4737,7 +4813,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>419900 NOK</price>
+    <price>419900</price>
     <mileage>
       <unit>KM</unit>
       <value>39900</value>
@@ -4775,7 +4851,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>424900 NOK</price>
+    <price>424900</price>
     <mileage>
       <unit>KM</unit>
       <value>61090</value>
@@ -4785,6 +4861,44 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Rød</exterior_color>
     <vin>WF0TK3SU8NMA47625</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1213162</vehicle_id>
+    <title>2021 Ford Ranger 2.0 EcoBlue Bi-Turbo 4x4</title>
+    <description>Ford Ranger Dobbelcab Wildtrak 2021 – 4x4 | Automat | Topp utstyr | Robust pickup Tøff og velutstyrt Ford Ranger Wildtrak Dobbelcab – en robust og komfortabel pickup som kombinerer kraft, fremkommelighet og høy komfort. Ranger er kjent for sin solide byggekvalitet og gode kjøreegenskaper både på vei og i terreng. Wildtrak-utgaven gir et ekstra sportslig og eksklusivt preg, med mye utstyr og moderne teknologi.</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213162/1099/ford-ranger-2-0-ecoblue-bi-turbo-4x4</url>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_41425ccd-1a41-40d8-827c-fbac0da2c82d.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1099/stockvehicles/1213162_7862e413-38ec-4d39-a3e7-c410ebb3faae.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_7862e413-38ec-4d39-a3e7-c410ebb3faae.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_847c5d27-b0dd-4194-86cb-0f5df91cd3de.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_d0f39be6-bee0-4300-9d4c-7dfe0d366099.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_2d1b81ac-5890-4e26-b60c-a951169ef75d.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_fe937d3f-9db1-4081-9534-6bd050f2f35c.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_b65d8b1f-3002-4248-b4eb-f0e097cd2a90.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_cc8a62a3-629d-48e4-bd1f-2d345fd9da05.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1213162_69b8d416-3179-4696-aba4-023c6aed4d52.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Ranger 2.0 EcoBlue Bi-Turbo 4x4</model>
+    <year>2021</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Strømsveien 183 Alnabru</component>
+      <component name="city">Oslo</component>
+      <component name="region">Oslo</component>
+      <component name="postal_code">0664</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Oslo</dealer_name>
+    <price>429000</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>72900</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>DIESEL</fuel_type>
+    <exterior_color>Grå</exterior_color>
+    <vin>6FPPXXMJ2PMP00735</vin>
   </listing>
   <listing>
     <vehicle_id>1210129</vehicle_id>
@@ -4813,7 +4927,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>434900 NOK</price>
+    <price>434900</price>
     <mileage>
       <unit>KM</unit>
       <value>139950</value>
@@ -4851,7 +4965,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>439900 NOK</price>
+    <price>439900</price>
     <mileage>
       <unit>KM</unit>
       <value>43650</value>
@@ -4889,7 +5003,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>439900 NOK</price>
+    <price>439900</price>
     <mileage>
       <unit>KM</unit>
       <value>7010</value>
@@ -4927,7 +5041,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>439900 NOK</price>
+    <price>439900</price>
     <mileage>
       <unit>KM</unit>
       <value>28150</value>
@@ -4965,7 +5079,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>439900 NOK</price>
+    <price>439900</price>
     <mileage>
       <unit>KM</unit>
       <value>146170</value>
@@ -4975,6 +5089,44 @@
     <fuel_type>DIESEL</fuel_type>
     <exterior_color>Blå</exterior_color>
     <vin>6FPPXXMJ2PKJ52860</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1213116</vehicle_id>
+    <title>2022 Ford Mustang Mach-E Mustang Mach-E GT</title>
+    <description>2022 Ford Mustang Mach-E GT i en utrolig lekker kombinasjon står klar for ny eier. Bilen byr på rikelig med utstyr og en stilren kontrast med sorte detaljer mot hvit metallic-lakk. Bilen leveres med 20" GT-felger på både sommer- og vinterhjul. Registrert desember 2022, så her er det godt med garanti igjen. Dette er bilen for deg med øye for detaljer. Må sees for riktig inntrykk! Nybilgaranti til: 19.12.2027 / 100000 km Batterigaranti til: 19.12.2030 / 160000 km EU-godkjent til: 21.12.2026 Høydepunkter - Adaptive LED på nær &amp; fjernlys inkludert auto dimming av fjernly - Apple Car Play / Android</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213116/1099/ford-mustang-mach-e-mustang-mach-e-gt</url>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_e8b9c642-ff0b-451f-96d0-a324894a33d9.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1100/stockvehicles/1213116_f6e1e022-4b76-4dc0-823c-5855c8b00f05.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_f6e1e022-4b76-4dc0-823c-5855c8b00f05.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_2a898572-962a-42dd-94c7-ede6157a7ca6.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_99c592f7-9204-44b7-8955-0451b1b12b63.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_dae66db0-883f-4e68-9068-290c8cb82533.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_5850696d-0668-4dba-82ea-795eb892bd6b.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_27524d3d-ade3-4f27-82f4-e8e5480fae6f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_f6e1e022-4b76-4dc0-823c-5855c8b00f05.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_2a898572-962a-42dd-94c7-ede6157a7ca6.jpg?s=400</url></image>
+    <make>Ford</make>
+    <model>Mustang Mach-E Mustang Mach-E GT</model>
+    <year>2022</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Stasjonsveien 20</component>
+      <component name="city">Asker og Bærum</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">1396</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Asker og Bærum</dealer_name>
+    <price>449900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>54830</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>OTHER</fuel_type>
+    <exterior_color>Hvit</exterior_color>
+    <vin>WF0TK4SX5NMA46884</vin>
   </listing>
   <listing>
     <vehicle_id>1212932</vehicle_id>
@@ -5003,7 +5155,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>449900 NOK</price>
+    <price>449900</price>
     <mileage>
       <unit>KM</unit>
       <value>36480</value>
@@ -5013,44 +5165,6 @@
     <fuel_type>OTHER</fuel_type>
     <exterior_color>Rød</exterior_color>
     <vin>WF0TK3SU4PMA29268</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1212953</vehicle_id>
-    <title>2023 Ford Mustang Mach-E Mustang Mach-E Long Range AWD</title>
-    <description>2023 Ford Mustang Mach-E Long Range AWD Premium – Pano, hengerfeste og firehjulstrekk</description>
-    <url>https://www.rohneselmer.no/biler/lager/1212953/1099/ford-mustang-mach-e-mustang-mach-e-long-range-awd</url>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_52e9858e-d696-4059-8565-37e006c58444.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1188/stockvehicles/1212953_69aed689-2c35-4b44-985a-b4000f422bbf.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_69aed689-2c35-4b44-985a-b4000f422bbf.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_6aa01e34-e290-4eeb-b6b8-b193db935523.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_8457accb-5d0b-4dd0-86fa-d81f9eddf328.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_9cabb541-21ec-447c-b868-8d3e7742c8f2.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_13568f96-e1ef-46a3-907b-0a3913fc0525.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_971d08f4-25ef-472a-8f22-558aec65105e.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_c6414b46-8ba8-4150-b7ac-712d55674a11.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1212953_9072a13a-4641-4206-aaa1-21da5ae2ac23.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Mustang Mach-E Mustang Mach-E Long Range AWD</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Industrigaten 1</component>
-      <component name="city">Lierstranda</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3400</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Lierstranda</dealer_name>
-    <price>449900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>48700</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>OTHER</fuel_type>
-    <exterior_color>Grå</exterior_color>
-    <vin>WF0TK3SU9PMA08836</vin>
   </listing>
   <listing>
     <vehicle_id>1212467</vehicle_id>
@@ -5079,7 +5193,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>449900 NOK</price>
+    <price>449900</price>
     <mileage>
       <unit>KM</unit>
       <value>4300</value>
@@ -5117,7 +5231,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>449900 NOK</price>
+    <price>449900</price>
     <mileage>
       <unit>KM</unit>
       <value>8000</value>
@@ -5127,44 +5241,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF0RXXTA3BRY80641</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1213116</vehicle_id>
-    <title>2022 Ford Mustang Mach-E Mustang Mach-E GT</title>
-    <description>2022 Ford Mustang Mach-E GT i en utrolig lekker kombinasjon står klar for ny eier. Bilen byr på rikelig med utstyr og en stilren kontrast med sorte detaljer mot hvit metallic-lakk. Bilen leveres med 20" GT-felger på både sommer- og vinterhjul. Registrert desember 2022, så her er det godt med garanti igjen. Dette er bilen for deg med øye for detaljer. Må sees for riktig inntrykk! Nybilgaranti til: 19.12.2027 / 100000 km Batterigaranti til: 19.12.2030 / 160000 km EU-godkjent til: 21.12.2026 Høydepunkter - Adaptive LED på nær &amp; fjernlys inkludert auto dimming av fjernly - Apple Car Play / Android</description>
-    <url>https://www.rohneselmer.no/biler/lager/1213116/1099/ford-mustang-mach-e-mustang-mach-e-gt</url>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_e8b9c642-ff0b-451f-96d0-a324894a33d9.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1100/stockvehicles/1213116_f6e1e022-4b76-4dc0-823c-5855c8b00f05.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_f6e1e022-4b76-4dc0-823c-5855c8b00f05.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_2a898572-962a-42dd-94c7-ede6157a7ca6.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_99c592f7-9204-44b7-8955-0451b1b12b63.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_dae66db0-883f-4e68-9068-290c8cb82533.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_5850696d-0668-4dba-82ea-795eb892bd6b.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_27524d3d-ade3-4f27-82f4-e8e5480fae6f.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_f6e1e022-4b76-4dc0-823c-5855c8b00f05.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1213116_2a898572-962a-42dd-94c7-ede6157a7ca6.jpg?s=400</url></image>
-    <make>Ford</make>
-    <model>Mustang Mach-E Mustang Mach-E GT</model>
-    <year>2022</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Stasjonsveien 20</component>
-      <component name="city">Asker og Bærum</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">1396</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Asker og Bærum</dealer_name>
-    <price>449900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>54830</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>OTHER</fuel_type>
-    <exterior_color>Hvit</exterior_color>
-    <vin>WF0TK4SX5NMA46884</vin>
   </listing>
   <listing>
     <vehicle_id>1211583</vehicle_id>
@@ -5193,7 +5269,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>459000 NOK</price>
+    <price>459000</price>
     <mileage>
       <unit>KM</unit>
       <value>116230</value>
@@ -5231,7 +5307,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>459900 NOK</price>
+    <price>459900</price>
     <mileage>
       <unit>KM</unit>
       <value>70370</value>
@@ -5269,7 +5345,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>469000 NOK</price>
+    <price>469000</price>
     <mileage>
       <unit>KM</unit>
       <value>5900</value>
@@ -5307,7 +5383,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>469900 NOK</price>
+    <price>469900</price>
     <mileage>
       <unit>KM</unit>
       <value>33000</value>
@@ -5345,7 +5421,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>469900 NOK</price>
+    <price>469900</price>
     <mileage>
       <unit>KM</unit>
       <value>20000</value>
@@ -5383,7 +5459,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>475000 NOK</price>
+    <price>475000</price>
     <mileage>
       <unit>KM</unit>
       <value>42280</value>
@@ -5421,7 +5497,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>479900 NOK</price>
+    <price>479900</price>
     <mileage>
       <unit>KM</unit>
       <value>10000</value>
@@ -5459,7 +5535,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>479900 NOK</price>
+    <price>479900</price>
     <mileage>
       <unit>KM</unit>
       <value>26900</value>
@@ -5497,7 +5573,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>488900 NOK</price>
+    <price>488900</price>
     <mileage>
       <unit>KM</unit>
       <value>13760</value>
@@ -5535,7 +5611,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>489900 NOK</price>
+    <price>489900</price>
     <mileage>
       <unit>KM</unit>
       <value>12500</value>
@@ -5573,7 +5649,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>489900 NOK</price>
+    <price>489900</price>
     <mileage>
       <unit>KM</unit>
       <value>32000</value>
@@ -5585,9 +5661,47 @@
     <vin>WF0RPCEF2RRL09783</vin>
   </listing>
   <listing>
+    <vehicle_id>1213142</vehicle_id>
+    <title>2025 Ford Explorer EV Explorer EV Extended Range AWD</title>
+    <description>Bilen har nettopp ankommet, flere bilder kommer Her har vi gleden av å presentere den helt nye, elektriske Ford Explorer i topputgaven Premium. Denne bilen er leveringsklar på dagen. Extended Range batteri</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213142/1099/ford-explorer-ev-explorer-ev-extended-range-awd</url>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1210129_502fecd1-5c0f-4fa3-afe6-56f095d667a4.jpg?s=400</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1213142_0fa96d9f-2f88-4425-b404-c1d945b85bab.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213142_0fa96d9f-2f88-4425-b404-c1d945b85bab.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213142_0fa96d9f-2f88-4425-b404-c1d945b85bab.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210094_758a1028-6fd3-400f-9642-88dc7006fe25.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210029_c7628d73-0258-4ca6-a4f6-b23c854f61ce.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210084_9976672d-d95c-4da7-a920-586f782b8862.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210100_60650bc7-9337-44d7-af0e-9a53dd90c12d.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210095_a9f2c29a-b47a-4ffd-8444-6fdea3053e4c.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_267_main.jpg?s=800</url></image>
+    <make>Ford</make>
+    <model>Explorer EV Explorer EV Extended Range AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Gigstads vei 24</component>
+      <component name="city">Hønefoss</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3511</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Hønefoss</dealer_name>
+    <price>489900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>25430</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>OTHER</fuel_type>
+    <exterior_color>Blå</exterior_color>
+    <vin>WF0RPCEF7RRD02007</vin>
+  </listing>
+  <listing>
     <vehicle_id>1212613</vehicle_id>
     <title>2024 Ford Transit Custom E-Transit Custom 320</title>
-    <description>Her har vi gleden av å presentere Ford E-Transit Custom i lang utgave med et svært høyt utstyrsnivå. Denne er klar for rask levering– ring oss gjerne for en hyggelig bilprat! Hva er høydepunktene til akkurat denne bilen? Elektrisk tilhengerfeste godkjent for 2 300 kg L2 Lang utgave - lasterom mål : lengde 3,00m, bredde 1,77m, bredde mellom hjulkasser 1,39m</description>
+    <description>Her har vi gleden av å presentere Ford E-Transit Custom i lang utgave med et svært høyt utstyrsnivå. Denne er klar for rask levering– ring oss gjerne for en hyggelig bilprat! Elektrisk tilhengerfeste godkjent for 2 300 kg L2 Lang utgave - lasterom mål : lengde 3,00m, bredde 1,77m, bredde mellom hjulkasser 1,39m</description>
     <url>https://www.rohneselmer.no/biler/lager/1212613/1099/ford-transit-custom-e-transit-custom-320</url>
     <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1212613_840fc3a8-20df-4f3d-a96c-63e2570c916a.jpg?s=1024</url></image>
     <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1212613_9aa62e62-26a9-482a-9bad-137486f00979.jpg</url></image>
@@ -5611,7 +5725,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>494900 NOK</price>
+    <price>494900</price>
     <mileage>
       <unit>KM</unit>
       <value>8930</value>
@@ -5649,7 +5763,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>498900 NOK</price>
+    <price>498900</price>
     <mileage>
       <unit>KM</unit>
       <value>15100</value>
@@ -5686,7 +5800,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>499000 NOK</price>
+    <price>499000</price>
     <mileage>
       <unit>KM</unit>
       <value>20000</value>
@@ -5724,7 +5838,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>499900 NOK</price>
+    <price>499900</price>
     <mileage>
       <unit>KM</unit>
       <value>11840</value>
@@ -5734,44 +5848,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Blå</exterior_color>
     <vin>WF0RPCEF8SRY26382</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1213142</vehicle_id>
-    <title>2025 Ford Explorer EV Explorer EV Extended Range AWD</title>
-    <description>Bilen har nettopp ankommet, flere bilder kommer Her har vi gleden av å presentere den helt nye, elektriske Ford Explorer i topputgaven Premium. Denne bilen er leveringsklar på dagen. Extended Range batteri</description>
-    <url>https://www.rohneselmer.no/biler/lager/1213142/1099/ford-explorer-ev-explorer-ev-extended-range-awd</url>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210094_758a1028-6fd3-400f-9642-88dc7006fe25.jpg?s=400</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1213142_0fa96d9f-2f88-4425-b404-c1d945b85bab.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213142_0fa96d9f-2f88-4425-b404-c1d945b85bab.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213142_0fa96d9f-2f88-4425-b404-c1d945b85bab.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210029_c7628d73-0258-4ca6-a4f6-b23c854f61ce.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210084_9976672d-d95c-4da7-a920-586f782b8862.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210100_60650bc7-9337-44d7-af0e-9a53dd90c12d.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210095_a9f2c29a-b47a-4ffd-8444-6fdea3053e4c.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_2f3ecd7c-e1d4-4ec8-9899-0bf08531e861.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_267_main.jpg?s=800</url></image>
-    <make>Ford</make>
-    <model>Explorer EV Explorer EV Extended Range AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3511</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Hønefoss</dealer_name>
-    <price>499900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>25430</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>OTHER</fuel_type>
-    <exterior_color>Blå</exterior_color>
-    <vin>WF0RPCEF7RRD02007</vin>
   </listing>
   <listing>
     <vehicle_id>1211280</vehicle_id>
@@ -5800,7 +5876,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>509007 NOK</price>
+    <price>509007</price>
     <mileage>
       <unit>KM</unit>
       <value>20610</value>
@@ -5810,6 +5886,44 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Grå</exterior_color>
     <vin>KNAC581EPR5180570</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1213143</vehicle_id>
+    <title>2025 Ford Explorer EV Explorer EV Extended Range AWD</title>
+    <description>Bilen har nettopp ankommet, flere bilder kommer Her har vi gleden av å presentere den helt nye, elektriske Ford Explorer i topputgaven Premium. Denne bilen er leveringsklar på dagen. Extended Range batteri</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213143/1099/ford-explorer-ev-explorer-ev-extended-range-awd</url>
+    <image><url>https://live.dealer-asset.co/images/no1100/stockvehicles/1210129_502fecd1-5c0f-4fa3-afe6-56f095d667a4.jpg?s=400</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1213143_191c2493-2ec0-459b-a126-eaf14d9a9a4f.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213143_191c2493-2ec0-459b-a126-eaf14d9a9a4f.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213143_191c2493-2ec0-459b-a126-eaf14d9a9a4f.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210094_758a1028-6fd3-400f-9642-88dc7006fe25.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210029_c7628d73-0258-4ca6-a4f6-b23c854f61ce.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210084_9976672d-d95c-4da7-a920-586f782b8862.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210100_60650bc7-9337-44d7-af0e-9a53dd90c12d.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210095_a9f2c29a-b47a-4ffd-8444-6fdea3053e4c.jpg?s=400</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_267_main.jpg?s=800</url></image>
+    <make>Ford</make>
+    <model>Explorer EV Explorer EV Extended Range AWD</model>
+    <year>2025</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Gigstads vei 24</component>
+      <component name="city">Hønefoss</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3511</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Hønefoss</dealer_name>
+    <price>509900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>10960</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>OTHER</fuel_type>
+    <exterior_color>Blå</exterior_color>
+    <vin>WF0RPCEF7RRG84846</vin>
   </listing>
   <listing>
     <vehicle_id>1211502</vehicle_id>
@@ -5838,7 +5952,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>509900 NOK</price>
+    <price>509900</price>
     <mileage>
       <unit>KM</unit>
       <value>12850</value>
@@ -5876,7 +5990,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>509900 NOK</price>
+    <price>509900</price>
     <mileage>
       <unit>KM</unit>
       <value>13370</value>
@@ -5914,7 +6028,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>509900 NOK</price>
+    <price>509900</price>
     <mileage>
       <unit>KM</unit>
       <value>29500</value>
@@ -5952,7 +6066,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>519000 NOK</price>
+    <price>519000</price>
     <mileage>
       <unit>KM</unit>
       <value>15000</value>
@@ -5990,7 +6104,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>519900 NOK</price>
+    <price>519900</price>
     <mileage>
       <unit>KM</unit>
       <value>28900</value>
@@ -6028,7 +6142,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>519900 NOK</price>
+    <price>519900</price>
     <mileage>
       <unit>KM</unit>
       <value>19050</value>
@@ -6038,44 +6152,6 @@
     <fuel_type>DIESEL</fuel_type>
     <exterior_color>Hvit</exterior_color>
     <vin>WF0EXXTTREPY79945</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1213143</vehicle_id>
-    <title>2025 Ford Explorer EV Explorer EV Extended Range AWD</title>
-    <description>Bilen har nettopp ankommet, flere bilder kommer Her har vi gleden av å presentere den helt nye, elektriske Ford Explorer i topputgaven Premium. Denne bilen er leveringsklar på dagen. Extended Range batteri</description>
-    <url>https://www.rohneselmer.no/biler/lager/1213143/1099/ford-explorer-ev-explorer-ev-extended-range-awd</url>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210094_758a1028-6fd3-400f-9642-88dc7006fe25.jpg?s=400</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1213143_191c2493-2ec0-459b-a126-eaf14d9a9a4f.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213143_191c2493-2ec0-459b-a126-eaf14d9a9a4f.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1213143_191c2493-2ec0-459b-a126-eaf14d9a9a4f.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210029_c7628d73-0258-4ca6-a4f6-b23c854f61ce.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1101/stockvehicles/1210084_9976672d-d95c-4da7-a920-586f782b8862.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210100_60650bc7-9337-44d7-af0e-9a53dd90c12d.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210095_a9f2c29a-b47a-4ffd-8444-6fdea3053e4c.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_2f3ecd7c-e1d4-4ec8-9899-0bf08531e861.jpg?s=400</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_267_main.jpg?s=800</url></image>
-    <make>Ford</make>
-    <model>Explorer EV Explorer EV Extended Range AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Gigstads vei 24</component>
-      <component name="city">Hønefoss</component>
-      <component name="region">Viken</component>
-      <component name="postal_code">3511</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Hønefoss</dealer_name>
-    <price>519900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>10960</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>OTHER</fuel_type>
-    <exterior_color>Blå</exterior_color>
-    <vin>WF0RPCEF7RRG84846</vin>
   </listing>
   <listing>
     <vehicle_id>1210029</vehicle_id>
@@ -6104,7 +6180,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>525000 NOK</price>
+    <price>525000</price>
     <mileage>
       <unit>KM</unit>
       <value>72550</value>
@@ -6142,7 +6218,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>529000 NOK</price>
+    <price>529000</price>
     <mileage>
       <unit>KM</unit>
       <value>1250</value>
@@ -6180,7 +6256,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>529000 NOK</price>
+    <price>529000</price>
     <mileage>
       <unit>KM</unit>
       <value>21000</value>
@@ -6217,7 +6293,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>529900 NOK</price>
+    <price>529900</price>
     <mileage>
       <unit>KM</unit>
       <value>1030</value>
@@ -6255,7 +6331,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>535000 NOK</price>
+    <price>535000</price>
     <mileage>
       <unit>KM</unit>
       <value>125840</value>
@@ -6293,7 +6369,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>539000 NOK</price>
+    <price>539000</price>
     <mileage>
       <unit>KM</unit>
       <value>8900</value>
@@ -6331,7 +6407,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>539000 NOK</price>
+    <price>539000</price>
     <mileage>
       <unit>KM</unit>
       <value>150</value>
@@ -6369,7 +6445,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>539900 NOK</price>
+    <price>539900</price>
     <mileage>
       <unit>KM</unit>
       <value>104500</value>
@@ -6407,7 +6483,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>545000 NOK</price>
+    <price>545000</price>
     <mileage>
       <unit>KM</unit>
       <value>2500</value>
@@ -6445,7 +6521,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>549900 NOK</price>
+    <price>549900</price>
     <mileage>
       <unit>KM</unit>
       <value>93310</value>
@@ -6483,7 +6559,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>549900 NOK</price>
+    <price>549900</price>
     <mileage>
       <unit>KM</unit>
       <value>1260</value>
@@ -6521,7 +6597,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>559900 NOK</price>
+    <price>559900</price>
     <mileage>
       <unit>KM</unit>
       <value>1200</value>
@@ -6559,7 +6635,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>559900 NOK</price>
+    <price>559900</price>
     <mileage>
       <unit>KM</unit>
       <value>33900</value>
@@ -6597,7 +6673,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>579900 NOK</price>
+    <price>579900</price>
     <mileage>
       <unit>KM</unit>
       <value>107000</value>
@@ -6635,7 +6711,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>579900 NOK</price>
+    <price>579900</price>
     <mileage>
       <unit>KM</unit>
       <value>4420</value>
@@ -6644,43 +6720,6 @@
     <transmission>AUTOMATIC</transmission>
     <fuel_type>ELECTRIC</fuel_type>
     <vin>WF0SPCEF3SSP57417</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1210096</vehicle_id>
-    <title>2025 Ford Capri EV Capri EV Extended Range AWD</title>
-    <description>Ford Capri EV Capri EV Extended Range AWD</description>
-    <url>https://www.rohneselmer.no/biler/lager/1210096/1099/ford-capri-ev-capri-ev-extended-range-awd</url>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_a6b5222c-60e6-46ac-84d1-a7a749dfec2e.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1099/stockvehicles/1210096_2f3ecd7c-e1d4-4ec8-9899-0bf08531e861.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_2f3ecd7c-e1d4-4ec8-9899-0bf08531e861.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_341f7dfe-7d19-4ec7-82b4-2b1152cee48e.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_f8c3f751-be5f-41b6-b819-ee7cc4e9ff9f.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_ca89fe05-8aa1-483a-ad71-aec31cec6312.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_5fec60c7-3d29-4cfc-9133-cb123fd5611b.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_8ae7ff62-8465-4816-b888-868b7d53128e.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_56f4adc5-972e-4405-aa59-bb352bf26b6c.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210096_e4b7224c-7a8b-4937-a78e-1d2b6f33a445.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Capri EV Capri EV Extended Range AWD</model>
-    <year>2025</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo</component>
-      <component name="region">Oslo</component>
-      <component name="postal_code">0664</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Oslo</dealer_name>
-    <price>579900 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>3870</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <vin>WF0SPCEF2SRS37474</vin>
   </listing>
   <listing>
     <vehicle_id>1211062</vehicle_id>
@@ -6709,7 +6748,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>579900 NOK</price>
+    <price>579900</price>
     <mileage>
       <unit>KM</unit>
       <value>7900</value>
@@ -6747,7 +6786,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>579900 NOK</price>
+    <price>579900</price>
     <mileage>
       <unit>KM</unit>
       <value>8450</value>
@@ -6785,7 +6824,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>609900 NOK</price>
+    <price>609900</price>
     <mileage>
       <unit>KM</unit>
       <value>48340</value>
@@ -6823,7 +6862,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>609900 NOK</price>
+    <price>609900</price>
     <mileage>
       <unit>KM</unit>
       <value>5300</value>
@@ -6861,7 +6900,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>619900 NOK</price>
+    <price>619900</price>
     <mileage>
       <unit>KM</unit>
       <value>27260</value>
@@ -6899,7 +6938,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>629900 NOK</price>
+    <price>629900</price>
     <mileage>
       <unit>KM</unit>
       <value>37260</value>
@@ -6937,7 +6976,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>639900 NOK</price>
+    <price>639900</price>
     <mileage>
       <unit>KM</unit>
       <value>77930</value>
@@ -6960,9 +6999,9 @@
     <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_267_main.jpg?s=800</url></image>
     <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_266_main.jpg?s=800</url></image>
     <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_265_main.jpg?s=800</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/promotions/4_123_main.jpg?s=800</url></image>
     <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_255_main.jpg?s=800</url></image>
     <image><url>https://live.dealer-asset.co/images/no1099/promotions/2_261_main.jpg?s=800</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1099/promotions/7_164_main.jpg?s=800</url></image>
     <make>Porsche</make>
     <model>Taycan 4 Cross Turismo</model>
     <year>2022</year>
@@ -6975,7 +7014,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>639900 NOK</price>
+    <price>639900</price>
     <mileage>
       <unit>KM</unit>
       <value>55900</value>
@@ -7013,7 +7052,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>644900 NOK</price>
+    <price>644900</price>
     <mileage>
       <unit>KM</unit>
       <value>46700</value>
@@ -7051,7 +7090,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>649900 NOK</price>
+    <price>649900</price>
     <mileage>
       <unit>KM</unit>
       <value>10170</value>
@@ -7089,7 +7128,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>649900 NOK</price>
+    <price>649900</price>
     <mileage>
       <unit>KM</unit>
       <value>34510</value>
@@ -7127,7 +7166,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>649900 NOK</price>
+    <price>649900</price>
     <mileage>
       <unit>KM</unit>
       <value>115000</value>
@@ -7165,7 +7204,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>654900 NOK</price>
+    <price>654900</price>
     <mileage>
       <unit>KM</unit>
       <value>55400</value>
@@ -7203,7 +7242,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>659900 NOK</price>
+    <price>659900</price>
     <mileage>
       <unit>KM</unit>
       <value>52100</value>
@@ -7241,7 +7280,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>674900 NOK</price>
+    <price>674900</price>
     <mileage>
       <unit>KM</unit>
       <value>34000</value>
@@ -7279,7 +7318,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lillestrøm</dealer_name>
-    <price>678000 NOK</price>
+    <price>678000</price>
     <mileage>
       <unit>KM</unit>
       <value>41310</value>
@@ -7317,7 +7356,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>679900 NOK</price>
+    <price>679900</price>
     <mileage>
       <unit>KM</unit>
       <value>13000</value>
@@ -7355,7 +7394,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>684900 NOK</price>
+    <price>684900</price>
     <mileage>
       <unit>KM</unit>
       <value>1640</value>
@@ -7393,7 +7432,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>689900 NOK</price>
+    <price>689900</price>
     <mileage>
       <unit>KM</unit>
       <value>117000</value>
@@ -7431,7 +7470,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>689900 NOK</price>
+    <price>689900</price>
     <mileage>
       <unit>KM</unit>
       <value>6500</value>
@@ -7445,7 +7484,7 @@
   <listing>
     <vehicle_id>1211557</vehicle_id>
     <title>2024 Ford Ranger 3.0 V6 EcoBlue e-4WD</title>
-    <description>Ford Ranger 3.0 V6 EcoBlue e-4WD</description>
+    <description>Her har vi fått inn et råskinn av en pickup med den ettertraktede V6-motoren og en massiv utstyrsliste. Bilen kombinerer kraft med luksuriøs personbilkomfort og er leveringsklar på dagen. Perfekt alternativ til VW Amarok</description>
     <url>https://www.rohneselmer.no/biler/lager/1211557/1099/ford-ranger-3-0-v6-ecoblue-e-4wd</url>
     <image><url>https://live.dealer-asset.co/images/no1184/stockvehicles/1211557_c2aafbb5-47cd-459c-8f91-68c76619c8a2.jpg?s=1024</url></image>
     <image><url>https://weudealerimagesprd.blob.core.windows.net/no1184/stockvehicles/1211557_b34aaa9f-f3e3-4f67-a18a-7bf07da62f2d.jpg</url></image>
@@ -7469,7 +7508,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>699900 NOK</price>
+    <price>699900</price>
     <mileage>
       <unit>KM</unit>
       <value>27890</value>
@@ -7507,7 +7546,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>719900 NOK</price>
+    <price>719900</price>
     <mileage>
       <unit>KM</unit>
       <value>75000</value>
@@ -7517,6 +7556,44 @@
     <fuel_type>PLUGIN_HYBRID</fuel_type>
     <exterior_color>Blå</exterior_color>
     <vin>WF02K8GY1NNA04758</vin>
+  </listing>
+  <listing>
+    <vehicle_id>1213171</vehicle_id>
+    <title>2021 Ford Explorer Explorer Plug-In Hybrid</title>
+    <description>2021 Ford Explorer PHEV ST-Line 7-seter – Topp utstyrt SUV med hengerfeste VELKOMMEN TIL NORGES STØRSTE FORD-FORHANDLER! ALT PÅ ETT STED! 70 ÅRS ERFARING!</description>
+    <url>https://www.rohneselmer.no/biler/lager/1213171/1099/ford-explorer-explorer-plug-in-hybrid</url>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_2752fc46-310b-4916-b684-4c8d5c2fb64f.jpg?s=1024</url></image>
+    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1188/stockvehicles/1213171_b875509b-b9b3-4f75-b667-4f76fc3e6771.jpg</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_b875509b-b9b3-4f75-b667-4f76fc3e6771.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_c8ab27d4-b078-42d3-b21b-c5fa1c3a26e1.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_fe0e80b6-9629-499a-a2f8-2c613f6829e2.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_dd516b0a-e773-45dc-bf0d-b8a8f0de1d99.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_2c244851-825b-498c-9961-2162ca577a78.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_741c0cf6-b398-4547-bb26-7dd31020a59c.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_a435a46e-4302-4f35-bad8-b33d3c455e77.jpg?s=1024</url></image>
+    <image><url>https://live.dealer-asset.co/images/no1188/stockvehicles/1213171_8ee644d8-8ffb-41e6-8343-9fd17e8389a4.jpg?s=1024</url></image>
+    <make>Ford</make>
+    <model>Explorer Plug-In Hybrid</model>
+    <year>2021</year>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <address format="simple">
+      <component name="addr1">Industrigaten 1</component>
+      <component name="city">Lierstranda</component>
+      <component name="region">Viken</component>
+      <component name="postal_code">3400</component>
+      <component name="country">Norway</component>
+    </address>
+    <dealer_name>Lierstranda</dealer_name>
+    <price>719900</price>
+    <mileage>
+      <unit>KM</unit>
+      <value>45000</value>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <transmission>AUTOMATIC</transmission>
+    <fuel_type>PLUGIN_HYBRID</fuel_type>
+    <exterior_color>Svart</exterior_color>
+    <vin>WF02K8GY9MNA05221</vin>
   </listing>
   <listing>
     <vehicle_id>1211345</vehicle_id>
@@ -7545,7 +7622,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>759900 NOK</price>
+    <price>759900</price>
     <mileage>
       <unit>KM</unit>
       <value>19900</value>
@@ -7583,7 +7660,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>769900 NOK</price>
+    <price>769900</price>
     <mileage>
       <unit>KM</unit>
       <value>67000</value>
@@ -7621,7 +7698,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>779900 NOK</price>
+    <price>779900</price>
     <mileage>
       <unit>KM</unit>
       <value>12470</value>
@@ -7659,7 +7736,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Hønefoss</dealer_name>
-    <price>799900 NOK</price>
+    <price>799900</price>
     <mileage>
       <unit>KM</unit>
       <value>11900</value>
@@ -7697,7 +7774,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>799900 NOK</price>
+    <price>799900</price>
     <mileage>
       <unit>KM</unit>
       <value>44500</value>
@@ -7735,7 +7812,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>819900 NOK</price>
+    <price>819900</price>
     <mileage>
       <unit>KM</unit>
       <value>32200</value>
@@ -7773,7 +7850,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>819900 NOK</price>
+    <price>819900</price>
     <mileage>
       <unit>KM</unit>
       <value>36650</value>
@@ -7811,7 +7888,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Oslo</dealer_name>
-    <price>839900 NOK</price>
+    <price>839900</price>
     <mileage>
       <unit>KM</unit>
       <value>32500</value>
@@ -7821,44 +7898,6 @@
     <fuel_type>ELECTRIC</fuel_type>
     <exterior_color>Blå</exterior_color>
     <vin>1FTVW1EL3PWG30731</vin>
-  </listing>
-  <listing>
-    <vehicle_id>1210101</vehicle_id>
-    <title>2023 Ford Transit E-Transit 425</title>
-    <description>Ford Transit E-Transit 425</description>
-    <url>https://www.rohneselmer.no/biler/lager/1210101/1099/ford-transit-e-transit-425</url>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_f0efc130-cbda-48e7-8a3c-e095d5ebdfaf.jpg?s=1024</url></image>
-    <image><url>https://weudealerimagesprd.blob.core.windows.net/no1099/stockvehicles/1210101_8e207986-860f-4261-b93c-b11a42353094.jpg</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_8e207986-860f-4261-b93c-b11a42353094.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_01f86340-edee-4ee3-838e-d93c25cad7c3.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_ebea5a65-18e1-4d50-85f1-eaf2adbca3ff.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_1742a48e-c8ac-402e-9cd6-6dc7c579b254.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_d0145827-86b2-4a46-a4e9-297481738025.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_534f214b-8712-4623-812f-17a7857d4358.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_054cf981-f668-4aae-bc44-bcca916bc381.jpg?s=1024</url></image>
-    <image><url>https://live.dealer-asset.co/images/no1099/stockvehicles/1210101_1f40c389-9921-4ed4-b546-9cca96cf1d4b.jpg?s=1024</url></image>
-    <make>Ford</make>
-    <model>Transit E-Transit 425</model>
-    <year>2023</year>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <address format="simple">
-      <component name="addr1">Strømsveien 183 Alnabru</component>
-      <component name="city">Oslo</component>
-      <component name="region">Oslo</component>
-      <component name="postal_code">0664</component>
-      <component name="country">Norway</component>
-    </address>
-    <dealer_name>Oslo</dealer_name>
-    <price>1290000 NOK</price>
-    <mileage>
-      <unit>KM</unit>
-      <value>3000</value>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>AUTOMATIC</transmission>
-    <fuel_type>ELECTRIC</fuel_type>
-    <exterior_color>Hvit</exterior_color>
-    <vin>WF0EXXTTRBNM07036</vin>
   </listing>
   <listing>
     <vehicle_id>1212052</vehicle_id>
@@ -7887,7 +7926,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>1349900 NOK</price>
+    <price>1349900</price>
     <mileage>
       <unit>KM</unit>
       <value>61900</value>
@@ -7925,7 +7964,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>1390000 NOK</price>
+    <price>1390000</price>
     <mileage>
       <unit>KM</unit>
       <value>41000</value>
@@ -7963,7 +8002,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Asker og Bærum</dealer_name>
-    <price>1399900 NOK</price>
+    <price>1399900</price>
     <mileage>
       <unit>KM</unit>
       <value>27690</value>
@@ -8001,7 +8040,7 @@
       <component name="country">Norway</component>
     </address>
     <dealer_name>Lierstranda</dealer_name>
-    <price>6500000 NOK</price>
+    <price>6500000</price>
     <mileage>
       <unit>KM</unit>
       <value>8830</value>
