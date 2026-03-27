@@ -12676,3 +12676,10 @@ Successfully scraped: 217/217 vehicles
 2026-03-27 12:13:16,760 [INFO] ✅ Meta feed saved to: rohneselmer_feed_meta.xml
 2026-03-27 12:13:16,760 [INFO]    Total items: 217
 2026-03-27 12:13:16,760 [INFO] ============================================================
+2026-03-27 11:59:41,426 [INFO] ============================================================
+2026-03-27 11:59:41,426 [INFO] Feed generation started: 2026-03-27 11:59:41.426112
+2026-03-27 11:59:41,426 [INFO] ============================================================
+2026-03-27 11:59:41,426 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-03-27 11:59:41,835 [ERROR] Error reading sitemap 1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-03-27 11:59:41,835 [INFO] Total vehicle URLs found: 0
+2026-03-27 11:59:41,836 [ERROR] No vehicle URLs found. Exiting.
