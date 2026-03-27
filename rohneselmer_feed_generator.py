@@ -646,9 +646,9 @@ def build_meta_feed(vehicles):
         lines.append(f'    <url>{esc(v["url"])}</url>')
 
         if v["main_image"]:
-            lines.append(f'    <image_link>{esc(v["main_image"])}</image_link>')
+            lines.append(f'    <image><url>{esc(v["main_image"])}</url></image>')
         for img in v["extra_images"][:9]:
-            lines.append(f'    <additional_image_link>{esc(img)}</additional_image_link>')
+            lines.append(f'    <image><url>{esc(img)}</url></image>')
 
         lines.append(f'    <make>{esc(v["brand"])}</make>')
         lines.append(f'    <model>{esc(v["model"])}</model>')
