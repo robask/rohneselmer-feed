@@ -378,14 +378,14 @@ def scrape_vehicle(url):
     price_raw = extract_price(soup)
     price = price_raw if price_raw else "0"
 
-    # Images — use images[3] as main (third additional image, no graphics overlay)
+    # Images — use images[1] as main (second image, no graphics overlay)
     images = extract_images(soup, BASE_URL)
-    if len(images) >= 4:
-        main_image = images[3]
-        extra_images = [img for i, img in enumerate(images) if i != 3]
+    if len(images) >= 2:
+        main_image = images[1]
+        extra_images = [img for i, img in enumerate(images) if i != 1]
     elif images:
         main_image = images[0]
-        extra_images = images[1:]
+        extra_images = []
     else:
         main_image = None
         extra_images = []
@@ -646,9 +646,9 @@ def build_meta_feed(vehicles):
         lines.append(f'    <url>{esc(v["url"])}</url>')
 
         if v["main_image"]:
-            lines.append(f'    <image><url>{esc(v["main_image"])}</url></image>')
+            lines.append(f'    <image_link>{esc(v["main_image"])}</image_link>')
         for img in v["extra_images"][:9]:
-            lines.append(f'    <image><url>{esc(img)}</url></image>')
+            lines.append(f'    <additional_image_link>{esc(img)}</additional_image_link>')
 
         lines.append(f'    <make>{esc(v["brand"])}</make>')
         lines.append(f'    <model>{esc(v["model"])}</model>')
