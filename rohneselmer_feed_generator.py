@@ -381,7 +381,7 @@ def scrape_vehicle(url):
     # Images — use images[1] as main (second image, no graphics overlay)
     images = extract_images(soup, BASE_URL)
     if len(images) >= 2:
-        main_image = images[1]
+        main_image = images[2] if len(images) >= 3 else (images[0] if images else None)
         extra_images = [img for i, img in enumerate(images) if i != 1]
     elif images:
         main_image = images[0]
