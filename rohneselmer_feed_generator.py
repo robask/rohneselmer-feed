@@ -654,6 +654,7 @@ def build_meta_feed(vehicles):
         lines.append(f'    <model>{esc(v["model"])}</model>')
         lines.append(f'    <year>{esc(v["year"])}</year>')
         lines.append(f'    <state_of_vehicle>USED</state_of_vehicle>')
+        lines.append(f'    <availability>in stock</availability>')
         lines.append(f'    <address format="simple">')
         lines.append(f'      <component name="addr1">{esc(v["dealer_street"])}</component>')
         lines.append(f'      <component name="city">{esc(v["dealer_city"])}</component>')
