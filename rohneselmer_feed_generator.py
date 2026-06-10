@@ -37,9 +37,9 @@ from datetime import datetime
 # ── CONFIG ────────────────────────────────────────────────
 BASE_URL        = "https://www.rohneselmer.no"
 SITEMAP_BASE    = "https://www.rohneselmer.no/sitemap-vehicle-stock-{}.xml"
-MAX_SITEMAPS    = 20        # Will stop early if sitemap not found
+MAX_SITEMAPS    = 100        # Will stop early if sitemap not found
 OUTPUT_FILE     = "rohneselmer_feed.xml"
-DELAY_SECONDS   = 1.5      # Be polite — pause between requests
+DELAY_SECONDS    = 5      # Be polite — pause between requests
 LOG_FILE        = "feed_generator.log"
 # ─────────────────────────────────────────────────────────
 
@@ -54,11 +54,35 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "nb-NO,nb;q=0.9,no;q=0.8",
+    "User-Agent": "Amidays-FeedBot/1.0 (feed@amidays.com)",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "nb-NO,nb;q=0.9,no;q=0.8,en-US;q=0.7,en;q=0.6",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Cache-Control": "max-age=0",
+    "sec-ch-ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"macOS"',
 }
+
+def make_session():
+    """Create a requests session that mimics a real browser."""
+    import requests as req
+    session = req.Session()
+    session.headers.update(HEADERS)
+    # Visit homepage first to get cookies
+    try:
+        session.get("https://www.rohneselmer.no", timeout=15)
+    except Exception:
+        pass
+    return session
+
+SESSION = make_session()
 
 
 # ══════════════════════════════════════════════════════════
@@ -72,7 +96,7 @@ def get_all_vehicle_urls():
         sitemap_url = SITEMAP_BASE.format(i)
         log.info(f"Reading sitemap: {sitemap_url}")
         try:
-            r = requests.get(sitemap_url, headers=HEADERS, timeout=15)
+            r = SESSION.get(sitemap_url, timeout=15)
             if r.status_code == 404:
                 log.info(f"Sitemap {i} not found — stopping.")
                 break
@@ -335,7 +359,7 @@ def extract_description(soup, fallback_title):
 def scrape_vehicle(url):
     """Scrape all available data from a car listing page."""
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20)
+        r = SESSION.get(url, timeout=20)
         r.raise_for_status()
     except Exception as e:
         log.error(f"Failed to fetch {url}: {e}")

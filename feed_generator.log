@@ -13616,3 +13616,331 @@ Successfully scraped: 207/207 vehicles
 2026-04-01 11:31:45,707 [INFO] ✅ Meta feed saved to: rohneselmer_feed_meta.xml
 2026-04-01 11:31:45,707 [INFO]    Total items: 207
 2026-04-01 11:31:45,707 [INFO] ============================================================
+2026-05-27 12:27:56,700 [INFO] ============================================================
+2026-05-27 12:27:56,700 [INFO] Feed generation started: 2026-05-27 12:27:56.700313
+2026-05-27 12:27:56,700 [INFO] ============================================================
+2026-05-27 12:27:56,700 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-05-27 12:27:56,994 [INFO]   Found 12 vehicles in sitemap 1
+2026-05-27 12:27:57,497 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-2.xml
+2026-05-27 12:27:57,831 [INFO]   Found 12 vehicles in sitemap 2
+2026-05-27 12:27:58,336 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-3.xml
+2026-05-27 12:27:58,603 [INFO]   Found 12 vehicles in sitemap 3
+2026-05-27 12:27:59,105 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-4.xml
+2026-05-27 12:27:59,402 [INFO]   Found 12 vehicles in sitemap 4
+2026-05-27 12:27:59,907 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-5.xml
+2026-05-27 12:28:00,177 [INFO]   Found 12 vehicles in sitemap 5
+2026-05-27 12:28:00,682 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-6.xml
+2026-05-27 12:28:01,298 [INFO]   Found 12 vehicles in sitemap 6
+2026-05-27 12:28:01,803 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-7.xml
+2026-05-27 12:28:02,095 [INFO]   Found 12 vehicles in sitemap 7
+2026-05-27 12:28:02,597 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-8.xml
+2026-05-27 12:28:03,178 [INFO]   Found 12 vehicles in sitemap 8
+2026-05-27 12:28:03,683 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-9.xml
+2026-05-27 12:28:03,949 [INFO]   Found 12 vehicles in sitemap 9
+2026-05-27 12:28:04,454 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-10.xml
+2026-05-27 12:28:04,695 [INFO]   Found 12 vehicles in sitemap 10
+2026-05-27 12:28:05,196 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-11.xml
+2026-05-27 12:28:05,458 [INFO]   Found 12 vehicles in sitemap 11
+2026-05-27 12:28:05,963 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-12.xml
+2026-05-27 12:28:06,264 [INFO]   Found 12 vehicles in sitemap 12
+2026-05-27 12:28:06,768 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-13.xml
+2026-05-27 12:28:07,134 [INFO]   Found 12 vehicles in sitemap 13
+2026-05-27 12:28:07,639 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-14.xml
+2026-05-27 12:28:07,874 [INFO]   Found 12 vehicles in sitemap 14
+2026-05-27 12:28:08,380 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-15.xml
+2026-05-27 12:28:08,664 [INFO]   Found 12 vehicles in sitemap 15
+2026-05-27 12:28:09,168 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-16.xml
+2026-05-27 12:28:09,388 [INFO]   Found 12 vehicles in sitemap 16
+2026-05-27 12:28:09,893 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-17.xml
+2026-05-27 12:28:10,153 [INFO]   Found 12 vehicles in sitemap 17
+2026-05-27 12:28:10,658 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-18.xml
+2026-05-27 12:28:10,936 [INFO]   Found 12 vehicles in sitemap 18
+2026-05-27 12:28:11,441 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-19.xml
+2026-05-27 12:28:11,717 [INFO]   Found 12 vehicles in sitemap 19
+2026-05-27 12:28:12,218 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-20.xml
+2026-05-27 12:28:12,512 [INFO]   Found 12 vehicles in sitemap 20
+2026-05-27 12:28:13,018 [INFO] Total vehicle URLs found: 240
+2026-05-27 12:28:13,020 [INFO] [1/240] Scraping: https://www.rohneselmer.no/biler/lager/1214880/1099/suzuki-grand-vitara-2-0-dohc-16v-vvt-4wd
+2026-05-27 12:28:15,331 [INFO]   ✓ 2005 Suzuki Grand Vitara 2.0 DOHC 16V VVT 4WD | 39900
+2026-05-27 12:28:16,836 [INFO] [2/240] Scraping: https://www.rohneselmer.no/biler/lager/1214411/1099/ford-mondeo-1-6-ecoboost
+2026-05-27 12:28:18,920 [INFO]   ✓ 2014 Ford Mondeo 1.6 EcoBoost | 84900
+2026-05-27 12:28:20,425 [INFO] [3/240] Scraping: https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd
+2026-05-27 12:28:22,578 [INFO]   ✓ 2013 Ford Kuga 2.0 TDCi AWD | 99900
+2026-05-27 12:28:24,082 [INFO] [4/240] Scraping: https://www.rohneselmer.no/biler/lager/1214668/1099/skoda-rapid-1-0-tsi
+2026-05-27 12:28:26,245 [INFO]   ✓ 2018 Škoda Rapid 1.0 TSI | 129900
+2026-05-27 12:28:27,750 [INFO] [5/240] Scraping: https://www.rohneselmer.no/biler/lager/1214451/1099/mazda-3-2-0-skyactiv-g
+2026-05-27 12:28:29,924 [INFO]   ✓ 2014 Mazda 3 2.0 SKYACTIV-G | 139900
+2026-05-27 12:28:31,429 [INFO] [6/240] Scraping: https://www.rohneselmer.no/biler/lager/1213642/1099/nissan-leaf-leaf
+2026-05-27 12:28:33,458 [INFO]   ✓ 2022 Nissan Leaf Leaf | 139900
+2026-05-27 12:28:34,966 [INFO] [7/240] Scraping: https://www.rohneselmer.no/biler/lager/1214528/1099/peugeot-208-e-208
+2026-05-27 12:28:36,991 [INFO]   ✓ 2021 Peugeot 208 e-208 | 144900
+2026-05-27 12:28:38,496 [INFO] [8/240] Scraping: https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense
+2026-05-27 12:28:40,625 [INFO]   ✓ 2019 DS 3 Crossback 3 Crossback E-TENSE | 148000
+2026-05-27 12:28:42,126 [INFO] [9/240] Scraping: https://www.rohneselmer.no/biler/lager/1213689/1099/nissan-nv200-e-nv200-combi
+2026-05-27 12:28:44,151 [INFO]   ✓ 2020 Nissan NV200 e-NV200 Combi | 149900
+2026-05-27 12:28:45,657 [INFO] [10/240] Scraping: https://www.rohneselmer.no/biler/lager/1214034/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:28:47,920 [INFO]   ✓ 2021 Mazda MX-30 MX-30 e-Skyactiv EV | 149900
+2026-05-27 12:28:49,425 [INFO] [11/240] Scraping: https://www.rohneselmer.no/biler/lager/1213322/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:28:51,700 [INFO]   ✓ 2017 Mitsubishi Outlander Outlander PHEV | 154900
+2026-05-27 12:28:53,205 [INFO] [12/240] Scraping: https://www.rohneselmer.no/biler/lager/1214388/1099/ford-focus-1-0-ecoboost
+2026-05-27 12:28:55,187 [INFO]   ✓ 2020 Ford Focus 1.0 EcoBoost | 159000
+2026-05-27 12:28:56,692 [INFO] [13/240] Scraping: https://www.rohneselmer.no/biler/lager/1214905/1099/toyota-c-hr-c-hr-hybrid
+2026-05-27 12:28:58,751 [INFO]   ✓ 2017 Toyota C-HR C-HR Hybrid | 159000
+2026-05-27 12:29:00,257 [INFO] [14/240] Scraping: https://www.rohneselmer.no/biler/lager/1213620/1099/kia-ceed-1-0-t-gdi
+2026-05-27 12:29:02,306 [INFO]   ✓ 2020 Kia Ceed 1.0 T-GDI | 164000
+2026-05-27 12:29:03,812 [INFO] [15/240] Scraping: https://www.rohneselmer.no/biler/lager/1214623/1099/nissan-leaf-leaf-e
+2026-05-27 12:29:05,900 [INFO]   ✓ 2021 Nissan Leaf Leaf e+ | 169900
+2026-05-27 12:29:07,404 [INFO] [16/240] Scraping: https://www.rohneselmer.no/biler/lager/1214839/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:29:09,591 [INFO]   ✓ 2018 Mitsubishi Outlander Outlander PHEV | 169900
+2026-05-27 12:29:11,097 [INFO] [17/240] Scraping: https://www.rohneselmer.no/biler/lager/1214294/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:29:13,182 [INFO]   ✓ 2024 Mazda MX-30 MX-30 e-Skyactiv EV | 174900
+2026-05-27 12:29:14,687 [INFO] [18/240] Scraping: https://www.rohneselmer.no/biler/lager/1213447/1099/mercedes-benz-vito-vito-116-cdi-4matic-3-2t
+2026-05-27 12:29:16,606 [INFO]   ✓ 2017 Mercedes-Benz Vito Vito 116 CDI 4MATIC 3.2t | 177900
+2026-05-27 12:29:18,111 [INFO] [19/240] Scraping: https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r
+2026-05-27 12:29:20,061 [INFO]   ✓ 2022 MG Marvel R Marvel R | 179900
+2026-05-27 12:29:21,566 [INFO] [20/240] Scraping: https://www.rohneselmer.no/biler/lager/1214837/1099/mazda-cx-5-2-0-skyactiv-g-awd
+2026-05-27 12:29:23,713 [INFO]   ✓ 2015 Mazda CX-5 2.0 SKYACTIV-G AWD | 179900
+2026-05-27 12:29:25,219 [INFO] [21/240] Scraping: https://www.rohneselmer.no/biler/lager/1214877/1099/kia-niro-niro-p-hev
+2026-05-27 12:29:27,411 [INFO]   ✓ 2018 Kia Niro Niro P-HEV | 179900
+2026-05-27 12:29:28,917 [INFO] [22/240] Scraping: https://www.rohneselmer.no/biler/lager/1214410/1099/bmw-x3-x3-xdrive20d
+2026-05-27 12:29:31,256 [INFO]   ✓ 2015 BMW X3 X3 xDrive20d | 179900
+2026-05-27 12:29:32,762 [INFO] [23/240] Scraping: https://www.rohneselmer.no/biler/lager/1214567/1099/audi-a6-2-0-tdi-quattro
+2026-05-27 12:32:04,997 [INFO] ============================================================
+2026-05-27 12:32:04,997 [INFO] Feed generation started: 2026-05-27 12:32:04.997983
+2026-05-27 12:32:04,998 [INFO] ============================================================
+2026-05-27 12:32:04,998 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-05-27 12:32:05,079 [INFO]   Found 12 vehicles in sitemap 1
+2026-05-27 12:32:05,584 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-2.xml
+2026-05-27 12:32:05,686 [INFO]   Found 12 vehicles in sitemap 2
+2026-05-27 12:32:06,191 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-3.xml
+2026-05-27 12:32:06,342 [INFO]   Found 12 vehicles in sitemap 3
+2026-05-27 12:32:06,847 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-4.xml
+2026-05-27 12:32:06,937 [INFO]   Found 12 vehicles in sitemap 4
+2026-05-27 12:32:07,441 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-5.xml
+2026-05-27 12:32:07,532 [INFO]   Found 12 vehicles in sitemap 5
+2026-05-27 12:32:08,037 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-6.xml
+2026-05-27 12:32:08,125 [INFO]   Found 12 vehicles in sitemap 6
+2026-05-27 12:32:08,628 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-7.xml
+2026-05-27 12:32:08,725 [INFO]   Found 12 vehicles in sitemap 7
+2026-05-27 12:32:09,230 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-8.xml
+2026-05-27 12:32:09,322 [INFO]   Found 12 vehicles in sitemap 8
+2026-05-27 12:32:09,823 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-9.xml
+2026-05-27 12:32:09,898 [INFO]   Found 12 vehicles in sitemap 9
+2026-05-27 12:32:10,403 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-10.xml
+2026-05-27 12:32:10,573 [INFO]   Found 12 vehicles in sitemap 10
+2026-05-27 12:32:11,078 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-11.xml
+2026-05-27 12:32:11,171 [INFO]   Found 12 vehicles in sitemap 11
+2026-05-27 12:32:11,676 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-12.xml
+2026-05-27 12:32:11,738 [INFO]   Found 12 vehicles in sitemap 12
+2026-05-27 12:32:12,243 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-13.xml
+2026-05-27 12:32:12,339 [INFO]   Found 12 vehicles in sitemap 13
+2026-05-27 12:32:12,844 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-14.xml
+2026-05-27 12:32:12,931 [INFO]   Found 12 vehicles in sitemap 14
+2026-05-27 12:32:13,436 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-15.xml
+2026-05-27 12:32:13,501 [INFO]   Found 12 vehicles in sitemap 15
+2026-05-27 12:32:14,006 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-16.xml
+2026-05-27 12:32:14,077 [INFO]   Found 12 vehicles in sitemap 16
+2026-05-27 12:32:14,582 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-17.xml
+2026-05-27 12:32:14,731 [INFO]   Found 12 vehicles in sitemap 17
+2026-05-27 12:32:15,236 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-18.xml
+2026-05-27 12:32:15,314 [INFO]   Found 12 vehicles in sitemap 18
+2026-05-27 12:32:15,819 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-19.xml
+2026-05-27 12:32:15,890 [INFO]   Found 12 vehicles in sitemap 19
+2026-05-27 12:32:16,395 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-20.xml
+2026-05-27 12:32:16,482 [INFO]   Found 12 vehicles in sitemap 20
+2026-05-27 12:32:16,986 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-21.xml
+2026-05-27 12:32:17,055 [INFO]   Found 12 vehicles in sitemap 21
+2026-05-27 12:32:17,560 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-22.xml
+2026-05-27 12:32:17,649 [INFO]   Found 4 vehicles in sitemap 22
+2026-05-27 12:32:18,152 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-23.xml
+2026-05-27 12:32:18,236 [INFO]   Found 0 vehicles in sitemap 23
+2026-05-27 12:32:18,742 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-24.xml
+2026-05-27 12:32:18,812 [INFO]   Found 0 vehicles in sitemap 24
+2026-05-27 12:32:19,317 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-25.xml
+2026-05-27 12:32:19,503 [INFO]   Found 0 vehicles in sitemap 25
+2026-05-27 12:32:20,007 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-26.xml
+2026-05-27 12:32:20,097 [INFO]   Found 0 vehicles in sitemap 26
+2026-05-27 12:32:20,602 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-27.xml
+2026-05-27 12:32:20,683 [INFO]   Found 0 vehicles in sitemap 27
+2026-05-27 12:32:21,189 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-28.xml
+2026-05-27 12:32:21,275 [INFO]   Found 0 vehicles in sitemap 28
+2026-05-27 12:32:21,778 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-29.xml
+2026-05-27 12:32:21,854 [INFO]   Found 0 vehicles in sitemap 29
+2026-05-27 12:32:22,359 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-30.xml
+2026-05-27 12:32:22,441 [INFO]   Found 0 vehicles in sitemap 30
+2026-05-27 12:32:22,947 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-31.xml
+2026-05-27 12:32:23,162 [INFO]   Found 0 vehicles in sitemap 31
+2026-05-27 12:32:23,666 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-32.xml
+2026-05-27 12:32:23,878 [INFO]   Found 0 vehicles in sitemap 32
+2026-05-27 12:32:24,383 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-33.xml
+2026-05-27 12:32:24,693 [INFO]   Found 0 vehicles in sitemap 33
+2026-05-27 12:32:25,198 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-34.xml
+2026-05-27 12:32:25,427 [INFO]   Found 0 vehicles in sitemap 34
+2026-05-27 12:32:25,932 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-35.xml
+2026-05-27 12:32:26,144 [INFO]   Found 0 vehicles in sitemap 35
+2026-05-27 12:32:26,649 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-36.xml
+2026-05-27 12:32:27,027 [INFO]   Found 0 vehicles in sitemap 36
+2026-05-27 12:32:27,532 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-37.xml
+2026-05-27 12:32:27,738 [INFO]   Found 0 vehicles in sitemap 37
+2026-05-27 12:32:28,241 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-38.xml
+2026-05-27 12:32:28,518 [INFO]   Found 0 vehicles in sitemap 38
+2026-05-27 12:32:29,021 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-39.xml
+2026-05-27 12:32:29,249 [INFO]   Found 0 vehicles in sitemap 39
+2026-05-27 12:32:29,755 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-40.xml
+2026-05-27 12:32:29,944 [INFO]   Found 0 vehicles in sitemap 40
+2026-05-27 12:32:30,450 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-41.xml
+2026-05-27 12:32:30,684 [INFO]   Found 0 vehicles in sitemap 41
+2026-05-27 12:32:31,190 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-42.xml
+2026-05-27 12:32:31,507 [INFO]   Found 0 vehicles in sitemap 42
+2026-05-27 12:32:32,012 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-43.xml
+2026-05-27 12:32:32,253 [INFO]   Found 0 vehicles in sitemap 43
+2026-05-27 12:32:32,754 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-44.xml
+2026-05-27 12:32:32,985 [INFO]   Found 0 vehicles in sitemap 44
+2026-05-27 12:32:33,487 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-45.xml
+2026-05-27 12:32:33,754 [INFO]   Found 0 vehicles in sitemap 45
+2026-05-27 12:32:34,259 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-46.xml
+2026-05-27 12:32:34,454 [INFO]   Found 0 vehicles in sitemap 46
+2026-05-27 12:32:34,959 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-47.xml
+2026-05-27 12:32:35,177 [INFO]   Found 0 vehicles in sitemap 47
+2026-05-27 12:32:35,682 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-48.xml
+2026-05-27 12:32:35,915 [INFO]   Found 0 vehicles in sitemap 48
+2026-05-27 12:32:36,420 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-49.xml
+2026-05-27 12:32:36,647 [INFO]   Found 0 vehicles in sitemap 49
+2026-05-27 12:32:37,153 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-50.xml
+2026-05-27 12:32:37,419 [INFO]   Found 0 vehicles in sitemap 50
+2026-05-27 12:32:37,924 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-51.xml
+2026-05-27 12:32:38,011 [ERROR] Error reading sitemap 51: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-51.xml
+2026-05-27 12:32:38,011 [INFO] Total vehicle URLs found: 256
+2026-05-27 12:32:38,012 [INFO] [1/256] Scraping: https://www.rohneselmer.no/biler/lager/1214880/1099/suzuki-grand-vitara-2-0-dohc-16v-vvt-4wd
+2026-05-27 12:32:38,081 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214880/1099/suzuki-grand-vitara-2-0-dohc-16v-vvt-4wd: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214880/1099/suzuki-grand-vitara-2-0-dohc-16v-vvt-4wd
+2026-05-27 12:32:38,082 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214880/1099/suzuki-grand-vitara-2-0-dohc-16v-vvt-4wd
+2026-05-27 12:32:39,587 [INFO] [2/256] Scraping: https://www.rohneselmer.no/biler/lager/1214411/1099/ford-mondeo-1-6-ecoboost
+2026-05-27 12:32:39,659 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214411/1099/ford-mondeo-1-6-ecoboost: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214411/1099/ford-mondeo-1-6-ecoboost
+2026-05-27 12:32:39,660 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214411/1099/ford-mondeo-1-6-ecoboost
+2026-05-27 12:32:41,165 [INFO] [3/256] Scraping: https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd
+2026-05-27 12:32:41,234 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd
+2026-05-27 12:32:41,235 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1210405/1099/ford-kuga-2-0-tdci-awd
+2026-05-27 12:32:42,740 [INFO] [4/256] Scraping: https://www.rohneselmer.no/biler/lager/1214668/1099/skoda-rapid-1-0-tsi
+2026-05-27 12:32:42,831 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214668/1099/skoda-rapid-1-0-tsi: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214668/1099/skoda-rapid-1-0-tsi
+2026-05-27 12:32:42,832 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214668/1099/skoda-rapid-1-0-tsi
+2026-05-27 12:32:44,333 [INFO] [5/256] Scraping: https://www.rohneselmer.no/biler/lager/1214451/1099/mazda-3-2-0-skyactiv-g
+2026-05-27 12:32:44,394 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214451/1099/mazda-3-2-0-skyactiv-g: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214451/1099/mazda-3-2-0-skyactiv-g
+2026-05-27 12:32:44,395 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214451/1099/mazda-3-2-0-skyactiv-g
+2026-05-27 12:32:45,900 [INFO] [6/256] Scraping: https://www.rohneselmer.no/biler/lager/1213642/1099/nissan-leaf-leaf
+2026-05-27 12:32:45,968 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213642/1099/nissan-leaf-leaf: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213642/1099/nissan-leaf-leaf
+2026-05-27 12:32:45,969 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213642/1099/nissan-leaf-leaf
+2026-05-27 12:32:47,474 [INFO] [7/256] Scraping: https://www.rohneselmer.no/biler/lager/1214528/1099/peugeot-208-e-208
+2026-05-27 12:32:47,571 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214528/1099/peugeot-208-e-208: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214528/1099/peugeot-208-e-208
+2026-05-27 12:32:47,573 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214528/1099/peugeot-208-e-208
+2026-05-27 12:32:49,078 [INFO] [8/256] Scraping: https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense
+2026-05-27 12:32:49,155 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense
+2026-05-27 12:32:49,156 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1211245/1099/ds-3-crossback-3-crossback-e-tense
+2026-05-27 12:32:50,661 [INFO] [9/256] Scraping: https://www.rohneselmer.no/biler/lager/1213689/1099/nissan-nv200-e-nv200-combi
+2026-05-27 12:32:50,741 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213689/1099/nissan-nv200-e-nv200-combi: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213689/1099/nissan-nv200-e-nv200-combi
+2026-05-27 12:32:50,742 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213689/1099/nissan-nv200-e-nv200-combi
+2026-05-27 12:32:52,247 [INFO] [10/256] Scraping: https://www.rohneselmer.no/biler/lager/1214034/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:32:52,335 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214034/1099/mazda-mx-30-mx-30-e-skyactiv-ev: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214034/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:32:52,337 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214034/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:32:53,841 [INFO] [11/256] Scraping: https://www.rohneselmer.no/biler/lager/1213322/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:32:53,924 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213322/1099/mitsubishi-outlander-outlander-phev: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213322/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:32:53,926 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213322/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:32:55,431 [INFO] [12/256] Scraping: https://www.rohneselmer.no/biler/lager/1214388/1099/ford-focus-1-0-ecoboost
+2026-05-27 12:32:55,494 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214388/1099/ford-focus-1-0-ecoboost: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214388/1099/ford-focus-1-0-ecoboost
+2026-05-27 12:32:55,495 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214388/1099/ford-focus-1-0-ecoboost
+2026-05-27 12:32:56,997 [INFO] [13/256] Scraping: https://www.rohneselmer.no/biler/lager/1214905/1099/toyota-c-hr-c-hr-hybrid
+2026-05-27 12:32:57,074 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214905/1099/toyota-c-hr-c-hr-hybrid: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214905/1099/toyota-c-hr-c-hr-hybrid
+2026-05-27 12:32:57,075 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214905/1099/toyota-c-hr-c-hr-hybrid
+2026-05-27 12:32:58,581 [INFO] [14/256] Scraping: https://www.rohneselmer.no/biler/lager/1213620/1099/kia-ceed-1-0-t-gdi
+2026-05-27 12:32:58,646 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213620/1099/kia-ceed-1-0-t-gdi: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213620/1099/kia-ceed-1-0-t-gdi
+2026-05-27 12:32:58,647 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213620/1099/kia-ceed-1-0-t-gdi
+2026-05-27 12:33:00,152 [INFO] [15/256] Scraping: https://www.rohneselmer.no/biler/lager/1214623/1099/nissan-leaf-leaf-e
+2026-05-27 12:33:00,224 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214623/1099/nissan-leaf-leaf-e: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214623/1099/nissan-leaf-leaf-e
+2026-05-27 12:33:00,225 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214623/1099/nissan-leaf-leaf-e
+2026-05-27 12:33:01,729 [INFO] [16/256] Scraping: https://www.rohneselmer.no/biler/lager/1214839/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:33:01,796 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214839/1099/mitsubishi-outlander-outlander-phev: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214839/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:33:01,797 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214839/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:33:03,302 [INFO] [17/256] Scraping: https://www.rohneselmer.no/biler/lager/1214294/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:33:03,365 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214294/1099/mazda-mx-30-mx-30-e-skyactiv-ev: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214294/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:33:03,366 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214294/1099/mazda-mx-30-mx-30-e-skyactiv-ev
+2026-05-27 12:33:04,870 [INFO] [18/256] Scraping: https://www.rohneselmer.no/biler/lager/1213447/1099/mercedes-benz-vito-vito-116-cdi-4matic-3-2t
+2026-05-27 12:33:04,938 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213447/1099/mercedes-benz-vito-vito-116-cdi-4matic-3-2t: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213447/1099/mercedes-benz-vito-vito-116-cdi-4matic-3-2t
+2026-05-27 12:33:04,938 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213447/1099/mercedes-benz-vito-vito-116-cdi-4matic-3-2t
+2026-05-27 12:33:06,443 [INFO] [19/256] Scraping: https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r
+2026-05-27 12:33:06,514 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r
+2026-05-27 12:33:06,515 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1212100/1099/mg-marvel-r-marvel-r
+2026-05-27 12:33:08,020 [INFO] [20/256] Scraping: https://www.rohneselmer.no/biler/lager/1214837/1099/mazda-cx-5-2-0-skyactiv-g-awd
+2026-05-27 12:33:08,086 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214837/1099/mazda-cx-5-2-0-skyactiv-g-awd: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214837/1099/mazda-cx-5-2-0-skyactiv-g-awd
+2026-05-27 12:33:08,087 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214837/1099/mazda-cx-5-2-0-skyactiv-g-awd
+2026-05-27 12:33:09,592 [INFO] [21/256] Scraping: https://www.rohneselmer.no/biler/lager/1214877/1099/kia-niro-niro-p-hev
+2026-05-27 12:33:09,665 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214877/1099/kia-niro-niro-p-hev: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214877/1099/kia-niro-niro-p-hev
+2026-05-27 12:33:09,666 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214877/1099/kia-niro-niro-p-hev
+2026-05-27 12:33:11,170 [INFO] [22/256] Scraping: https://www.rohneselmer.no/biler/lager/1214410/1099/bmw-x3-x3-xdrive20d
+2026-05-27 12:33:11,240 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214410/1099/bmw-x3-x3-xdrive20d: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214410/1099/bmw-x3-x3-xdrive20d
+2026-05-27 12:33:11,240 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214410/1099/bmw-x3-x3-xdrive20d
+2026-05-27 12:33:12,745 [INFO] [23/256] Scraping: https://www.rohneselmer.no/biler/lager/1214567/1099/audi-a6-2-0-tdi-quattro
+2026-05-27 12:33:12,818 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214567/1099/audi-a6-2-0-tdi-quattro: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214567/1099/audi-a6-2-0-tdi-quattro
+2026-05-27 12:33:12,819 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214567/1099/audi-a6-2-0-tdi-quattro
+2026-05-27 12:33:14,324 [INFO] [24/256] Scraping: https://www.rohneselmer.no/biler/lager/1214919/1099/opel-insignia-1-5-turbo
+2026-05-27 12:33:14,391 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214919/1099/opel-insignia-1-5-turbo: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214919/1099/opel-insignia-1-5-turbo
+2026-05-27 12:33:14,392 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214919/1099/opel-insignia-1-5-turbo
+2026-05-27 12:33:15,898 [INFO] [25/256] Scraping: https://www.rohneselmer.no/biler/lager/1210665/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:16,073 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1210665/1099/hyundai-kona-kona-electric-39-2-kwh: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1210665/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:16,075 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1210665/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:17,581 [INFO] [26/256] Scraping: https://www.rohneselmer.no/biler/lager/1214176/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:17,708 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214176/1099/ford-transit-connect-1-5-ecoblue: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214176/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:17,709 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214176/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:19,210 [INFO] [27/256] Scraping: https://www.rohneselmer.no/biler/lager/1214207/1099/peugeot-expert-2-0-bluehdi-150-4x4
+2026-05-27 12:33:19,301 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214207/1099/peugeot-expert-2-0-bluehdi-150-4x4: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214207/1099/peugeot-expert-2-0-bluehdi-150-4x4
+2026-05-27 12:33:19,302 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214207/1099/peugeot-expert-2-0-bluehdi-150-4x4
+2026-05-27 12:33:20,808 [INFO] [28/256] Scraping: https://www.rohneselmer.no/biler/lager/1214306/1099/fiat-500-500e
+2026-05-27 12:33:20,895 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214306/1099/fiat-500-500e: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214306/1099/fiat-500-500e
+2026-05-27 12:33:20,896 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214306/1099/fiat-500-500e
+2026-05-27 12:33:22,398 [INFO] [29/256] Scraping: https://www.rohneselmer.no/biler/lager/1214338/1099/ford-puma-1-0-ecoboost-hybrid
+2026-05-27 12:33:22,480 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214338/1099/ford-puma-1-0-ecoboost-hybrid: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214338/1099/ford-puma-1-0-ecoboost-hybrid
+2026-05-27 12:33:22,480 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214338/1099/ford-puma-1-0-ecoboost-hybrid
+2026-05-27 12:33:23,982 [INFO] [30/256] Scraping: https://www.rohneselmer.no/biler/lager/1214447/1099/ford-ranger-2-2-tdci-4x4
+2026-05-27 12:33:24,064 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214447/1099/ford-ranger-2-2-tdci-4x4: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214447/1099/ford-ranger-2-2-tdci-4x4
+2026-05-27 12:33:24,065 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214447/1099/ford-ranger-2-2-tdci-4x4
+2026-05-27 12:33:25,571 [INFO] [31/256] Scraping: https://www.rohneselmer.no/biler/lager/1214619/1099/mercedes-benz-c-klasse-c-180-t
+2026-05-27 12:33:25,639 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214619/1099/mercedes-benz-c-klasse-c-180-t: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214619/1099/mercedes-benz-c-klasse-c-180-t
+2026-05-27 12:33:25,641 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214619/1099/mercedes-benz-c-klasse-c-180-t
+2026-05-27 12:33:27,146 [INFO] [32/256] Scraping: https://www.rohneselmer.no/biler/lager/1214794/1099/peugeot-partner-e-partner-l1
+2026-05-27 12:33:27,224 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214794/1099/peugeot-partner-e-partner-l1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214794/1099/peugeot-partner-e-partner-l1
+2026-05-27 12:33:27,225 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214794/1099/peugeot-partner-e-partner-l1
+2026-05-27 12:33:28,727 [INFO] [33/256] Scraping: https://www.rohneselmer.no/biler/lager/1213919/1099/bmw-i3-i3-120-ah
+2026-05-27 12:33:28,795 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213919/1099/bmw-i3-i3-120-ah: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213919/1099/bmw-i3-i3-120-ah
+2026-05-27 12:33:28,796 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213919/1099/bmw-i3-i3-120-ah
+2026-05-27 12:33:30,299 [INFO] [34/256] Scraping: https://www.rohneselmer.no/biler/lager/1212802/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:30,382 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1212802/1099/ford-transit-connect-1-5-ecoblue: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1212802/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:30,383 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1212802/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:31,888 [INFO] [35/256] Scraping: https://www.rohneselmer.no/biler/lager/1212179/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-05-27 12:33:31,956 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1212179/1099/ford-mustang-mach-e-mustang-mach-e-long-range: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1212179/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-05-27 12:33:31,956 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1212179/1099/ford-mustang-mach-e-mustang-mach-e-long-range
+2026-05-27 12:33:33,461 [INFO] [36/256] Scraping: https://www.rohneselmer.no/biler/lager/1213621/1099/peugeot-partner-1-5-bluehdi-130
+2026-05-27 12:33:33,520 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213621/1099/peugeot-partner-1-5-bluehdi-130: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213621/1099/peugeot-partner-1-5-bluehdi-130
+2026-05-27 12:33:33,521 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213621/1099/peugeot-partner-1-5-bluehdi-130
+2026-05-27 12:33:35,025 [INFO] [37/256] Scraping: https://www.rohneselmer.no/biler/lager/1213616/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:35,106 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213616/1099/ford-transit-connect-1-5-ecoblue: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213616/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:35,107 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213616/1099/ford-transit-connect-1-5-ecoblue
+2026-05-27 12:33:36,609 [INFO] [38/256] Scraping: https://www.rohneselmer.no/biler/lager/1214622/1099/nissan-leaf-leaf-e
+2026-05-27 12:33:36,664 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214622/1099/nissan-leaf-leaf-e: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214622/1099/nissan-leaf-leaf-e
+2026-05-27 12:33:36,664 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214622/1099/nissan-leaf-leaf-e
+2026-05-27 12:33:38,169 [INFO] [39/256] Scraping: https://www.rohneselmer.no/biler/lager/1214412/1099/toyota-proace-2-0-d-4d-4x4
+2026-05-27 12:33:38,245 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1214412/1099/toyota-proace-2-0-d-4d-4x4: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1214412/1099/toyota-proace-2-0-d-4d-4x4
+2026-05-27 12:33:38,246 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1214412/1099/toyota-proace-2-0-d-4d-4x4
+2026-05-27 12:33:39,751 [INFO] [40/256] Scraping: https://www.rohneselmer.no/biler/lager/1213845/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:39,833 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213845/1099/hyundai-kona-kona-electric-39-2-kwh: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213845/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:39,834 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213845/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:41,339 [INFO] [41/256] Scraping: https://www.rohneselmer.no/biler/lager/1212909/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:33:41,406 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1212909/1099/mitsubishi-outlander-outlander-phev: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1212909/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:33:41,406 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1212909/1099/mitsubishi-outlander-outlander-phev
+2026-05-27 12:33:42,911 [INFO] [42/256] Scraping: https://www.rohneselmer.no/biler/lager/1213986/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:42,999 [ERROR] Failed to fetch https://www.rohneselmer.no/biler/lager/1213986/1099/hyundai-kona-kona-electric-39-2-kwh: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/biler/lager/1213986/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:33:43,000 [WARNING]   ✗ Failed: https://www.rohneselmer.no/biler/lager/1213986/1099/hyundai-kona-kona-electric-39-2-kwh
+2026-05-27 12:35:44,495 [INFO] ============================================================
+2026-05-27 12:35:44,496 [INFO] Feed generation started: 2026-05-27 12:35:44.496023
+2026-05-27 12:35:44,496 [INFO] ============================================================
+2026-05-27 12:35:44,496 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-05-27 12:35:44,555 [ERROR] Error reading sitemap 1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-05-27 12:35:44,555 [INFO] Total vehicle URLs found: 0
+2026-05-27 12:35:44,555 [ERROR] No vehicle URLs found. Exiting.
