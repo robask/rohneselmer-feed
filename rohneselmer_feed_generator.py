@@ -107,7 +107,7 @@ def get_all_vehicle_urls():
                     if "/biler/lager/" in loc.text]
             log.info(f"  Found {len(urls)} vehicles in sitemap {i}")
             all_urls.extend(urls)
-            time.sleep(0.5)
+            time.sleep(5)
         except Exception as e:
             log.error(f"Error reading sitemap {i}: {e}")
             break
