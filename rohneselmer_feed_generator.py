@@ -57,7 +57,7 @@ HEADERS = {
     "User-Agent": "Amidays-FeedBot/1.0 (feed@amidays.com)",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
     "Accept-Language": "nb-NO,nb;q=0.9,no;q=0.8,en-US;q=0.7,en;q=0.6",
-    "Accept-Encoding": "gzip, deflate, br",
+    
     "Connection": "keep-alive",
     "Upgrade-Insecure-Requests": "1",
     "Sec-Fetch-Dest": "document",
