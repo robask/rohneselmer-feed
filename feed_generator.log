@@ -18898,3 +18898,10 @@ Successfully scraped: 249/249 vehicles
 2026-08-20 18:32:24,766 [ERROR] Error reading sitemap 1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
 2026-08-20 18:32:24,766 [INFO] Total vehicle URLs found: 0
 2026-08-20 18:32:24,767 [ERROR] No vehicle URLs found. Exiting.
+2026-08-20 20:22:38,375 [INFO] ============================================================
+2026-08-20 20:22:38,375 [INFO] Feed generation started: 2026-08-20 20:22:38.375937
+2026-08-20 20:22:38,376 [INFO] ============================================================
+2026-08-20 20:22:38,376 [INFO] Reading sitemap: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-08-20 20:22:38,427 [ERROR] Error reading sitemap 1: 403 Client Error: Forbidden for url: https://www.rohneselmer.no/sitemap-vehicle-stock-1.xml
+2026-08-20 20:22:38,427 [INFO] Total vehicle URLs found: 0
+2026-08-20 20:22:38,427 [ERROR] No vehicle URLs found. Exiting.
