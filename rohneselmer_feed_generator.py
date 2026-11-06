@@ -366,6 +366,10 @@ def scrape_vehicle(url):
         return None
 
     soup = BeautifulSoup(r.text, "lxml")
+    canon = soup.find("link", rel="canonical")
+    if canon and "/biler/sok" in (canon.get("href") or ""):
+        log.info("  ↷ Solgt/fjernet (canonical = søk), hopper over")
+        return None
     ld  = extract_json_ld(soup)
     dealer = extract_dealer_address(soup)
 
